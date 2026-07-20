@@ -1,0 +1,13 @@
+{
+  "description": "Pinned corpus: the Swiss Federal Act on Medicinal Products and Medical Devices (Heilmittelgesetz, HMG / SR 812.21; French: Loi sur les produits thérapeutiques, LPTh), consolidated version in force 2025-01-01, fetched from the Fedlex filestore (official federal law portal). One law, multiple official language versions. The date pins the consolidation; if Fedlex publishes a newer consolidation the checksum changes and the corpus version is bumped deliberately.",
+  "captured": "2026-07-19",
+  "law": "SR 812.21 — Bundesgesetz über Arzneimittel und Medizinprodukte (Heilmittelgesetz, HMG)",
+  "short": "HMG",
+  "consolidation_date": "20250101",
+  "base_url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/422",
+  "eli": "https://www.fedlex.admin.ch/eli/cc/2001/422",
+  "languages": {
+    "de": "/20250101/de/html/fedlex-data-admin-ch-eli-cc-2001-422-20250101-de-html-1.html",
+    "fr": "/20250101/fr/html/fedlex-data-admin-ch-eli-cc-2001-422-20250101-fr-html-1.html"
+  }
+}

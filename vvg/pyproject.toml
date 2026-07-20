@@ -1,0 +1,12 @@
+[project]
+name = "legal-eval"
+version = "0.1.0"
+description = "Evaluation harness: fine-tuned Apertus vs. RAG vs. both on Swiss Code of Obligations (OR) article Q&A — base/RAG/fine-tune/combined ablation, deterministic article-citation scoring"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.32",
+    "rank-bm25>=0.2.2",
+]
+
+[tool.uv]
+package = false

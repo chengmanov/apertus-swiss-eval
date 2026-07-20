@@ -1,0 +1,52 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Welche Behörde beaufsichtigt die Anwendung der bundesrechtlichen Datenschutzvorschriften?",
+      "answer_type": "short", "gold": "der EDÖB", "accept": ["EDÖB", "Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter", "der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte"],
+      "gold_article": ["4"], "also_acceptable_article": [],
+      "section": "Aufsichtsbehörde", "topic": "supervision", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Wie viele Jahre beträgt die Amtsdauer der oder des Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten?",
+      "answer_type": "number", "gold": "vier Jahre", "accept": ["4 Jahre", "4", "vier"],
+      "gold_article": ["44"], "also_acceptable_article": [],
+      "section": "EDÖB / Organisation", "topic": "supervision", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Innerhalb welcher Frist teilt der EDÖB dem Verantwortlichen nach einer Konsultation seine Einwände gegen die geplante Bearbeitung mit (ordentliche Frist, ohne Verlängerung)?",
+      "answer_type": "duration", "gold": "zwei Monate", "accept": ["2 Monate", "zwei Monaten", "innerhalb von zwei Monaten", "2"],
+      "gold_article": ["23"], "also_acceptable_article": [],
+      "section": "EDÖB / Konsultation", "topic": "supervision", "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Kann der EDÖB bei einer Verletzung von Datenschutzvorschriften verfügen, dass eine Bearbeitung ganz oder teilweise abgebrochen wird?",
+      "answer_type": "yesno", "gold": "ja", "accept": ["yes"],
+      "gold_article": ["51"], "also_acceptable_article": [],
+      "section": "EDÖB / Verwaltungsmassnahmen", "topic": "supervision", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Eröffnet der EDÖB eine Untersuchung nur auf Anzeige hin, oder kann er dies auch von Amtes wegen tun?",
+      "answer_type": "short", "gold": "von Amtes wegen", "accept": ["von Amtes wegen oder auf Anzeige", "auch von Amtes wegen", "von Amtes wegen und auf Anzeige"],
+      "gold_article": ["49"], "also_acceptable_article": [],
+      "section": "EDÖB / Untersuchung", "topic": "supervision", "difficulty": "applied"
+    }
+  }
+]

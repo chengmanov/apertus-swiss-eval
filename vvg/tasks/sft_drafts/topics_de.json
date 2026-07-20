@@ -1,0 +1,2518 @@
+[
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 5 eingeordnet?",
+  "answer_type": "short",
+  "gold": "2. Abschnitt: Aufklärungspflichten",
+  "accept": [
+   "2. Abschnitt: Aufklärungspflichten",
+   "2. abschnitt: aufklärungspflichten"
+  ],
+  "gold_article": [
+   "5"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 5?",
+  "answer_type": "short",
+  "gold": "2. Abschnitt: Aufklärungspflichten",
+  "accept": [
+   "2. Abschnitt: Aufklärungspflichten",
+   "2. abschnitt: aufklärungspflichten"
+  ],
+  "gold_article": [
+   "5"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 7 eingeordnet?",
+  "answer_type": "short",
+  "gold": "2. Abschnitt: Aufklärungspflichten",
+  "accept": [
+   "2. Abschnitt: Aufklärungspflichten",
+   "2. abschnitt: aufklärungspflichten"
+  ],
+  "gold_article": [
+   "7"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 7?",
+  "answer_type": "short",
+  "gold": "2. Abschnitt: Aufklärungspflichten",
+  "accept": [
+   "2. Abschnitt: Aufklärungspflichten",
+   "2. abschnitt: aufklärungspflichten"
+  ],
+  "gold_article": [
+   "7"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 8 eingeordnet?",
+  "answer_type": "short",
+  "gold": "2. Abschnitt: Aufklärungspflichten",
+  "accept": [
+   "2. Abschnitt: Aufklärungspflichten",
+   "2. abschnitt: aufklärungspflichten"
+  ],
+  "gold_article": [
+   "8"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 8?",
+  "answer_type": "short",
+  "gold": "2. Abschnitt: Aufklärungspflichten",
+  "accept": [
+   "2. Abschnitt: Aufklärungspflichten",
+   "2. abschnitt: aufklärungspflichten"
+  ],
+  "gold_article": [
+   "8"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 9 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+  "accept": [
+   "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+   "3. abschnitt: inhalt und verbindlichkeit des vertrags"
+  ],
+  "gold_article": [
+   "9"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 9?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+  "accept": [
+   "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+   "3. abschnitt: inhalt und verbindlichkeit des vertrags"
+  ],
+  "gold_article": [
+   "9"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 10 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+  "accept": [
+   "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+   "3. abschnitt: inhalt und verbindlichkeit des vertrags"
+  ],
+  "gold_article": [
+   "10"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 10?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+  "accept": [
+   "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+   "3. abschnitt: inhalt und verbindlichkeit des vertrags"
+  ],
+  "gold_article": [
+   "10"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 11 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+  "accept": [
+   "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+   "3. abschnitt: inhalt und verbindlichkeit des vertrags"
+  ],
+  "gold_article": [
+   "11"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 11?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+  "accept": [
+   "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+   "3. abschnitt: inhalt und verbindlichkeit des vertrags"
+  ],
+  "gold_article": [
+   "11"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 13 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+  "accept": [
+   "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+   "3. abschnitt: inhalt und verbindlichkeit des vertrags"
+  ],
+  "gold_article": [
+   "13"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 13?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+  "accept": [
+   "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+   "3. abschnitt: inhalt und verbindlichkeit des vertrags"
+  ],
+  "gold_article": [
+   "13"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 14 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+  "accept": [
+   "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+   "3. abschnitt: inhalt und verbindlichkeit des vertrags"
+  ],
+  "gold_article": [
+   "14"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 14?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+  "accept": [
+   "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+   "3. abschnitt: inhalt und verbindlichkeit des vertrags"
+  ],
+  "gold_article": [
+   "14"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 15 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+  "accept": [
+   "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+   "3. abschnitt: inhalt und verbindlichkeit des vertrags"
+  ],
+  "gold_article": [
+   "15"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 15?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+  "accept": [
+   "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+   "3. abschnitt: inhalt und verbindlichkeit des vertrags"
+  ],
+  "gold_article": [
+   "15"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 16 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+  "accept": [
+   "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+   "3. abschnitt: inhalt und verbindlichkeit des vertrags"
+  ],
+  "gold_article": [
+   "16"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 16?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+  "accept": [
+   "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+   "3. abschnitt: inhalt und verbindlichkeit des vertrags"
+  ],
+  "gold_article": [
+   "16"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 17 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+  "accept": [
+   "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+   "3. abschnitt: inhalt und verbindlichkeit des vertrags"
+  ],
+  "gold_article": [
+   "17"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 17?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+  "accept": [
+   "3. Abschnitt: Inhalt und Verbindlichkeit des Vertrags",
+   "3. abschnitt: inhalt und verbindlichkeit des vertrags"
+  ],
+  "gold_article": [
+   "17"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 19 eingeordnet?",
+  "answer_type": "short",
+  "gold": "4. Abschnitt: Prämie",
+  "accept": [
+   "4. Abschnitt: Prämie",
+   "4. abschnitt: prämie"
+  ],
+  "gold_article": [
+   "19"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 19?",
+  "answer_type": "short",
+  "gold": "4. Abschnitt: Prämie",
+  "accept": [
+   "4. Abschnitt: Prämie",
+   "4. abschnitt: prämie"
+  ],
+  "gold_article": [
+   "19"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 20 eingeordnet?",
+  "answer_type": "short",
+  "gold": "4. Abschnitt: Prämie",
+  "accept": [
+   "4. Abschnitt: Prämie",
+   "4. abschnitt: prämie"
+  ],
+  "gold_article": [
+   "20"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 20?",
+  "answer_type": "short",
+  "gold": "4. Abschnitt: Prämie",
+  "accept": [
+   "4. Abschnitt: Prämie",
+   "4. abschnitt: prämie"
+  ],
+  "gold_article": [
+   "20"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 21 eingeordnet?",
+  "answer_type": "short",
+  "gold": "4. Abschnitt: Prämie",
+  "accept": [
+   "4. Abschnitt: Prämie",
+   "4. abschnitt: prämie"
+  ],
+  "gold_article": [
+   "21"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 21?",
+  "answer_type": "short",
+  "gold": "4. Abschnitt: Prämie",
+  "accept": [
+   "4. Abschnitt: Prämie",
+   "4. abschnitt: prämie"
+  ],
+  "gold_article": [
+   "21"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 22 eingeordnet?",
+  "answer_type": "short",
+  "gold": "4. Abschnitt: Prämie",
+  "accept": [
+   "4. Abschnitt: Prämie",
+   "4. abschnitt: prämie"
+  ],
+  "gold_article": [
+   "22"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 22?",
+  "answer_type": "short",
+  "gold": "4. Abschnitt: Prämie",
+  "accept": [
+   "4. Abschnitt: Prämie",
+   "4. abschnitt: prämie"
+  ],
+  "gold_article": [
+   "22"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 24 eingeordnet?",
+  "answer_type": "short",
+  "gold": "4. Abschnitt: Prämie",
+  "accept": [
+   "4. Abschnitt: Prämie",
+   "4. abschnitt: prämie"
+  ],
+  "gold_article": [
+   "24"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 24?",
+  "answer_type": "short",
+  "gold": "4. Abschnitt: Prämie",
+  "accept": [
+   "4. Abschnitt: Prämie",
+   "4. abschnitt: prämie"
+  ],
+  "gold_article": [
+   "24"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 25 eingeordnet?",
+  "answer_type": "short",
+  "gold": "4. Abschnitt: Prämie",
+  "accept": [
+   "4. Abschnitt: Prämie",
+   "4. abschnitt: prämie"
+  ],
+  "gold_article": [
+   "25"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 25?",
+  "answer_type": "short",
+  "gold": "4. Abschnitt: Prämie",
+  "accept": [
+   "4. Abschnitt: Prämie",
+   "4. abschnitt: prämie"
+  ],
+  "gold_article": [
+   "25"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 28 eingeordnet?",
+  "answer_type": "short",
+  "gold": "5. Abschnitt: Änderung des Vertrags",
+  "accept": [
+   "5. Abschnitt: Änderung des Vertrags",
+   "5. abschnitt: änderung des vertrags"
+  ],
+  "gold_article": [
+   "28"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 28?",
+  "answer_type": "short",
+  "gold": "5. Abschnitt: Änderung des Vertrags",
+  "accept": [
+   "5. Abschnitt: Änderung des Vertrags",
+   "5. abschnitt: änderung des vertrags"
+  ],
+  "gold_article": [
+   "28"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 29 eingeordnet?",
+  "answer_type": "short",
+  "gold": "5. Abschnitt: Änderung des Vertrags",
+  "accept": [
+   "5. Abschnitt: Änderung des Vertrags",
+   "5. abschnitt: änderung des vertrags"
+  ],
+  "gold_article": [
+   "29"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 29?",
+  "answer_type": "short",
+  "gold": "5. Abschnitt: Änderung des Vertrags",
+  "accept": [
+   "5. Abschnitt: Änderung des Vertrags",
+   "5. abschnitt: änderung des vertrags"
+  ],
+  "gold_article": [
+   "29"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 30 eingeordnet?",
+  "answer_type": "short",
+  "gold": "5. Abschnitt: Änderung des Vertrags",
+  "accept": [
+   "5. Abschnitt: Änderung des Vertrags",
+   "5. abschnitt: änderung des vertrags"
+  ],
+  "gold_article": [
+   "30"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 30?",
+  "answer_type": "short",
+  "gold": "5. Abschnitt: Änderung des Vertrags",
+  "accept": [
+   "5. Abschnitt: Änderung des Vertrags",
+   "5. abschnitt: änderung des vertrags"
+  ],
+  "gold_article": [
+   "30"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 31 eingeordnet?",
+  "answer_type": "short",
+  "gold": "5. Abschnitt: Änderung des Vertrags",
+  "accept": [
+   "5. Abschnitt: Änderung des Vertrags",
+   "5. abschnitt: änderung des vertrags"
+  ],
+  "gold_article": [
+   "31"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 31?",
+  "answer_type": "short",
+  "gold": "5. Abschnitt: Änderung des Vertrags",
+  "accept": [
+   "5. Abschnitt: Änderung des Vertrags",
+   "5. abschnitt: änderung des vertrags"
+  ],
+  "gold_article": [
+   "31"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 32 eingeordnet?",
+  "answer_type": "short",
+  "gold": "5. Abschnitt: Änderung des Vertrags",
+  "accept": [
+   "5. Abschnitt: Änderung des Vertrags",
+   "5. abschnitt: änderung des vertrags"
+  ],
+  "gold_article": [
+   "32"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 32?",
+  "answer_type": "short",
+  "gold": "5. Abschnitt: Änderung des Vertrags",
+  "accept": [
+   "5. Abschnitt: Änderung des Vertrags",
+   "5. abschnitt: änderung des vertrags"
+  ],
+  "gold_article": [
+   "32"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 33 eingeordnet?",
+  "answer_type": "short",
+  "gold": "5. Abschnitt: Änderung des Vertrags",
+  "accept": [
+   "5. Abschnitt: Änderung des Vertrags",
+   "5. abschnitt: änderung des vertrags"
+  ],
+  "gold_article": [
+   "33"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 33?",
+  "answer_type": "short",
+  "gold": "5. Abschnitt: Änderung des Vertrags",
+  "accept": [
+   "5. Abschnitt: Änderung des Vertrags",
+   "5. abschnitt: änderung des vertrags"
+  ],
+  "gold_article": [
+   "33"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 34 eingeordnet?",
+  "answer_type": "short",
+  "gold": "5. Abschnitt: Änderung des Vertrags",
+  "accept": [
+   "5. Abschnitt: Änderung des Vertrags",
+   "5. abschnitt: änderung des vertrags"
+  ],
+  "gold_article": [
+   "34"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 34?",
+  "answer_type": "short",
+  "gold": "5. Abschnitt: Änderung des Vertrags",
+  "accept": [
+   "5. Abschnitt: Änderung des Vertrags",
+   "5. abschnitt: änderung des vertrags"
+  ],
+  "gold_article": [
+   "34"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 35 eingeordnet?",
+  "answer_type": "short",
+  "gold": "5. Abschnitt: Änderung des Vertrags",
+  "accept": [
+   "5. Abschnitt: Änderung des Vertrags",
+   "5. abschnitt: änderung des vertrags"
+  ],
+  "gold_article": [
+   "35"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 35?",
+  "answer_type": "short",
+  "gold": "5. Abschnitt: Änderung des Vertrags",
+  "accept": [
+   "5. Abschnitt: Änderung des Vertrags",
+   "5. abschnitt: änderung des vertrags"
+  ],
+  "gold_article": [
+   "35"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 36 eingeordnet?",
+  "answer_type": "short",
+  "gold": "6. Abschnitt: Beendigung des Vertrags",
+  "accept": [
+   "6. Abschnitt: Beendigung des Vertrags",
+   "6. abschnitt: beendigung des vertrags"
+  ],
+  "gold_article": [
+   "36"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 36?",
+  "answer_type": "short",
+  "gold": "6. Abschnitt: Beendigung des Vertrags",
+  "accept": [
+   "6. Abschnitt: Beendigung des Vertrags",
+   "6. abschnitt: beendigung des vertrags"
+  ],
+  "gold_article": [
+   "36"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 37 eingeordnet?",
+  "answer_type": "short",
+  "gold": "6. Abschnitt: Beendigung des Vertrags",
+  "accept": [
+   "6. Abschnitt: Beendigung des Vertrags",
+   "6. abschnitt: beendigung des vertrags"
+  ],
+  "gold_article": [
+   "37"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 37?",
+  "answer_type": "short",
+  "gold": "6. Abschnitt: Beendigung des Vertrags",
+  "accept": [
+   "6. Abschnitt: Beendigung des Vertrags",
+   "6. abschnitt: beendigung des vertrags"
+  ],
+  "gold_article": [
+   "37"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 38 eingeordnet?",
+  "answer_type": "short",
+  "gold": "7. Abschnitt: Eintritt des befürchteten Ereignisses",
+  "accept": [
+   "7. Abschnitt: Eintritt des befürchteten Ereignisses",
+   "7. abschnitt: eintritt des befürchteten ereignisses"
+  ],
+  "gold_article": [
+   "38"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 38?",
+  "answer_type": "short",
+  "gold": "7. Abschnitt: Eintritt des befürchteten Ereignisses",
+  "accept": [
+   "7. Abschnitt: Eintritt des befürchteten Ereignisses",
+   "7. abschnitt: eintritt des befürchteten ereignisses"
+  ],
+  "gold_article": [
+   "38"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 39 eingeordnet?",
+  "answer_type": "short",
+  "gold": "7. Abschnitt: Eintritt des befürchteten Ereignisses",
+  "accept": [
+   "7. Abschnitt: Eintritt des befürchteten Ereignisses",
+   "7. abschnitt: eintritt des befürchteten ereignisses"
+  ],
+  "gold_article": [
+   "39"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 39?",
+  "answer_type": "short",
+  "gold": "7. Abschnitt: Eintritt des befürchteten Ereignisses",
+  "accept": [
+   "7. Abschnitt: Eintritt des befürchteten Ereignisses",
+   "7. abschnitt: eintritt des befürchteten ereignisses"
+  ],
+  "gold_article": [
+   "39"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 41 eingeordnet?",
+  "answer_type": "short",
+  "gold": "7. Abschnitt: Eintritt des befürchteten Ereignisses",
+  "accept": [
+   "7. Abschnitt: Eintritt des befürchteten Ereignisses",
+   "7. abschnitt: eintritt des befürchteten ereignisses"
+  ],
+  "gold_article": [
+   "41"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 41?",
+  "answer_type": "short",
+  "gold": "7. Abschnitt: Eintritt des befürchteten Ereignisses",
+  "accept": [
+   "7. Abschnitt: Eintritt des befürchteten Ereignisses",
+   "7. abschnitt: eintritt des befürchteten ereignisses"
+  ],
+  "gold_article": [
+   "41"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 42 eingeordnet?",
+  "answer_type": "short",
+  "gold": "7. Abschnitt: Eintritt des befürchteten Ereignisses",
+  "accept": [
+   "7. Abschnitt: Eintritt des befürchteten Ereignisses",
+   "7. abschnitt: eintritt des befürchteten ereignisses"
+  ],
+  "gold_article": [
+   "42"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 42?",
+  "answer_type": "short",
+  "gold": "7. Abschnitt: Eintritt des befürchteten Ereignisses",
+  "accept": [
+   "7. Abschnitt: Eintritt des befürchteten Ereignisses",
+   "7. abschnitt: eintritt des befürchteten ereignisses"
+  ],
+  "gold_article": [
+   "42"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 43 eingeordnet?",
+  "answer_type": "short",
+  "gold": "8. Abschnitt: Weitere Bestimmungen",
+  "accept": [
+   "8. Abschnitt: Weitere Bestimmungen",
+   "8. abschnitt: weitere bestimmungen"
+  ],
+  "gold_article": [
+   "43"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 43?",
+  "answer_type": "short",
+  "gold": "8. Abschnitt: Weitere Bestimmungen",
+  "accept": [
+   "8. Abschnitt: Weitere Bestimmungen",
+   "8. abschnitt: weitere bestimmungen"
+  ],
+  "gold_article": [
+   "43"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 44 eingeordnet?",
+  "answer_type": "short",
+  "gold": "8. Abschnitt: Weitere Bestimmungen",
+  "accept": [
+   "8. Abschnitt: Weitere Bestimmungen",
+   "8. abschnitt: weitere bestimmungen"
+  ],
+  "gold_article": [
+   "44"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 44?",
+  "answer_type": "short",
+  "gold": "8. Abschnitt: Weitere Bestimmungen",
+  "accept": [
+   "8. Abschnitt: Weitere Bestimmungen",
+   "8. abschnitt: weitere bestimmungen"
+  ],
+  "gold_article": [
+   "44"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 45 eingeordnet?",
+  "answer_type": "short",
+  "gold": "8. Abschnitt: Weitere Bestimmungen",
+  "accept": [
+   "8. Abschnitt: Weitere Bestimmungen",
+   "8. abschnitt: weitere bestimmungen"
+  ],
+  "gold_article": [
+   "45"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 45?",
+  "answer_type": "short",
+  "gold": "8. Abschnitt: Weitere Bestimmungen",
+  "accept": [
+   "8. Abschnitt: Weitere Bestimmungen",
+   "8. abschnitt: weitere bestimmungen"
+  ],
+  "gold_article": [
+   "45"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 47 eingeordnet?",
+  "answer_type": "short",
+  "gold": "8. Abschnitt: Weitere Bestimmungen",
+  "accept": [
+   "8. Abschnitt: Weitere Bestimmungen",
+   "8. abschnitt: weitere bestimmungen"
+  ],
+  "gold_article": [
+   "47"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 47?",
+  "answer_type": "short",
+  "gold": "8. Abschnitt: Weitere Bestimmungen",
+  "accept": [
+   "8. Abschnitt: Weitere Bestimmungen",
+   "8. abschnitt: weitere bestimmungen"
+  ],
+  "gold_article": [
+   "47"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 48 eingeordnet?",
+  "answer_type": "short",
+  "gold": "1. Abschnitt: Sachversicherung",
+  "accept": [
+   "1. Abschnitt: Sachversicherung",
+   "1. abschnitt: sachversicherung"
+  ],
+  "gold_article": [
+   "48"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 48?",
+  "answer_type": "short",
+  "gold": "1. Abschnitt: Sachversicherung",
+  "accept": [
+   "1. Abschnitt: Sachversicherung",
+   "1. abschnitt: sachversicherung"
+  ],
+  "gold_article": [
+   "48"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 50 eingeordnet?",
+  "answer_type": "short",
+  "gold": "1. Abschnitt: Sachversicherung",
+  "accept": [
+   "1. Abschnitt: Sachversicherung",
+   "1. abschnitt: sachversicherung"
+  ],
+  "gold_article": [
+   "50"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 50?",
+  "answer_type": "short",
+  "gold": "1. Abschnitt: Sachversicherung",
+  "accept": [
+   "1. Abschnitt: Sachversicherung",
+   "1. abschnitt: sachversicherung"
+  ],
+  "gold_article": [
+   "50"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 51 eingeordnet?",
+  "answer_type": "short",
+  "gold": "1. Abschnitt: Sachversicherung",
+  "accept": [
+   "1. Abschnitt: Sachversicherung",
+   "1. abschnitt: sachversicherung"
+  ],
+  "gold_article": [
+   "51"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 51?",
+  "answer_type": "short",
+  "gold": "1. Abschnitt: Sachversicherung",
+  "accept": [
+   "1. Abschnitt: Sachversicherung",
+   "1. abschnitt: sachversicherung"
+  ],
+  "gold_article": [
+   "51"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 52 eingeordnet?",
+  "answer_type": "short",
+  "gold": "1. Abschnitt: Sachversicherung",
+  "accept": [
+   "1. Abschnitt: Sachversicherung",
+   "1. abschnitt: sachversicherung"
+  ],
+  "gold_article": [
+   "52"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 52?",
+  "answer_type": "short",
+  "gold": "1. Abschnitt: Sachversicherung",
+  "accept": [
+   "1. Abschnitt: Sachversicherung",
+   "1. abschnitt: sachversicherung"
+  ],
+  "gold_article": [
+   "52"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 54 eingeordnet?",
+  "answer_type": "short",
+  "gold": "1. Abschnitt: Sachversicherung",
+  "accept": [
+   "1. Abschnitt: Sachversicherung",
+   "1. abschnitt: sachversicherung"
+  ],
+  "gold_article": [
+   "54"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 54?",
+  "answer_type": "short",
+  "gold": "1. Abschnitt: Sachversicherung",
+  "accept": [
+   "1. Abschnitt: Sachversicherung",
+   "1. abschnitt: sachversicherung"
+  ],
+  "gold_article": [
+   "54"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 56 eingeordnet?",
+  "answer_type": "short",
+  "gold": "1. Abschnitt: Sachversicherung",
+  "accept": [
+   "1. Abschnitt: Sachversicherung",
+   "1. abschnitt: sachversicherung"
+  ],
+  "gold_article": [
+   "56"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 56?",
+  "answer_type": "short",
+  "gold": "1. Abschnitt: Sachversicherung",
+  "accept": [
+   "1. Abschnitt: Sachversicherung",
+   "1. abschnitt: sachversicherung"
+  ],
+  "gold_article": [
+   "56"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 57 eingeordnet?",
+  "answer_type": "short",
+  "gold": "1. Abschnitt: Sachversicherung",
+  "accept": [
+   "1. Abschnitt: Sachversicherung",
+   "1. abschnitt: sachversicherung"
+  ],
+  "gold_article": [
+   "57"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 57?",
+  "answer_type": "short",
+  "gold": "1. Abschnitt: Sachversicherung",
+  "accept": [
+   "1. Abschnitt: Sachversicherung",
+   "1. abschnitt: sachversicherung"
+  ],
+  "gold_article": [
+   "57"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 58 eingeordnet?",
+  "answer_type": "short",
+  "gold": "1. Abschnitt: Sachversicherung",
+  "accept": [
+   "1. Abschnitt: Sachversicherung",
+   "1. abschnitt: sachversicherung"
+  ],
+  "gold_article": [
+   "58"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 58?",
+  "answer_type": "short",
+  "gold": "1. Abschnitt: Sachversicherung",
+  "accept": [
+   "1. Abschnitt: Sachversicherung",
+   "1. abschnitt: sachversicherung"
+  ],
+  "gold_article": [
+   "58"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 59 eingeordnet?",
+  "answer_type": "short",
+  "gold": "2. Abschnitt: Haftpflichtversicherung",
+  "accept": [
+   "2. Abschnitt: Haftpflichtversicherung",
+   "2. abschnitt: haftpflichtversicherung"
+  ],
+  "gold_article": [
+   "59"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 59?",
+  "answer_type": "short",
+  "gold": "2. Abschnitt: Haftpflichtversicherung",
+  "accept": [
+   "2. Abschnitt: Haftpflichtversicherung",
+   "2. abschnitt: haftpflichtversicherung"
+  ],
+  "gold_article": [
+   "59"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 60 eingeordnet?",
+  "answer_type": "short",
+  "gold": "2. Abschnitt: Haftpflichtversicherung",
+  "accept": [
+   "2. Abschnitt: Haftpflichtversicherung",
+   "2. abschnitt: haftpflichtversicherung"
+  ],
+  "gold_article": [
+   "60"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 60?",
+  "answer_type": "short",
+  "gold": "2. Abschnitt: Haftpflichtversicherung",
+  "accept": [
+   "2. Abschnitt: Haftpflichtversicherung",
+   "2. abschnitt: haftpflichtversicherung"
+  ],
+  "gold_article": [
+   "60"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 61 eingeordnet?",
+  "answer_type": "short",
+  "gold": "2. Abschnitt: Haftpflichtversicherung",
+  "accept": [
+   "2. Abschnitt: Haftpflichtversicherung",
+   "2. abschnitt: haftpflichtversicherung"
+  ],
+  "gold_article": [
+   "61"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 61?",
+  "answer_type": "short",
+  "gold": "2. Abschnitt: Haftpflichtversicherung",
+  "accept": [
+   "2. Abschnitt: Haftpflichtversicherung",
+   "2. abschnitt: haftpflichtversicherung"
+  ],
+  "gold_article": [
+   "61"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 73 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "73"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 73?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "73"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 74 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "74"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 74?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "74"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 76 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "76"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 76?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "76"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 77 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "77"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 77?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "77"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 78 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "78"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 78?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "78"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 79 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "79"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 79?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "79"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 80 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "80"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 80?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "80"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 81 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "81"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 81?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "81"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 82 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "82"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 82?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "82"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 83 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "83"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 83?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "83"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 84 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "84"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 84?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "84"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 85 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "85"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 85?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "85"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 86 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "86"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 86?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "86"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 87 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "87"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 87?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "87"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 89 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "89"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 89?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "89"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 90 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "90"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 90?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "90"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 91 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "91"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 91?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "91"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 92 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "92"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 92?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "92"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 93 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "93"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 93?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "93"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 94 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "94"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 94?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "94"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 95 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "95"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 95?",
+  "answer_type": "short",
+  "gold": "3. Abschnitt: Lebensversicherung",
+  "accept": [
+   "3. Abschnitt: Lebensversicherung",
+   "3. abschnitt: lebensversicherung"
+  ],
+  "gold_article": [
+   "95"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 96 eingeordnet?",
+  "answer_type": "short",
+  "gold": "5. Abschnitt: Koordination",
+  "accept": [
+   "5. Abschnitt: Koordination",
+   "5. abschnitt: koordination"
+  ],
+  "gold_article": [
+   "96"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 96?",
+  "answer_type": "short",
+  "gold": "5. Abschnitt: Koordination",
+  "accept": [
+   "5. Abschnitt: Koordination",
+   "5. abschnitt: koordination"
+  ],
+  "gold_article": [
+   "96"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 97 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Kapitel: Zwingende Bestimmungen",
+  "accept": [
+   "3. Kapitel: Zwingende Bestimmungen",
+   "3. kapitel: zwingende bestimmungen"
+  ],
+  "gold_article": [
+   "97"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 97?",
+  "answer_type": "short",
+  "gold": "3. Kapitel: Zwingende Bestimmungen",
+  "accept": [
+   "3. Kapitel: Zwingende Bestimmungen",
+   "3. kapitel: zwingende bestimmungen"
+  ],
+  "gold_article": [
+   "97"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 98 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Kapitel: Zwingende Bestimmungen",
+  "accept": [
+   "3. Kapitel: Zwingende Bestimmungen",
+   "3. kapitel: zwingende bestimmungen"
+  ],
+  "gold_article": [
+   "98"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 98?",
+  "answer_type": "short",
+  "gold": "3. Kapitel: Zwingende Bestimmungen",
+  "accept": [
+   "3. Kapitel: Zwingende Bestimmungen",
+   "3. kapitel: zwingende bestimmungen"
+  ],
+  "gold_article": [
+   "98"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 99 eingeordnet?",
+  "answer_type": "short",
+  "gold": "3. Kapitel: Zwingende Bestimmungen",
+  "accept": [
+   "3. Kapitel: Zwingende Bestimmungen",
+   "3. kapitel: zwingende bestimmungen"
+  ],
+  "gold_article": [
+   "99"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 99?",
+  "answer_type": "short",
+  "gold": "3. Kapitel: Zwingende Bestimmungen",
+  "accept": [
+   "3. Kapitel: Zwingende Bestimmungen",
+   "3. kapitel: zwingende bestimmungen"
+  ],
+  "gold_article": [
+   "99"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 100 eingeordnet?",
+  "answer_type": "short",
+  "gold": "4. Kapitel: Schlussbestimmungen",
+  "accept": [
+   "4. Kapitel: Schlussbestimmungen",
+   "4. kapitel: schlussbestimmungen"
+  ],
+  "gold_article": [
+   "100"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 100?",
+  "answer_type": "short",
+  "gold": "4. Kapitel: Schlussbestimmungen",
+  "accept": [
+   "4. Kapitel: Schlussbestimmungen",
+   "4. kapitel: schlussbestimmungen"
+  ],
+  "gold_article": [
+   "100"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 101 eingeordnet?",
+  "answer_type": "short",
+  "gold": "4. Kapitel: Schlussbestimmungen",
+  "accept": [
+   "4. Kapitel: Schlussbestimmungen",
+   "4. kapitel: schlussbestimmungen"
+  ],
+  "gold_article": [
+   "101"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 101?",
+  "answer_type": "short",
+  "gold": "4. Kapitel: Schlussbestimmungen",
+  "accept": [
+   "4. Kapitel: Schlussbestimmungen",
+   "4. kapitel: schlussbestimmungen"
+  ],
+  "gold_article": [
+   "101"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "In welchem thematischen Abschnitt des Versicherungsvertragsgesetzes ist Artikel 103 eingeordnet?",
+  "answer_type": "short",
+  "gold": "4. Kapitel: Schlussbestimmungen",
+  "accept": [
+   "4. Kapitel: Schlussbestimmungen",
+   "4. kapitel: schlussbestimmungen"
+  ],
+  "gold_article": [
+   "103"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "VVG",
+  "question": "Zu welchem Sachbereich des VVG gehört Artikel 103?",
+  "answer_type": "short",
+  "gold": "4. Kapitel: Schlussbestimmungen",
+  "accept": [
+   "4. Kapitel: Schlussbestimmungen",
+   "4. kapitel: schlussbestimmungen"
+  ],
+  "gold_article": [
+   "103"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ }
+]

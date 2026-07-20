@@ -1,0 +1,105 @@
+[
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Un bail à loyer peut-il valablement être conclu sans qu'aucune rémunération ne soit due par le locataire?",
+    "answer_type": "yesno",
+    "gold": "non",
+    "accept": ["non.", "no"],
+    "gold_article": ["253"],
+    "also_acceptable_article": [],
+    "section": "Bail à loyer / Dispositions générales",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Comment la loi qualifie-t-elle un bail qui n'est pas destiné à prendre fin sans congé à l'échéance d'une durée convenue?",
+    "answer_type": "short",
+    "gold": "de durée indéterminée",
+    "accept": ["durée indéterminée", "bail de durée indéterminée", "indéterminée"],
+    "gold_article": ["255"],
+    "also_acceptable_article": [],
+    "section": "Bail à loyer / Dispositions générales",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Une poignée de porte du logement s'est desserrée et relève de l'entretien courant; le locataire doit-il y remédier à ses propres frais selon l'usage local?",
+    "answer_type": "yesno",
+    "gold": "oui",
+    "accept": ["oui.", "yes"],
+    "gold_article": ["259"],
+    "also_acceptable_article": [],
+    "section": "Bail à loyer / Dispositions générales",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Un locataire de local commercial transfère son bail à un tiers avec l'accord écrit du bailleur; pendant combien de temps au maximum reste-t-il solidairement tenu avec le tiers?",
+    "answer_type": "duration",
+    "gold": "deux ans",
+    "accept": ["2 ans", "deux ans au plus", "2 années"],
+    "gold_article": ["263"],
+    "also_acceptable_article": [],
+    "section": "Bail à loyer / Dispositions générales",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Un locataire vient de recevoir son logement et juge le loyer initial abusif; dans quel délai doit-il saisir l'autorité de conciliation pour en demander la diminution?",
+    "answer_type": "duration",
+    "gold": "30 jours",
+    "accept": ["trente jours", "30 j", "dans les 30 jours"],
+    "gold_article": ["270"],
+    "also_acceptable_article": [],
+    "section": "Bail à loyer / Protection contre les loyers abusifs",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Pour quels motifs le bailleur peut-il refuser son consentement à une sous-location?",
+    "answer_type": "list",
+    "gold": [
+      "le locataire refuse de communiquer les conditions de la sous-location",
+      "les conditions de la sous-location sont abusives",
+      "la sous-location présente des inconvénients majeurs pour le bailleur"
+    ],
+    "accept": [
+      ["refus de communiquer les conditions de la sous-location", "conditions abusives", "inconvénients majeurs"],
+      ["le locataire ne communique pas les conditions", "conditions de sous-location abusives", "inconvénients majeurs pour le bailleur"]
+    ],
+    "gold_article": ["262"],
+    "also_acceptable_article": [],
+    "section": "Bail à loyer / Dispositions générales",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Un bailleur a donné le congé sans en indiquer la raison; est-il tenu de le motiver lorsque le locataire l'exige?",
+    "answer_type": "yesno",
+    "gold": "oui",
+    "accept": ["oui.", "yes"],
+    "gold_article": ["271"],
+    "also_acceptable_article": [],
+    "section": "Bail à loyer / Protection contre les congés",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "À la fin du bail, dans quel état le locataire est-il tenu de rendre la chose louée?",
+    "answer_type": "short",
+    "gold": "l'état résultant d'un usage conforme au contrat",
+    "accept": ["état résultant d'un usage conforme au contrat", "usage conforme au contrat", "l'état résultant d'un usage conforme"],
+    "gold_article": ["267"],
+    "also_acceptable_article": [],
+    "section": "Bail à loyer / Dispositions générales",
+    "difficulty": "basic"
+  }
+]

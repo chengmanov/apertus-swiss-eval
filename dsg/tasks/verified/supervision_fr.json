@@ -1,0 +1,32 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr", "law": "DSG",
+      "question": "Combien d'années dure la période de fonction du Préposé fédéral à la protection des données et à la transparence?",
+      "answer_type": "number", "gold": "quatre ans", "accept": ["4 ans", "4", "quatre"],
+      "gold_article": ["44"], "also_acceptable_article": [],
+      "section": "PFPDT / Organisation", "topic": "supervision", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr", "law": "DSG",
+      "question": "Dans quel délai ordinaire (sans prolongation) le PFPDT communique-t-il au responsable du traitement ses objections après une consultation préalable?",
+      "answer_type": "duration", "gold": "deux mois", "accept": ["2 mois", "dans un délai de deux mois", "2"],
+      "gold_article": ["23"], "also_acceptable_article": [],
+      "section": "PFPDT / Consultation", "topic": "supervision", "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr", "law": "DSG",
+      "question": "Quelle autorité surveille l'application des prescriptions fédérales sur la protection des données?",
+      "answer_type": "short", "gold": "le PFPDT", "accept": ["PFPDT", "le Préposé fédéral à la protection des données et à la transparence", "Préposé fédéral"],
+      "gold_article": ["4"], "also_acceptable_article": [],
+      "section": "Autorité de surveillance", "topic": "supervision", "difficulty": "basic"
+    }
+  }
+]

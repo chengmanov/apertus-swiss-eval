@@ -1,0 +1,142 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Un débiteur est-il en principe tenu d'accomplir lui-même sa prestation, indépendamment de tout intérêt du créancier à ce qu'il s'en charge en personne?",
+      "answer_type": "yesno",
+      "gold": "non",
+      "accept": ["no"],
+      "gold_article": ["68"],
+      "also_acceptable_article": [],
+      "section": "Exécution des obligations / Objet de l'obligation",
+      "topic": "performance",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Un créancier dont la créance est liquide et exigible pour le tout peut-il, face à un débiteur qui propose de ne verser qu'une fraction de la somme, écarter ce versement fractionné?",
+      "answer_type": "yesno",
+      "gold": "oui",
+      "accept": ["yes"],
+      "gold_article": ["69"],
+      "also_acceptable_article": [],
+      "section": "Exécution des obligations / Paiement partiel",
+      "topic": "performance",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Un vendeur doit livrer des marchandises déterminées uniquement par leur genre et c'est à lui qu'appartient le choix; quelle est la qualité minimale qu'il ne peut descendre en dessous?",
+      "answer_type": "short",
+      "gold": "la qualité moyenne",
+      "accept": ["qualité moyenne", "de qualité moyenne", "une qualité moyenne", "la moyenne"],
+      "gold_article": ["71"],
+      "also_acceptable_article": [],
+      "section": "Exécution des obligations / Objet de l'obligation",
+      "topic": "performance",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "À quel taux annuel doit-on acquitter des intérêts dus lorsque leur taux n'est fixé ni par la convention, ni par la loi ou l'usage?",
+      "answer_type": "number",
+      "gold": "5 %",
+      "accept": ["5%", "5 pour cent", "cinq pour cent", "5"],
+      "gold_article": ["73"],
+      "also_acceptable_article": [],
+      "section": "Exécution des obligations / Intérêts",
+      "topic": "performance",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Une entreprise doit régler une somme d'argent à son fournisseur, sans que le contrat n'indique où le paiement doit se faire; en quel lieu ce paiement s'opère-t-il en principe?",
+      "answer_type": "short",
+      "gold": "au domicile du créancier",
+      "accept": ["domicile du créancier", "le domicile du créancier", "au lieu du domicile du créancier", "au domicile du fournisseur"],
+      "gold_article": ["74"],
+      "also_acceptable_article": [],
+      "section": "Exécution des obligations / Lieu de l'exécution",
+      "topic": "performance",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Lorsqu'un terme d'exécution est fixé au milieu d'un mois, à quel quantième du mois ce terme correspond-il?",
+      "answer_type": "number",
+      "gold": "15",
+      "accept": ["le 15", "le quinze", "quinze", "le 15 du mois"],
+      "gold_article": ["76"],
+      "also_acceptable_article": [],
+      "section": "Exécution des obligations / Temps de l'exécution",
+      "topic": "performance",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Dans un contrat bilatéral, une partie qui ne bénéficie d'aucun terme peut-elle réclamer l'exécution de l'autre sans avoir elle-même fourni ni proposé sa propre prestation?",
+      "answer_type": "yesno",
+      "gold": "non",
+      "accept": ["no"],
+      "gold_article": ["82"],
+      "also_acceptable_article": [],
+      "section": "Exécution des obligations / Rapport entre les prestations",
+      "topic": "performance",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Dans quels cas le créancier tombe-t-il en demeure au regard de l'exécution de l'obligation?",
+      "answer_type": "list",
+      "gold": [
+        "il refuse sans motif légitime la prestation régulièrement offerte",
+        "il refuse d'accomplir les actes préparatoires qui lui incombent"
+      ],
+      "accept": [
+        [
+          "refus d'accepter la prestation régulièrement offerte",
+          "refus d'accomplir les actes préparatoires lui incombant"
+        ],
+        [
+          "refuser la prestation offerte sans motif légitime",
+          "ne pas accomplir les actes préparatoires nécessaires à l'exécution"
+        ]
+      ],
+      "gold_article": ["91"],
+      "also_acceptable_article": [],
+      "section": "Exécution des obligations / Demeure du créancier",
+      "topic": "performance",
+      "difficulty": "basic"
+    }
+  }
+]

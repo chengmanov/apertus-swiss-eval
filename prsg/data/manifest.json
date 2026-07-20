@@ -1,0 +1,13 @@
+{
+  "description": "Pinned corpus: the Swiss Federal Act on Product Safety (Produktesicherheitsgesetz, PrSG / SR 930.11; French: Loi sur la sécurité des produits, LSPro), consolidated version in force 2023-09-01, fetched from the Fedlex filestore (official federal law portal). One law, multiple official language versions. The date pins the consolidation; a newer consolidation changes the checksum and the corpus version is bumped deliberately.",
+  "captured": "2026-07-20",
+  "law": "SR 930.11 — Bundesgesetz über die Produktesicherheit (Produktesicherheitsgesetz, PrSG)",
+  "short": "PrSG",
+  "consolidation_date": "20230901",
+  "base_url": "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/347",
+  "eli": "https://www.fedlex.admin.ch/eli/cc/2010/347",
+  "languages": {
+    "de": "/20230901/de/html/fedlex-data-admin-ch-eli-cc-2010-347-20230901-de-html-1.html",
+    "fr": "/20230901/fr/html/fedlex-data-admin-ch-eli-cc-2010-347-20230901-fr-html-1.html"
+  }
+}

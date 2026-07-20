@@ -1,0 +1,126 @@
+[
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Muss ein Schuldner eine Leistung selbst erbringen, wenn seine Person für die Leistung ohne Bedeutung ist?",
+    "answer_type": "yesno",
+    "gold": "nein",
+    "accept": ["no"],
+    "gold_article": ["68"],
+    "also_acceptable_article": [],
+    "section": "Wirkung der Obligationen / Erfüllung der Obligationen",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Muss ein Gläubiger eine Teilzahlung entgegennehmen, wenn die gesamte Forderung feststeht und fällig ist?",
+    "answer_type": "yesno",
+    "gold": "nein",
+    "accept": ["no"],
+    "gold_article": ["69"],
+    "also_acceptable_article": [],
+    "section": "Wirkung der Obligationen / Erfüllung der Obligationen",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Zu welchem jährlichen Prozentsatz sind Zinsen zu bezahlen, wenn eine Zinspflicht besteht, deren Höhe aber weder vertraglich noch durch Gesetz oder Übung festgelegt ist?",
+    "answer_type": "number",
+    "gold": "5 Prozent",
+    "accept": ["5", "5%", "5 %", "fünf Prozent", "fünf vom Hundert"],
+    "gold_article": ["73"],
+    "also_acceptable_article": [],
+    "section": "Wirkung der Obligationen / Erfüllung der Obligationen",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Zwei Parteien haben über den Erfüllungsort nichts vereinbart oder vorausgesetzt. An welchem Ort muss der Schuldner eine Geldschuld begleichen?",
+    "answer_type": "short",
+    "gold": "am Wohnsitz des Gläubigers",
+    "accept": ["Wohnsitz des Gläubigers", "beim Gläubiger", "am Wohnort des Gläubigers"],
+    "gold_article": ["74"],
+    "also_acceptable_article": [],
+    "section": "Wirkung der Obligationen / Erfüllung der Obligationen",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Wann darf eine Leistung erbracht und verlangt werden, wenn die Erfüllungszeit weder durch Vertrag noch durch die Natur des Rechtsverhältnisses bestimmt ist?",
+    "answer_type": "short",
+    "gold": "sogleich",
+    "accept": ["sofort", "unverzüglich", "sofort erfüllbar und forderbar"],
+    "gold_article": ["75"],
+    "also_acceptable_article": [],
+    "section": "Wirkung der Obligationen / Erfüllung der Obligationen",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Auf welchen Kalendertag fällt die Erfüllung, wenn die Erfüllungszeit auf die Mitte eines Monats festgesetzt wurde?",
+    "answer_type": "number",
+    "gold": "der 15.",
+    "accept": ["15", "15.", "der fünfzehnte", "fünfzehnter", "der 15. des Monats"],
+    "gold_article": ["76"],
+    "also_acceptable_article": [],
+    "section": "Wirkung der Obligationen / Erfüllung der Obligationen",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Ein Schuldner will vor dem Verfalltag zahlen und dabei einen Diskonto abziehen, obwohl weder eine Übereinkunft noch eine Übung dies gestattet. Ist er dazu berechtigt?",
+    "answer_type": "yesno",
+    "gold": "nein",
+    "accept": ["no"],
+    "gold_article": ["81"],
+    "also_acceptable_article": [],
+    "section": "Wirkung der Obligationen / Erfüllung der Obligationen",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Bei einem zweiseitigen Vertrag wird der eine Teil zahlungsunfähig und dadurch der Anspruch des anderen gefährdet. Darf der andere Teil seine Leistung zurückhalten, bis ihm die Gegenleistung sichergestellt wird?",
+    "answer_type": "yesno",
+    "gold": "ja",
+    "accept": ["yes"],
+    "gold_article": ["83"],
+    "also_acceptable_article": [],
+    "section": "Wirkung der Obligationen / Erfüllung der Obligationen",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Welche zwei Ansprüche stehen einem Schuldner zu, der seine Schuld durch Zahlung vollständig tilgt?",
+    "answer_type": "list",
+    "gold": ["eine Quittung", "Rückgabe des Schuldscheines"],
+    "accept": [
+      ["Quittung", "Rückgabe des Schuldscheins"],
+      ["Quittung", "Entkräftung des Schuldscheines"],
+      ["Quittung", "Rückgabe oder Entkräftung des Schuldscheines"]
+    ],
+    "gold_article": ["88"],
+    "also_acceptable_article": [],
+    "section": "Wirkung der Obligationen / Erfüllung der Obligationen",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Der Gläubiger verweigert ungerechtfertigt die Annahme und befindet sich im Verzug. Durch welche Handlung mit der geschuldeten Sache kann sich der Schuldner von seiner Verbindlichkeit befreien?",
+    "answer_type": "short",
+    "gold": "Hinterlegung",
+    "accept": ["hinterlegen", "sie hinterlegen", "gerichtliche Hinterlegung"],
+    "gold_article": ["92"],
+    "also_acceptable_article": [],
+    "section": "Wirkung der Obligationen / Erfüllung der Obligationen",
+    "difficulty": "applied"
+  }
+]

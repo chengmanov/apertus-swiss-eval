@@ -1,0 +1,9 @@
+# large model artifacts (never committed; regenerate/train to reproduce)
+**/models/*.gguf
+**/models/*.safetensors
+**/train/out/
+# python
+**/.venv/
+**/__pycache__/
+*.pyc
+*.log

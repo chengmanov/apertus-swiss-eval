@@ -1,0 +1,33 @@
+{
+  "description": "Articles cited as gold in the DSG eval set; excluded from SFT to prevent train/eval contamination.",
+  "articles": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "9",
+    "12",
+    "14",
+    "16",
+    "17",
+    "19",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "28",
+    "31",
+    "32",
+    "34",
+    "44",
+    "49",
+    "51",
+    "60",
+    "61",
+    "62",
+    "63",
+    "65",
+    "66"
+  ]
+}

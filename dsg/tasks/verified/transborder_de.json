@@ -1,0 +1,42 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Wer stellt fest, dass die Gesetzgebung eines Staates einen angemessenen Datenschutz gewährleistet, sodass Personendaten dorthin bekanntgegeben werden dürfen?",
+      "answer_type": "short", "gold": "der Bundesrat", "accept": ["Bundesrat", "der Bundesrat"],
+      "gold_article": ["16"], "also_acceptable_article": [],
+      "section": "Bekanntgabe ins Ausland", "topic": "transborder", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Fehlt ein Angemessenheitsbeschluss des Bundesrates: dürfen Personendaten dennoch ins Ausland bekanntgegeben werden, wenn die betroffene Person ausdrücklich eingewilligt hat?",
+      "answer_type": "yesno", "gold": "ja", "accept": ["yes"],
+      "gold_article": ["17"], "also_acceptable_article": [],
+      "section": "Bekanntgabe ins Ausland / Ausnahmen", "topic": "transborder", "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Bei der Bearbeitung von Personendaten zur Prüfung der Kreditwürdigkeit: bis zu welchem Höchstalter dürfen die Daten sein, damit ein überwiegendes Interesse des Verantwortlichen in Betracht fällt?",
+      "answer_type": "number", "gold": "zehn Jahre", "accept": ["10 Jahre", "10", "zehn", "nicht älter als zehn Jahre"],
+      "gold_article": ["31"], "also_acceptable_article": [],
+      "section": "Rechtfertigungsgründe", "topic": "justification", "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Dürfen Bundesorgane Personendaten grundsätzlich nur bearbeiten, wenn dafür eine gesetzliche Grundlage besteht?",
+      "answer_type": "yesno", "gold": "ja", "accept": ["yes"],
+      "gold_article": ["34"], "also_acceptable_article": [],
+      "section": "Datenbearbeitung durch Bundesorgane", "topic": "justification", "difficulty": "basic"
+    }
+  }
+]

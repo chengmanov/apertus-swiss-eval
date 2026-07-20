@@ -1,0 +1,187 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Un contrat individuel de travail doit-il en principe revêtir une forme particulière pour être valablement conclu?",
+      "answer_type": "yesno",
+      "gold": "non",
+      "accept": [],
+      "gold_article": ["320"],
+      "also_acceptable_article": [],
+      "section": "Contrat de travail / Conclusion et forme",
+      "topic": "employment",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Sauf accord ou circonstances contraires, le travailleur est-il tenu d'accomplir en personne le travail dont il s'est chargé?",
+      "answer_type": "yesno",
+      "gold": "oui",
+      "accept": [],
+      "gold_article": ["321"],
+      "also_acceptable_article": [],
+      "section": "Contrat de travail / Obligations du travailleur",
+      "topic": "employment",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Dans un contrat de travail de durée indéterminée, chacune des parties a-t-elle le droit de donner son congé?",
+      "answer_type": "yesno",
+      "gold": "oui",
+      "accept": [],
+      "gold_article": ["335"],
+      "also_acceptable_article": [],
+      "section": "Contrat de travail / Résiliation",
+      "topic": "employment",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Un employeur veut interdire à son employé de le concurrencer après la fin des rapports de travail au moyen d'un simple accord verbal; un tel engagement du travailleur est-il valable?",
+      "answer_type": "yesno",
+      "gold": "non",
+      "accept": [],
+      "gold_article": ["340"],
+      "also_acceptable_article": [],
+      "section": "Contrat de travail / Prohibition de concurrence",
+      "topic": "employment",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Un employeur occupe son travailleur tout au long de la semaine; combien de jours de congé hebdomadaire doit-il au minimum lui accorder en règle générale?",
+      "answer_type": "number",
+      "gold": "un jour",
+      "accept": ["1 jour", "1", "un"],
+      "gold_article": ["329"],
+      "also_acceptable_article": [],
+      "section": "Contrat de travail / Congé (temps libre)",
+      "topic": "employment",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Pendant le temps d'essai d'un contrat d'apprentissage, quel délai de congé faut-il respecter pour résilier le contrat?",
+      "answer_type": "duration",
+      "gold": "sept jours",
+      "accept": ["7 jours", "7"],
+      "gold_article": ["346"],
+      "also_acceptable_article": [],
+      "section": "Contrat d'apprentissage / Résiliation",
+      "topic": "employment",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "À défaut de terme de paiement plus court prévu par accord ou usuel, à quel moment le salaire du travailleur est-il payé?",
+      "answer_type": "short",
+      "gold": "à la fin de chaque mois",
+      "accept": ["à la fin du mois", "mensuellement", "chaque fin de mois"],
+      "gold_article": ["323"],
+      "also_acceptable_article": [],
+      "section": "Contrat de travail / Paiement du salaire",
+      "topic": "employment",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Un employeur entend congédier un travailleur avec effet immédiat, sans préavis; quelle condition de fond doit être réunie pour qu'une telle résiliation soit admissible?",
+      "answer_type": "short",
+      "gold": "de justes motifs",
+      "accept": ["justes motifs", "un juste motif", "juste motif"],
+      "gold_article": ["337"],
+      "also_acceptable_article": [],
+      "section": "Contrat de travail / Résiliation immédiate",
+      "topic": "employment",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Quel bien de la personne du travailleur l'employeur est-il tenu de protéger et de respecter durant les rapports de travail?",
+      "answer_type": "short",
+      "gold": "la personnalité du travailleur",
+      "accept": ["la personnalité", "sa personnalité", "personnalité"],
+      "gold_article": ["328"],
+      "also_acceptable_article": [],
+      "section": "Contrat de travail / Protection de la personnalité",
+      "topic": "employment",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Question descriptor 'liés à l'activité collective des travailleurs' fits grounds a and b (union/works-representative) but imperfectly fits ground c (employer's collective-dismissal consultation duty), risking a solver unfairly omitting c when gold requires all three al.2 grounds. Reworded to disambiguate on the correct al.2 criterion (additional grounds specific to a congé given by the employer) without the misleading filter. Gold and article unchanged.",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Outre les cas généraux valables pour toute résiliation, dans quels cas un congé donné par l'employeur est-il en outre réputé abusif?",
+      "answer_type": "list",
+      "gold": [
+        "appartenance ou non-appartenance à une organisation de travailleurs (activité syndicale)",
+        "congé d'un représentant élu des travailleurs, membre d'une commission d'entreprise",
+        "non-respect de la procédure de consultation en cas de licenciement collectif"
+      ],
+      "accept": [],
+      "gold_article": ["336"],
+      "also_acceptable_article": [],
+      "section": "Contrat de travail / Congé abusif",
+      "topic": "employment",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Lorsqu'un employeur effectue des prestations dans un but de prévoyance, à quels types d'entités doit-il transférer ces prestations et les contributions?",
+      "answer_type": "list",
+      "gold": [
+        "une fondation",
+        "une société coopérative",
+        "une institution de droit public"
+      ],
+      "accept": [],
+      "gold_article": ["331"],
+      "also_acceptable_article": [],
+      "section": "Contrat de travail / Prévoyance",
+      "topic": "employment",
+      "difficulty": "basic"
+    }
+  }
+]

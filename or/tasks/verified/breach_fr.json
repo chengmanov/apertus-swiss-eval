@@ -1,0 +1,108 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Une clause contractuelle qui libère par avance le débiteur de sa responsabilité en cas de dol ou de faute grave est-elle valable?",
+      "answer_type": "yesno",
+      "gold": "non",
+      "accept": ["no"],
+      "gold_article": ["100"],
+      "also_acceptable_article": [],
+      "section": "Effet des obligations / Effets de l'inexécution des obligations",
+      "topic": "breach",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Un débiteur en demeure supporte-t-il le risque du cas fortuit qui frappe la chose due pendant son retard?",
+      "answer_type": "yesno",
+      "gold": "oui",
+      "accept": ["yes"],
+      "gold_article": ["103"],
+      "also_acceptable_article": [],
+      "section": "Effet des obligations / Effets de l'inexécution des obligations",
+      "topic": "breach",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Quel est le taux de l'intérêt moratoire dû par le débiteur en demeure pour le paiement d'une somme d'argent, à défaut de taux conventionnel plus élevé?",
+      "answer_type": "number",
+      "gold": "5 %",
+      "accept": ["5%", "5 pour cent", "cinq pour cent", "5"],
+      "gold_article": ["104"],
+      "also_acceptable_article": [],
+      "section": "Effet des obligations / Effets de l'inexécution des obligations",
+      "topic": "breach",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Comment nomme-t-on les personnes, tels des travailleurs ou des personnes vivant en ménage avec le débiteur, à qui celui-ci confie licitement le soin d'exécuter une obligation et dont il répond du dommage causé dans l'accomplissement de leur travail?",
+      "answer_type": "short",
+      "gold": "les auxiliaires",
+      "accept": ["auxiliaires", "des auxiliaires", "auxiliaire"],
+      "gold_article": ["101"],
+      "also_acceptable_article": [],
+      "section": "Effet des obligations / Effets de l'inexécution des obligations",
+      "topic": "breach",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Une personne promet à son cocontractant qu'un tiers accomplira une prestation; si ce tiers n'exécute pas, à quoi cette personne est-elle tenue envers le cocontractant?",
+      "answer_type": "short",
+      "gold": "des dommages-intérêts",
+      "accept": ["dommages-intérêts", "à des dommages-intérêts", "dommages et intérêts"],
+      "gold_article": ["111"],
+      "also_acceptable_article": [],
+      "section": "Effet des obligations / Effet des obligations à l'égard des tiers",
+      "topic": "breach",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Dans quels cas le créancier d'un contrat bilatéral n'a-t-il pas besoin de fixer un délai supplémentaire au débiteur en demeure?",
+      "answer_type": "list",
+      "gold": [
+        "lorsque l'attitude du débiteur montre qu'un délai serait sans effet",
+        "lorsque l'exécution est devenue sans utilité pour le créancier",
+        "lorsque l'exécution doit avoir lieu à un terme fixe ou dans un délai déterminé"
+      ],
+      "accept": [
+        [
+          "l'attitude du débiteur rend le délai sans effet",
+          "l'exécution est devenue sans utilité pour le créancier",
+          "l'exécution doit avoir lieu à un terme fixe ou dans un délai déterminé"
+        ]
+      ],
+      "gold_article": ["108"],
+      "also_acceptable_article": [],
+      "section": "Effet des obligations / Effets de l'inexécution des obligations",
+      "topic": "breach",
+      "difficulty": "basic"
+    }
+  }
+]

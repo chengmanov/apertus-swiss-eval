@@ -1,0 +1,123 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Dans un contrat de mandat, une partie peut-elle mettre fin au contrat à tout moment?",
+      "answer_type": "yesno",
+      "gold": "oui",
+      "accept": ["yes"],
+      "gold_article": ["404"],
+      "also_acceptable_article": [],
+      "section": "Mandat / Du mandat proprement dit",
+      "topic": "mandate",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Sauf convention contraire ou si la nature de l'affaire s'y oppose, le contrat de mandat s'éteint-il lorsque le mandant décède?",
+      "answer_type": "yesno",
+      "gold": "oui",
+      "accept": ["yes"],
+      "gold_article": ["405"],
+      "also_acceptable_article": [],
+      "section": "Mandat / Du mandat proprement dit",
+      "topic": "mandate",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Un mandataire, qui n'y est ni autorisé ni contraint par les circonstances et sans qu'aucun usage ne le permette, peut-il confier l'exécution du mandat à un tiers?",
+      "answer_type": "yesno",
+      "gold": "non",
+      "accept": ["no"],
+      "gold_article": ["398"],
+      "also_acceptable_article": [],
+      "section": "Mandat / Du mandat proprement dit",
+      "topic": "mandate",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Pour quels actes le mandataire a-t-il besoin d'un pouvoir spécial?",
+      "answer_type": "list",
+      "gold": [
+        "transiger",
+        "compromettre",
+        "souscrire des engagements de change",
+        "aliéner ou grever des immeubles",
+        "faire des donations"
+      ],
+      "accept": [
+        ["transiger", "compromettre", "souscrire des engagements de change", "aliéner ou grever des immeubles", "faire des donations"],
+        ["transiger", "compromettre", "engagements de change", "aliéner ou grever des immeubles", "donations"]
+      ],
+      "gold_article": ["396"],
+      "also_acceptable_article": [],
+      "section": "Mandat / Du mandat proprement dit",
+      "topic": "mandate",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Que le mandant doit-il au mandataire lorsque la convention ou l'usage la lui assure?",
+      "answer_type": "short",
+      "gold": "une rémunération",
+      "accept": ["rémunération", "un salaire", "une rétribution"],
+      "gold_article": ["394"],
+      "also_acceptable_article": [],
+      "section": "Mandat / Du mandat proprement dit",
+      "topic": "mandate",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "À quel moment le courtier acquiert-il son droit au salaire lorsque son indication ou sa négociation porte ses fruits?",
+      "answer_type": "short",
+      "gold": "dès la conclusion du contrat",
+      "accept": ["à la conclusion du contrat", "lorsque le contrat est conclu", "dès que le contrat est conclu"],
+      "gold_article": ["413"],
+      "also_acceptable_article": [],
+      "section": "Mandat / Du courtage",
+      "topic": "mandate",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Un mandant demande au mandataire de justifier en tout temps la manière dont il s'est occupé de l'affaire confiée; de quoi le mandataire doit-il lui rendre compte?",
+      "answer_type": "short",
+      "gold": "de sa gestion",
+      "accept": ["sa gestion", "la gestion", "de la gestion de l'affaire"],
+      "gold_article": ["400"],
+      "also_acceptable_article": [],
+      "section": "Mandat / Du mandat proprement dit",
+      "topic": "mandate",
+      "difficulty": "applied"
+    }
+  }
+]

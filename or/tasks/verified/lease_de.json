@@ -1,0 +1,172 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Ist ein an den Abschluss eines Wohnraummietvertrags gekoppeltes Geschäft nichtig, wenn der Mieter dadurch eine Verpflichtung übernimmt, die nicht unmittelbar mit dem Gebrauch der Mietsache zusammenhängt?",
+      "answer_type": "yesno",
+      "gold": "ja",
+      "accept": ["yes"],
+      "gold_article": ["254"],
+      "also_acceptable_article": [],
+      "section": "Miete / Allgemeine Bestimmungen",
+      "topic": "lease",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Ist der Vermieter verpflichtet, die Mietsache während der gesamten Mietdauer in einem zum vorausgesetzten Gebrauch tauglichen Zustand zu erhalten?",
+      "answer_type": "yesno",
+      "gold": "ja",
+      "accept": ["yes"],
+      "gold_article": ["256"],
+      "also_acceptable_article": [],
+      "section": "Miete / Allgemeine Bestimmungen",
+      "topic": "lease",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Ein Vermieter möchte an der Wohnung bauliche Erneuerungen vornehmen, nachdem er das Mietverhältnis bereits gekündigt hat. Darf er die Erneuerungen unter diesen Umständen ausführen?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no"],
+      "gold_article": ["260"],
+      "also_acceptable_article": [],
+      "section": "Miete / Allgemeine Bestimmungen",
+      "topic": "lease",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Muss der Vermieter die Kündigung eines Wohnraummietverhältnisses auf Verlangen des Mieters begründen?",
+      "answer_type": "yesno",
+      "gold": "ja",
+      "accept": ["yes"],
+      "gold_article": ["271"],
+      "also_acceptable_article": [],
+      "section": "Miete / Kündigungsschutz bei Wohn- und Geschäftsräumen",
+      "topic": "lease",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Ein Mieter von Geschäftsräumen überträgt das Mietverhältnis mit Zustimmung des Vermieters auf einen Dritten. Für höchstens wie lange haftet er danach noch solidarisch mit dem Dritten?",
+      "answer_type": "duration",
+      "gold": "zwei Jahre",
+      "accept": ["2 Jahre", "2 Jahren", "zwei Jahren"],
+      "gold_article": ["263"],
+      "also_acceptable_article": [],
+      "section": "Miete / Allgemeine Bestimmungen",
+      "topic": "lease",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Innert welcher Frist nach Übernahme der Sache kann der Mieter den Anfangsmietzins bei der Schlichtungsbehörde als missbräuchlich anfechten und dessen Herabsetzung verlangen?",
+      "answer_type": "duration",
+      "gold": "30 Tage",
+      "accept": ["30 Tagen", "dreissig Tage", "innert 30 Tagen"],
+      "gold_article": ["270"],
+      "also_acceptable_article": [],
+      "section": "Miete / Schutz vor missbräuchlichen Mietzinsen",
+      "topic": "lease",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Ein Mieter möchte seine Wohnung untervermieten. Aus welchen Gründen darf der Vermieter die Zustimmung zur Untervermietung verweigern?",
+      "answer_type": "list",
+      "gold": [
+        "der Mieter verweigert die Bekanntgabe der Bedingungen der Untermiete",
+        "die Bedingungen der Untermiete sind missbräuchlich",
+        "dem Vermieter entstehen wesentliche Nachteile"
+      ],
+      "accept": [
+        [
+          "Weigerung, die Bedingungen der Untermiete bekanntzugeben",
+          "missbräuchliche Bedingungen der Untermiete",
+          "wesentliche Nachteile für den Vermieter"
+        ]
+      ],
+      "gold_article": ["262"],
+      "also_acceptable_article": [],
+      "section": "Miete / Allgemeine Bestimmungen",
+      "topic": "lease",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Was schuldet der Mieter dem Vermieter im Mietvertrag als Entgelt für die Überlassung der Sache zum Gebrauch?",
+      "answer_type": "short",
+      "gold": "den Mietzins",
+      "accept": ["Mietzins", "der Mietzins", "einen Mietzins"],
+      "gold_article": ["253"],
+      "also_acceptable_article": ["257"],
+      "section": "Miete / Allgemeine Bestimmungen",
+      "topic": "lease",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Welchen Umstand muss der neue Eigentümer von Wohnräumen geltend machen, um das mit dem Kauf übernommene Mietverhältnis mit der gesetzlichen Frist auf den nächsten gesetzlichen Termin kündigen zu können?",
+      "answer_type": "short",
+      "gold": "dringender Eigenbedarf",
+      "accept": ["dringenden Eigenbedarf", "Eigenbedarf", "dringender Eigenbedarf für sich oder nahe Verwandte"],
+      "gold_article": ["261"],
+      "also_acceptable_article": [],
+      "section": "Miete / Allgemeine Bestimmungen",
+      "topic": "lease",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Welche Partei muss kleinere Mängel, die durch für den gewöhnlichen Unterhalt erforderliche Reinigungen oder Ausbesserungen behoben werden können, nach Ortsgebrauch auf eigene Kosten beseitigen?",
+      "answer_type": "short",
+      "gold": "der Mieter",
+      "accept": ["Mieter", "die Mieterin", "der Mieter"],
+      "gold_article": ["259"],
+      "also_acceptable_article": [],
+      "section": "Miete / Allgemeine Bestimmungen",
+      "topic": "lease",
+      "difficulty": "basic"
+    }
+  }
+]

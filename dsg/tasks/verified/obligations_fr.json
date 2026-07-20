@@ -1,0 +1,42 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr", "law": "DSG",
+      "question": "Lorsque les données ne sont pas collectées auprès de la personne concernée, au plus tard dans quel délai après avoir obtenu les données le responsable doit-il l'informer?",
+      "answer_type": "duration", "gold": "un mois", "accept": ["1 mois", "au plus tard un mois", "dans un délai d'un mois"],
+      "gold_article": ["19"], "also_acceptable_article": [],
+      "section": "Devoirs du responsable du traitement", "topic": "obligations", "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr", "law": "DSG",
+      "question": "En dessous de combien de collaborateurs le Conseil fédéral peut-il exempter une entreprise à faible risque de l'obligation de tenir un registre des activités de traitement?",
+      "answer_type": "number", "gold": "250", "accept": ["250 collaborateurs", "moins de 250"],
+      "gold_article": ["12"], "also_acceptable_article": [],
+      "section": "Devoirs du responsable du traitement", "topic": "obligations", "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr", "law": "DSG",
+      "question": "Le responsable du traitement doit-il réaliser au préalable une analyse d'impact relative à la protection des données lorsque le traitement envisagé peut entraîner un risque élevé pour la personnalité ou les droits fondamentaux?",
+      "answer_type": "yesno", "gold": "oui", "accept": ["yes"],
+      "gold_article": ["22"], "also_acceptable_article": [],
+      "section": "Devoirs du responsable du traitement", "topic": "obligations", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr", "law": "DSG",
+      "question": "Le consentement doit-il être exprès pour le traitement de données sensibles?",
+      "answer_type": "yesno", "gold": "oui", "accept": ["yes"],
+      "gold_article": ["6"], "also_acceptable_article": [],
+      "section": "Principes", "topic": "principles", "difficulty": "basic"
+    }
+  }
+]

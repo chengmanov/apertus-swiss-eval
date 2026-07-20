@@ -1,0 +1,12 @@
+{
+  "description": "Articles cited as gold in the VVG eval set; excluded from SFT.",
+  "articles": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "6",
+    "40",
+    "46"
+  ]
+}

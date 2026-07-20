@@ -1,0 +1,117 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Celui qui cause à autrui, de manière illicite, un dommage par simple négligence est-il tenu de le réparer?",
+      "answer_type": "yesno",
+      "gold": "oui",
+      "accept": [],
+      "gold_article": ["41"],
+      "also_acceptable_article": [],
+      "section": "Actes illicites / Principe de la responsabilité",
+      "topic": "torts",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "En matière d'acte illicite ayant entraîné des lésions corporelles, quel est le délai de prescription absolu, calculé depuis le jour où le fait dommageable s'est produit, au-delà duquel l'action en réparation est éteinte?",
+      "answer_type": "duration",
+      "gold": "20 ans",
+      "accept": ["vingt ans", "20 années"],
+      "gold_article": ["60"],
+      "also_acceptable_article": [],
+      "section": "Actes illicites / Prescription",
+      "topic": "torts",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Un chien mord un passant; son détenteur peut-il échapper à toute responsabilité s'il établit qu'il l'avait gardé et surveillé avec toute l'attention commandée par les circonstances?",
+      "answer_type": "yesno",
+      "gold": "oui",
+      "accept": [],
+      "gold_article": ["56"],
+      "also_acceptable_article": [],
+      "section": "Actes illicites / Responsabilité du détenteur d'un animal",
+      "topic": "torts",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Trois personnes commettent de concert un cambriolage qui endommage les biens de la victime; en répondent-elles solidairement envers celle-ci?",
+      "answer_type": "yesno",
+      "gold": "oui",
+      "accept": [],
+      "gold_article": ["50"],
+      "also_acceptable_article": [],
+      "section": "Actes illicites / Responsabilité de plusieurs auteurs",
+      "topic": "torts",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Un livreur salarié, en effectuant sa tournée, cause un dommage à un tiers; quelle personne répond en principe de ce dommage envers le lésé au titre de la responsabilité pour autrui?",
+      "answer_type": "short",
+      "gold": "l'employeur",
+      "accept": ["employeur", "le patron"],
+      "gold_article": ["55"],
+      "also_acceptable_article": [],
+      "section": "Actes illicites / Responsabilité de l'employeur",
+      "topic": "torts",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "À quel titre le juge peut-il, en présence de circonstances particulières, allouer une indemnité équitable à la victime de lésions corporelles ou, en cas de décès, à la famille?",
+      "answer_type": "short",
+      "gold": "réparation morale",
+      "accept": ["tort moral", "réparation du tort moral", "à titre de réparation morale"],
+      "gold_article": ["47"],
+      "also_acceptable_article": [],
+      "section": "Actes illicites / Réparation morale",
+      "topic": "torts",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr",
+      "law": "OR",
+      "question": "Lorsque la mort d'une personne n'est pas survenue immédiatement, quels deux postes de préjudice les dommages-intérêts comprennent-ils en particulier, outre les frais d'inhumation?",
+      "answer_type": "list",
+      "gold": ["frais de traitement", "préjudice dérivant de l'incapacité de travail"],
+      "accept": [
+        ["frais de traitement", "préjudice de l'incapacité de travail"],
+        ["frais de traitement", "perte due à l'incapacité de travail"]
+      ],
+      "gold_article": ["45"],
+      "also_acceptable_article": [],
+      "section": "Actes illicites / Dommages-intérêts en cas de mort d'homme",
+      "topic": "torts",
+      "difficulty": "basic"
+    }
+  }
+]

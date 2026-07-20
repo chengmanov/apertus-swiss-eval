@@ -1,0 +1,48 @@
+[
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Ist eine Person, die sich grundlos auf Kosten des Vermögens einer anderen einen Vorteil verschafft hat, zur Herausgabe dieses Vorteils verpflichtet?",
+    "answer_type": "yesno",
+    "gold": "ja",
+    "accept": ["yes"],
+    "gold_article": ["62"],
+    "also_acceptable_article": [],
+    "section": "Entstehung aus ungerechtfertigter Bereicherung",
+    "topic": "enrichment",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Jemand erbringt eine Zuwendung gestützt auf einen Rechtsgrund, der nachträglich wegfällt. Kann der Empfänger zur Rückerstattung des Erlangten verpflichtet werden?",
+    "answer_type": "yesno",
+    "gold": "ja",
+    "accept": ["yes"],
+    "gold_article": ["62"],
+    "also_acceptable_article": [],
+    "section": "Entstehung aus ungerechtfertigter Bereicherung",
+    "topic": "enrichment",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "In welchen drei Konstellationen entsteht nach dem Recht der ungerechtfertigten Bereicherung insbesondere die Pflicht, eine erhaltene Zuwendung zurückzuerstatten?",
+    "answer_type": "list",
+    "gold": [
+      "ohne gültigen Grund",
+      "aus einem nicht verwirklichten Grund",
+      "aus einem nachträglich weggefallenen Grund"
+    ],
+    "accept": [
+      ["ohne jeden gültigen Grund", "aus einem nicht verwirklichten Grund", "aus einem nachträglich weggefallenen Grund"],
+      ["ohne gültigen Grund", "nicht verwirklichter Grund", "nachträglich weggefallener Grund"]
+    ],
+    "gold_article": ["62"],
+    "also_acceptable_article": [],
+    "section": "Entstehung aus ungerechtfertigter Bereicherung",
+    "topic": "enrichment",
+    "difficulty": "applied"
+  }
+]

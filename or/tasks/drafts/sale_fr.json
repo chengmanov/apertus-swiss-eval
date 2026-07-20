@@ -1,0 +1,101 @@
+[
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Un vendeur et un acheteur concluent un contrat portant sur une machine, mais la chose n'a pas encore été livrée; en l'absence de circonstances ou de stipulations particulières, les risques de la chose sont-ils déjà passés à l'acheteur?",
+    "answer_type": "yesno",
+    "gold": "oui",
+    "accept": [],
+    "gold_article": ["185"],
+    "also_acceptable_article": [],
+    "section": "Vente mobilière / Transfert des profits et des risques",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Quel est le délai de prescription ordinaire de l'action en garantie pour les défauts d'une chose mobilière vendue, à compter de la livraison?",
+    "answer_type": "duration",
+    "gold": "deux ans",
+    "accept": ["2 ans", "deux ans à compter de la livraison"],
+    "gold_article": ["210"],
+    "also_acceptable_article": [],
+    "section": "Vente mobilière / Prescription de la garantie",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Un vendeur ignorait l'existence d'un défaut affectant la chose vendue au moment de la conclusion du contrat; est-il néanmoins tenu à garantie envers l'acheteur pour ce défaut?",
+    "answer_type": "yesno",
+    "gold": "oui",
+    "accept": [],
+    "gold_article": ["197"],
+    "also_acceptable_article": [],
+    "section": "Vente mobilière / Garantie des défauts",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Lorsque la chose vendue présente un défaut dont le vendeur est garant, entre quelles deux actions l'acheteur peut-il choisir?",
+    "answer_type": "list",
+    "gold": ["action rédhibitoire", "action en réduction de prix"],
+    "accept": [
+      ["résiliation de la vente", "réduction du prix"],
+      ["action rédhibitoire", "action en réduction du prix"]
+    ],
+    "gold_article": ["205"],
+    "also_acceptable_article": [],
+    "section": "Vente mobilière / Effets de la garantie des défauts",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "En vérifiant une marchandise reçue conformément à la marche habituelle des affaires, un acheteur y découvre un défaut dont le vendeur est garant; doit-il en aviser le vendeur sans délai?",
+    "answer_type": "yesno",
+    "gold": "oui",
+    "accept": [],
+    "gold_article": ["201"],
+    "also_acceptable_article": [],
+    "section": "Vente mobilière / Vérification et avis des défauts",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Dans un contrat de vente, outre la remise matérielle de la chose, à quoi le vendeur est-il obligé envers l'acheteur quant à celle-ci?",
+    "answer_type": "short",
+    "gold": "transférer la propriété",
+    "accept": ["le transfert de la propriété", "transférer la propriété à l'acheteur", "en transférer la propriété"],
+    "gold_article": ["184"],
+    "also_acceptable_article": [],
+    "section": "Vente / Obligations du vendeur",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Sauf usage ou convention contraire, qui supporte les frais du mesurage et du pesage liés à la délivrance d'une chose mobilière vendue?",
+    "answer_type": "short",
+    "gold": "le vendeur",
+    "accept": ["vendeur"],
+    "gold_article": ["188"],
+    "also_acceptable_article": [],
+    "section": "Vente mobilière / Frais de délivrance",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Dans le commerce du bétail, lorsque le délai n'est pas fixé par écrit et que la garantie ne concerne pas le fait que l'animal serait portant, dans quel délai à partir de la délivrance les défauts doivent-ils être découverts et signalés pour engager la responsabilité du vendeur?",
+    "answer_type": "duration",
+    "gold": "neuf jours",
+    "accept": ["9 jours"],
+    "gold_article": ["202"],
+    "also_acceptable_article": [],
+    "section": "Vente mobilière / Garantie dans le commerce du bétail",
+    "difficulty": "applied"
+  }
+]

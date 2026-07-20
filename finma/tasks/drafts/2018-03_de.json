@@ -1,0 +1,202 @@
+[
+  {
+    "lang": "de",
+    "circular": "2018/03",
+    "slug": "2018-03",
+    "question": "Eine Bank möchte die Entscheide über die Aufnahme und den Abbruch von Geschäftsbeziehungen vollständig einem externen Dienstleister übertragen. Ist dies zulässig?",
+    "answer_type": "yesno",
+    "gold": "nein",
+    "accept": ["no", "nicht zulässig", "unzulässig"],
+    "gold_rz": ["8"],
+    "also_acceptable_rz": [],
+    "section": "IV. Zulässigkeit / A. Gemeinsame Bestimmungen",
+    "topic": "outsourcing",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "de",
+    "circular": "2018/03",
+    "slug": "2018-03",
+    "question": "Eine Bank der Aufsichtskategorie 4 verzichtet auf eine eigenständige Compliance-Funktion und bestimmt stattdessen ein dafür verantwortliches Mitglied der Geschäftsleitung. Genügt dies den aufsichtsrechtlichen Anforderungen an die Kontrollinstanzen?",
+    "answer_type": "yesno",
+    "gold": "ja",
+    "accept": ["yes", "zulässig", "es genügt"],
+    "gold_rz": ["9"],
+    "also_acceptable_rz": [],
+    "section": "IV. Zulässigkeit / A. Gemeinsame Bestimmungen",
+    "topic": "outsourcing",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "de",
+    "circular": "2018/03",
+    "slug": "2018-03",
+    "question": "Ein Versicherungsunternehmen will die Bearbeitung von Schadenfällen als wesentliche Funktion an einen externen Anbieter auslagern. Bedarf dieses Outsourcing der Genehmigung durch die FINMA?",
+    "answer_type": "yesno",
+    "gold": "ja",
+    "accept": ["yes", "genehmigungspflichtig"],
+    "gold_rz": ["10"],
+    "also_acceptable_rz": [],
+    "section": "B. Versicherungsunternehmen",
+    "topic": "outsourcing",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "de",
+    "circular": "2018/03",
+    "slug": "2018-03",
+    "question": "Ein ausländisches Direktversicherungscaptive lagert das Management seiner schweizerischen Zweigniederlassung innerhalb des Konzerns aus. Welche aufsichtsrechtliche Funktion darf dadurch nicht eingeschränkt werden?",
+    "answer_type": "short",
+    "gold": "Generalbevollmächtigter",
+    "accept": [
+      "Funktion des Generalbevollmächtigten",
+      "die Funktion des Generalbevollmächtigten",
+      "Generalbevollmächtigte",
+      "Generalbevollmächtigten"
+    ],
+    "gold_rz": ["13"],
+    "also_acceptable_rz": [],
+    "section": "B. Versicherungsunternehmen",
+    "topic": "outsourcing",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "de",
+    "circular": "2018/03",
+    "slug": "2018-03",
+    "question": "Welche Angaben muss das Inventar der ausgelagerten Funktionen eines Instituts mindestens enthalten?",
+    "answer_type": "list",
+    "gold": [
+      "Umschreibung der Funktion",
+      "Erbringer",
+      "Empfänger",
+      "verantwortliche Stelle"
+    ],
+    "accept": [
+      ["Beschreibung der Funktion", "Umschreibung der ausgelagerten Funktion", "Funktionsbeschreibung"],
+      ["Dienstleister", "Erbringer inkl. Unterakkordanten", "Leistungserbringer"],
+      ["Leistungsempfänger", "Empfänger der Leistung"],
+      ["unternehmensintern verantwortliche Stelle", "interne verantwortliche Stelle", "zuständige interne Stelle"]
+    ],
+    "gold_rz": ["14"],
+    "also_acceptable_rz": [],
+    "section": "V. Anforderungen an auslagernde Unternehmen / A. Inventarisierung der ausgelagerten Funktionen",
+    "topic": "outsourcing",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "circular": "2018/03",
+    "slug": "2018-03",
+    "question": "In welchem Dokument führen Versicherungsunternehmen das Inventar ihrer ausgelagerten Funktionen?",
+    "answer_type": "short",
+    "gold": "Geschäftsplanformular J",
+    "accept": [
+      "im Geschäftsplanformular J",
+      "Formular J",
+      "Geschäftsplan-Formular J",
+      "Formular J des Geschäftsplans"
+    ],
+    "gold_rz": ["15"],
+    "also_acceptable_rz": [],
+    "section": "V. Anforderungen an auslagernde Unternehmen / A. Inventarisierung der ausgelagerten Funktionen",
+    "topic": "outsourcing",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "circular": "2018/03",
+    "slug": "2018-03",
+    "question": "Welche Eigenschaften eines Outsourcing-Dienstleisters sind bei dessen Auswahl zu berücksichtigen und zu prüfen?",
+    "answer_type": "list",
+    "gold": [
+      "professionelle Fähigkeiten",
+      "finanzielle Ressourcen",
+      "personelle Ressourcen"
+    ],
+    "accept": [
+      ["fachliche Fähigkeiten", "professionelle Kompetenzen", "fachliche Kompetenz"],
+      ["finanzielle Mittel", "finanzielle Kapazität"],
+      ["personelle Mittel", "personelle Kapazitäten"]
+    ],
+    "gold_rz": ["17"],
+    "also_acceptable_rz": [],
+    "section": "B. Auswahl, Instruktion und Kontrolle des Dienstleisters",
+    "topic": "outsourcing",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "circular": "2018/03",
+    "slug": "2018-03",
+    "question": "Verringert sich die Verantwortung eines Unternehmens gegenüber der FINMA, wenn es eine wesentliche Funktion an einen Dienstleister auslagert?",
+    "answer_type": "yesno",
+    "gold": "nein",
+    "accept": ["no", "sie bleibt dieselbe", "sie bleibt gleich"],
+    "gold_rz": ["23"],
+    "also_acceptable_rz": [],
+    "section": "D. Verantwortung",
+    "topic": "outsourcing",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "circular": "2018/03",
+    "slug": "2018-03",
+    "question": "An welche Stelle dürfen Prüftätigkeiten in Bezug auf eine ausgelagerte Funktion delegiert werden, sofern sie über die nötigen fachlichen Kompetenzen verfügt?",
+    "answer_type": "short",
+    "gold": "Revisionsstelle des Dienstleisters",
+    "accept": [
+      "die Revisionsstelle des Dienstleisters",
+      "Revisionsstelle beim Dienstleister",
+      "an die Revisionsstelle des Dienstleisters"
+    ],
+    "gold_rz": ["27"],
+    "also_acceptable_rz": [],
+    "section": "F. Prüfung und Aufsicht",
+    "topic": "outsourcing",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "circular": "2018/03",
+    "slug": "2018-03",
+    "question": "Eine Schweizer Bank will ihre Wertschriftenabwicklung zu einem Dienstleister im Ausland verlagern, kann aber nicht zusichern, dass die FINMA ihre Einsichts- und Prüfrechte dort durchsetzen kann. Ist diese Auslagerung zulässig?",
+    "answer_type": "yesno",
+    "gold": "nein",
+    "accept": ["no", "nicht zulässig", "unzulässig"],
+    "gold_rz": ["30"],
+    "also_acceptable_rz": [],
+    "section": "G. Auslagerungen ins Ausland",
+    "topic": "outsourcing",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "de",
+    "circular": "2018/03",
+    "slug": "2018-03",
+    "question": "Innerhalb welcher Übergangsfrist sind Outsourcingverhältnisse von Banken, die beim Inkrafttreten des FINMA-Rundschreibens \"Outsourcing\" bereits bestanden, an dessen Anforderungen anzupassen?",
+    "answer_type": "duration",
+    "gold": "5 Jahre",
+    "accept": ["fünf Jahre", "5 Jahren", "fünf Jahren", "5 years"],
+    "gold_rz": ["37"],
+    "also_acceptable_rz": [],
+    "section": "VII. Übergangsbestimmungen",
+    "topic": "outsourcing",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "circular": "2018/03",
+    "slug": "2018-03",
+    "question": "Spätestens wie lange nach Inkrafttreten gilt das FINMA-Rundschreiben \"Outsourcing\" für Änderungsbewilligungen von Verwaltern von Kollektivvermögen und Fondsleitungen?",
+    "answer_type": "duration",
+    "gold": "1 Jahr",
+    "accept": ["ein Jahr", "einem Jahr", "1 year"],
+    "gold_rz": ["39"],
+    "also_acceptable_rz": [],
+    "section": "VII. Übergangsbestimmungen",
+    "topic": "outsourcing",
+    "difficulty": "basic"
+  }
+]

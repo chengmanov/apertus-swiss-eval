@@ -1,0 +1,62 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Muss die Einwilligung der betroffenen Person für die Bearbeitung besonders schützenswerter Personendaten ausdrücklich erfolgen?",
+      "answer_type": "yesno", "gold": "ja", "accept": ["yes"],
+      "gold_article": ["6"], "also_acceptable_article": [],
+      "section": "Allgemeine Bestimmungen / Grundsätze", "topic": "principles", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Nach welchem Grundsatz müssen Personendaten bearbeitet werden, sobald sie zum Bearbeitungszweck nicht mehr erforderlich sind — sie werden vernichtet oder was?",
+      "answer_type": "short", "gold": "anonymisiert", "accept": ["anonymisiert", "Anonymisierung", "vernichtet oder anonymisiert"],
+      "gold_article": ["6"], "also_acceptable_article": [],
+      "section": "Allgemeine Bestimmungen / Grundsätze", "topic": "principles", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Ein Unternehmen möchte ein neues IT-System zur Personendatenbearbeitung einführen. Ab welchem Zeitpunkt muss es den Datenschutz durch geeignete technische und organisatorische Massnahmen berücksichtigen?",
+      "answer_type": "short", "gold": "ab der Planung", "accept": ["ab der Planung", "bereits bei der Planung", "ab Planung", "von der Planung an"],
+      "gold_article": ["7"], "also_acceptable_article": [],
+      "section": "Allgemeine Bestimmungen / Grundsätze", "topic": "principles", "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Zählt der Gesundheitszustand einer Person nach der gesetzlichen Definition zu den besonders schützenswerten Personendaten?",
+      "answer_type": "yesno", "gold": "ja", "accept": ["yes"],
+      "gold_article": ["5"], "also_acceptable_article": [],
+      "section": "Allgemeine Bestimmungen / Begriffe", "topic": "principles", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Wie wird im DSG die private Person oder das Bundesorgan genannt, die oder das allein oder zusammen mit anderen über Zweck und Mittel der Bearbeitung entscheidet?",
+      "answer_type": "short", "gold": "Verantwortlicher", "accept": ["der Verantwortliche", "Verantwortliche"],
+      "gold_article": ["5"], "also_acceptable_article": [],
+      "section": "Allgemeine Bestimmungen / Begriffe", "topic": "principles", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Darf der Auftragsbearbeiter die Bearbeitung von Personendaten ohne vorgängige Genehmigung des Verantwortlichen einem Dritten übertragen?",
+      "answer_type": "yesno", "gold": "nein", "accept": ["no"],
+      "gold_article": ["9"], "also_acceptable_article": [],
+      "section": "Allgemeine Bestimmungen / Grundsätze", "topic": "principles", "difficulty": "applied"
+    }
+  }
+]

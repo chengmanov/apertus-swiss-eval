@@ -1,0 +1,262 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "en",
+      "circular": "2017/01",
+      "slug": "2017-01",
+      "question": "The chair of a bank's board of directors would like to sit on the audit committee as well. Is this permissible as a matter of principle?",
+      "answer_type": "yesno",
+      "gold": "no",
+      "accept": ["not permissible", "no, not permissible"],
+      "gold_rz": ["33"],
+      "also_acceptable_rz": [],
+      "section": "b) Committees",
+      "topic": "committees",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "en",
+      "circular": "2017/01",
+      "slug": "2017-01",
+      "question": "Must the chief risk officer of a systemically important bank be a member of the executive board?",
+      "answer_type": "yesno",
+      "gold": "yes",
+      "accept": [],
+      "gold_rz": ["68"],
+      "also_acceptable_rz": [],
+      "section": "a) Establishment and supervision",
+      "topic": "cro",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "en",
+      "circular": "2017/01",
+      "slug": "2017-01",
+      "question": "A bank participating in the small banks regime has seen no substantial change to its risk profile. May its internal audit conduct its comprehensive risk assessment every two years instead of annually?",
+      "answer_type": "yesno",
+      "gold": "yes",
+      "accept": ["permissible"],
+      "gold_rz": ["92"],
+      "also_acceptable_rz": [],
+      "section": "C. Duties and responsibilities",
+      "topic": "internal-audit",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "en",
+      "circular": "2017/01",
+      "slug": "2017-01",
+      "question": "May a member of a bank's board of directors send a representative to perform their board duties on their behalf?",
+      "answer_type": "yesno",
+      "gold": "no",
+      "accept": ["not permissible"],
+      "gold_rz": ["26"],
+      "also_acceptable_rz": [],
+      "section": "C. Basic principles governing a directorship",
+      "topic": "board-duties",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "en",
+      "circular": "2017/01",
+      "slug": "2017-01",
+      "question": "A bank intends to pay its risk control staff bonuses tied to the trading profits of the units they oversee. Is such a compensation scheme permissible?",
+      "answer_type": "yesno",
+      "gold": "no",
+      "accept": ["not permissible"],
+      "gold_rz": ["63"],
+      "also_acceptable_rz": [],
+      "section": "B. Independent control bodies",
+      "topic": "compensation",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "en",
+      "circular": "2017/01",
+      "slug": "2017-01",
+      "question": "May a bank's audit committee, rather than the full board of directors, select the head of internal audit?",
+      "answer_type": "yesno",
+      "gold": "yes",
+      "accept": ["permissible"],
+      "gold_rz": ["14"],
+      "also_acceptable_rz": [],
+      "section": "e) Monitoring and control",
+      "topic": "internal-audit",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Gold correct per Rz 17; added generous numeric/phrasing accept variants ('33.3%', 'at least a third') so equivalent formulations score fairly.",
+    "item": {
+      "lang": "en",
+      "circular": "2017/01",
+      "slug": "2017-01",
+      "question": "What is the minimum proportion of independent members that a bank's board of directors must have?",
+      "answer_type": "number",
+      "gold": "one third",
+      "accept": ["1/3", "a third", "one-third", "33%", "33.3%", "at least one third", "at least a third"],
+      "gold_rz": ["17"],
+      "also_acceptable_rz": [],
+      "section": "b) Independence",
+      "topic": "board-independence",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Gold correct per Rz 75 (executive-board reporting line); added frequency phrasing variants ('semiannually', 'half-yearly', 'twice yearly') for fair scoring.",
+    "item": {
+      "lang": "en",
+      "circular": "2017/01",
+      "slug": "2017-01",
+      "question": "At a minimum, how frequently must a bank's risk control function report to the executive board on the institution's risk profile?",
+      "answer_type": "duration",
+      "gold": "every six months",
+      "accept": ["six months", "every 6 months", "6 months", "semi-annually", "semiannually", "half-yearly", "twice a year", "twice yearly", "at least every six months"],
+      "gold_rz": ["75"],
+      "also_acceptable_rz": [],
+      "section": "b) Duties and responsibilities of risk control",
+      "topic": "risk-control",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Gold 'three years' correct and unique (the question pins the transitional period following designation, not the entry-into-force alternative also mentioned in Rz 105). Section label corrected from the lagging extraction header 'C. Duties and responsibilities' to 'Transitional provisions', which is the document section this Rz actually sits under.",
+    "item": {
+      "lang": "en",
+      "circular": "2017/01",
+      "slug": "2017-01",
+      "question": "Following its designation as a systemically important bank, how long is the transitional period an institution has to meet the more far-reaching provisions on risk data aggregation and reporting?",
+      "answer_type": "duration",
+      "gold": "three years",
+      "accept": ["3 years", "three-year period", "3-year period", "a three-year transitional period", "three-year transitional period"],
+      "gold_rz": ["105"],
+      "also_acceptable_rz": [],
+      "section": "Transitional provisions",
+      "topic": "transitional-provisions",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Gold correct per Rz 52 ('developed by the executive board, approved by the board of directors'). Section label corrected from the lagging extraction header 'B. Requirements to be met by members of the executive board' to 'Risk policy and basic features of institution-wide risk management' — the chunk text and the modification note both show the header changes before Rz 52.",
+    "item": {
+      "lang": "en",
+      "circular": "2017/01",
+      "slug": "2017-01",
+      "question": "Which body develops a bank's risk policy and the basic features of institution-wide risk management?",
+      "answer_type": "short",
+      "gold": "the executive board",
+      "accept": ["executive board", "executive management", "senior management"],
+      "gold_rz": ["52"],
+      "also_acceptable_rz": [],
+      "section": "Risk policy and basic features of institution-wide risk management",
+      "topic": "risk-policy",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "en",
+      "circular": "2017/01",
+      "slug": "2017-01",
+      "question": "Which organisation defines the qualitative requirements that a bank's internal audit must meet?",
+      "answer_type": "short",
+      "gold": "Institute of Internal Auditing Switzerland",
+      "accept": ["IIAS", "the Institute of Internal Auditing Switzerland", "Institute of Internal Auditing Switzerland (IIAS)"],
+      "gold_rz": ["89"],
+      "also_acceptable_rz": [],
+      "section": "B. Supervision and organisation",
+      "topic": "internal-audit",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "en",
+      "circular": "2017/01",
+      "slug": "2017-01",
+      "question": "The CEO of a bank wants to appoint the new chief risk officer himself. Which body is actually responsible for appointing the CRO?",
+      "answer_type": "short",
+      "gold": "the board of directors",
+      "accept": ["board of directors", "the board"],
+      "gold_rz": ["13"],
+      "also_acceptable_rz": [],
+      "section": "d) Personnel and other resources",
+      "topic": "cro",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Gold correct per Rz 78; added 'senior management' accept variant for consistency with the other executive-board short item (Rz 52), so the two items score the same body the same way.",
+    "item": {
+      "lang": "en",
+      "circular": "2017/01",
+      "slug": "2017-01",
+      "question": "Which body must approve the risk-oriented activity plan that a bank's compliance function draws up each year?",
+      "answer_type": "short",
+      "gold": "the executive board",
+      "accept": ["executive board", "executive management", "senior management"],
+      "gold_rz": ["78"],
+      "also_acceptable_rz": [],
+      "section": "c) Duties and responsibilities of the compliance function",
+      "topic": "compliance",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "en",
+      "circular": "2017/01",
+      "slug": "2017-01",
+      "question": "Which committees must every bank in supervisory categories 1 to 3 establish?",
+      "answer_type": "list",
+      "gold": ["audit committee", "risk committee"],
+      "accept": [["audit committee", "an audit committee"], ["risk committee", "a risk committee"]],
+      "gold_rz": ["31"],
+      "also_acceptable_rz": [],
+      "section": "b) Committees",
+      "topic": "committees",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "en",
+      "circular": "2017/01",
+      "slug": "2017-01",
+      "question": "At a minimum, the duties and responsibilities of which two functions must a bank's independent control bodies cover?",
+      "answer_type": "list",
+      "gold": ["risk control", "compliance function"],
+      "accept": [["risk control", "risk control function"], ["compliance function", "compliance"]],
+      "gold_rz": ["62"],
+      "also_acceptable_rz": [],
+      "section": "B. Independent control bodies",
+      "topic": "internal-controls",
+      "difficulty": "basic"
+    }
+  }
+]

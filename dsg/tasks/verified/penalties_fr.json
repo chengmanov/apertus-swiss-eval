@@ -1,0 +1,32 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr", "law": "DSG",
+      "question": "Quelle amende maximale encourt une personne privée qui révèle intentionnellement des données personnelles secrètes couvertes par le devoir de discrétion professionnel?",
+      "answer_type": "number", "gold": "250 000 francs", "accept": ["250000", "250 000", "250'000", "amende de 250 000 francs", "250000 francs"],
+      "gold_article": ["62"], "also_acceptable_article": [],
+      "section": "Dispositions pénales", "topic": "penalties", "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr", "law": "DSG",
+      "question": "Par combien d'années se prescrit l'action pénale pour les infractions à la loi sur la protection des données?",
+      "answer_type": "number", "gold": "cinq ans", "accept": ["5 ans", "5", "cinq"],
+      "gold_article": ["66"], "also_acceptable_article": [],
+      "section": "Dispositions pénales", "topic": "penalties", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr", "law": "DSG",
+      "question": "Les infractions pénales à la LPD commises par une personne privée sont-elles réprimées par une amende ou par une peine privative de liberté?",
+      "answer_type": "short", "gold": "une amende", "accept": ["amende", "par une amende"],
+      "gold_article": ["60"], "also_acceptable_article": ["61", "62", "63"],
+      "section": "Dispositions pénales", "topic": "penalties", "difficulty": "basic"
+    }
+  }
+]

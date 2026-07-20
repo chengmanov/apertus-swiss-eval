@@ -1,0 +1,62 @@
+[
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Ein Auftraggeber hat einer Person Geld übergeben, damit diese für ihn einen widerrechtlichen Erfolg herbeiführt. Kann er das Hingegebene zurückverlangen?",
+    "answer_type": "yesno",
+    "gold": "nein",
+    "accept": ["no"],
+    "gold_article": ["66"],
+    "also_acceptable_article": [],
+    "section": "Ungerechtfertigte Bereicherung",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Ein gutgläubiger Empfänger hat den erhaltenen Betrag verbraucht und ist im Zeitpunkt der Rückforderung nachweislich nicht mehr bereichert. Muss er trotzdem Rückerstattung leisten?",
+    "answer_type": "yesno",
+    "gold": "nein",
+    "accept": ["no"],
+    "gold_article": ["64"],
+    "also_acceptable_article": [],
+    "section": "Ungerechtfertigte Bereicherung",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Innerhalb welcher Frist ab Kenntnis vom Anspruch verjährt der Anspruch aus ungerechtfertigter Bereicherung?",
+    "answer_type": "duration",
+    "gold": "3 Jahre",
+    "accept": ["drei Jahre", "3"],
+    "gold_article": ["67"],
+    "also_acceptable_article": [],
+    "section": "Ungerechtfertigte Bereicherung",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Was muss jemand, der freiwillig eine Nichtschuld beglichen hat, nachweisen, um das Geleistete zurückfordern zu können?",
+    "answer_type": "short",
+    "gold": "Irrtum über die Schuldpflicht",
+    "accept": ["Irrtum über seine Schuldpflicht", "dass er sich im Irrtum befand", "einen Irrtum"],
+    "gold_article": ["63"],
+    "also_acceptable_article": [],
+    "section": "Ungerechtfertigte Bereicherung",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Welche beiden Arten von Aufwendungen auf die herauszugebende Sache sind dem Bereicherungsschuldner grundsätzlich zu ersetzen?",
+    "answer_type": "list",
+    "gold": ["notwendige Verwendungen", "nützliche Verwendungen"],
+    "accept": [["notwendige Verwendungen", "nützliche Verwendungen"], ["notwendige Aufwendungen", "nützliche Aufwendungen"]],
+    "gold_article": ["65"],
+    "also_acceptable_article": [],
+    "section": "Ungerechtfertigte Bereicherung",
+    "difficulty": "basic"
+  }
+]

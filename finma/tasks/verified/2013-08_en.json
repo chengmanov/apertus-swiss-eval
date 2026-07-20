@@ -1,0 +1,174 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "en",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "For the purposes of the definition of insider information, which two things circulating in the market do not constitute information?",
+      "answer_type": "list",
+      "gold": ["rumours", "speculation"],
+      "accept": [["rumors", "a rumour", "rumour"], ["speculations", "mere speculation"]],
+      "gold_rz": ["8"],
+      "also_acceptable_rz": [],
+      "section": "III. Insider information (Art. 2 let. j FMIA)",
+      "topic": "insider information",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "en",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "A trader entered a buy order for a listed share before coming into possession of insider information about the issuer. On learning the insider information, he cancels the order. Can this cancellation constitute misuse of insider information?",
+      "answer_type": "yesno",
+      "gold": "yes",
+      "accept": [],
+      "gold_rz": ["14"],
+      "also_acceptable_rz": [],
+      "section": "IV. Misuse of insider information (Art. 142 FMIA)",
+      "topic": "insider trading",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "en",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "A proprietary trading firm deploys a high-frequency trading algorithm in a way that sends false signals about the demand for a security. Is such use of algorithmic trading permitted under the market conduct rules?",
+      "answer_type": "yesno",
+      "gold": "no",
+      "accept": [],
+      "gold_rz": ["18"],
+      "also_acceptable_rz": [],
+      "section": "V. Market manipulation (Art. 143 FMIA)",
+      "topic": "algorithmic trading",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Accept list too narrow: added the common verb-form variant 'paint the tape' so legitimate phrasings score correctly.",
+    "item": {
+      "lang": "en",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "Which market manipulation technique involves entering a series of small orders at steadily rising or falling prices to feign greater supply or demand?",
+      "answer_type": "short",
+      "gold": "painting the tape",
+      "accept": ["tape painting", "paint the tape"],
+      "gold_rz": ["22"],
+      "also_acceptable_rz": [],
+      "section": "V. Market manipulation (Art. 143 FMIA)",
+      "topic": "market manipulation",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Type mismatch: 'once a year' is a frequency, not a duration, so it is not machine-checkable under the duration rules. Retyped as short with gold 'annually'; frequency phrasings moved to accept.",
+    "item": {
+      "lang": "en",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "How often, at a minimum on a regular basis, must supervised institutions assess their risks relating to the market conduct rules, in addition to ad-hoc assessments as required?",
+      "answer_type": "short",
+      "gold": "annually",
+      "accept": ["once a year", "once per year", "yearly", "every year", "at least once a year", "at least annually", "annual"],
+      "gold_rz": ["46"],
+      "also_acceptable_rz": [],
+      "section": "VII. Organisational requirements / A. Scope",
+      "topic": "risk assessment",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "en",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "A bank looks into the background of client trades whenever there are clear indications that they may breach the insider trading or market manipulation rules. Is the bank additionally obliged to screen all client securities transactions on a systematic basis?",
+      "answer_type": "yesno",
+      "gold": "no",
+      "accept": [],
+      "gold_rz": ["47"],
+      "also_acceptable_rz": [],
+      "section": "B. Dealing with market abuse",
+      "topic": "market abuse handling",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "en",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "A bank has isolated insider information about an issuer within a defined area of confidentiality. May other business units of the bank, outside that confidentiality area, continue to trade the securities concerned?",
+      "answer_type": "yesno",
+      "gold": "yes",
+      "accept": [],
+      "gold_rz": ["52"],
+      "also_acceptable_rz": [],
+      "section": "C. Information barriers / areas of confidentiality",
+      "topic": "information barriers",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "en",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "In what form must supervised institutions document the surveillance measures they apply to employee transactions?",
+      "answer_type": "short",
+      "gold": "internal directive",
+      "accept": ["an internal directive", "in an internal directive", "internal directives", "internal regulations"],
+      "gold_rz": ["55"],
+      "also_acceptable_rz": [],
+      "section": "D. Surveillance of employee transactions",
+      "topic": "employee transactions",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "en",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "Which two lists must supervised institutions maintain under the market conduct organisational requirements?",
+      "answer_type": "list",
+      "gold": ["watch list", "restricted list"],
+      "accept": [["watchlist", "watch-list"], ["restricted-list", "restriction list"]],
+      "gold_rz": ["56"],
+      "also_acceptable_rz": [],
+      "section": "E. Watch list and restricted list",
+      "topic": "compliance lists",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "en",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "For how long, at minimum, must recordings of telephone calls made by employees working in securities trading be retained?",
+      "answer_type": "duration",
+      "gold": "2 years",
+      "accept": ["two years", "at least two years", "at least 2 years", "24 months"],
+      "gold_rz": ["60"],
+      "also_acceptable_rz": [],
+      "section": "F. Documentation and recording requirements",
+      "topic": "record keeping",
+      "difficulty": "basic"
+    }
+  }
+]

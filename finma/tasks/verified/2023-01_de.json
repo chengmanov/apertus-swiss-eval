@@ -1,0 +1,274 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2023/01",
+      "slug": "2023-01",
+      "question": "Gehören strategische Risiken nach der bankaufsichtsrechtlichen Definition zu den operationellen Risiken?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no", "nein, sie sind ausgeschlossen"],
+      "gold_rz": ["3"],
+      "also_acceptable_rz": [],
+      "section": "II. Begriffe",
+      "topic": "begriffe",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2023/01",
+      "slug": "2023-01",
+      "question": "Welche drei Schutzaspekte sind bei der Beurteilung und Festlegung der Kritikalität von Daten einer Bank zu berücksichtigen?",
+      "answer_type": "list",
+      "gold": ["Vertraulichkeit", "Integrität", "Verfügbarkeit"],
+      "accept": [
+        ["Vertraulichkeit der Daten", "Confidentiality"],
+        ["Integrität der Daten", "Datenintegrität", "Integrity"],
+        ["Verfügbarkeit der Daten", "Availability"]
+      ],
+      "gold_rz": ["7"],
+      "also_acceptable_rz": [],
+      "section": "II. Begriffe",
+      "topic": "kritische-daten",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2023/01",
+      "slug": "2023-01",
+      "question": "Mit welcher Kennzahl wird im Business Continuity Management die maximal tolerierbare Dauer eines Datenverlusts bezeichnet?",
+      "answer_type": "short",
+      "gold": "Recovery Point Objective",
+      "accept": ["RPO", "Recovery Point Objective (RPO)", "die Recovery Point Objective"],
+      "gold_rz": ["10"],
+      "also_acceptable_rz": [],
+      "section": "II. Begriffe",
+      "topic": "bcm",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2023/01",
+      "slug": "2023-01",
+      "question": "Eine Bank der FINMA-Aufsichtskategorie 5 geht davon aus, dass das Rundschreiben zu operationellen Risiken und Resilienz für sie insgesamt keine Anwendung findet. Trifft diese Annahme zu?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no", "trifft nicht zu"],
+      "gold_rz": ["20"],
+      "also_acceptable_rz": ["19"],
+      "section": "III. Proportionalitätsprinzip",
+      "topic": "proportionalitaet",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2023/01",
+      "slug": "2023-01",
+      "question": "Für den Umgang mit welchen vier Themenbereichen muss das Oberleitungsorgan eines Instituts regelmässig Strategien genehmigen und deren Einhaltung überwachen?",
+      "answer_type": "list",
+      "gold": ["IKT", "Cyber-Risiken", "kritische Daten", "BCM"],
+      "accept": [
+        ["Informations- und Kommunikationstechnologie", "Informations- und Kommunikationstechnologie (IKT)"],
+        ["Cyberrisiken", "Cyber Risiken", "Cyber-Risiko"],
+        ["kritischen Daten", "Umgang mit kritischen Daten"],
+        ["Business Continuity Management", "Business Continuity Management (BCM)"]
+      ],
+      "gold_rz": ["24"],
+      "also_acceptable_rz": [],
+      "section": "IV. Management der operationellen Risiken / A. Übergreifendes Management der operationellen Risiken",
+      "topic": "governance",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Type-rule violation: 'halbjährlich' is a frequency adverb, not a number+unit duration as required for answer_type 'duration'. Gold changed to '6 Monate' (a true duration matching the question 'In welchem zeitlichen Mindestabstand'); 'halbjährlich' and other legitimate frequency phrasings kept/added as accept variants.",
+    "item": {
+      "lang": "de",
+      "circular": "2023/01",
+      "slug": "2023-01",
+      "question": "In welchem zeitlichen Mindestabstand muss die Risikokontrolle einer Bank der Geschäftsleitung über die operationellen Risiken Bericht erstatten?",
+      "answer_type": "duration",
+      "gold": "6 Monate",
+      "accept": ["sechs Monate", "alle 6 Monate", "alle sechs Monate", "halbjährlich", "mindestens halbjährlich", "zweimal jährlich", "2x pro Jahr"],
+      "gold_rz": ["39"],
+      "also_acceptable_rz": [],
+      "section": "IV. Management der operationellen Risiken / A. Übergreifendes Management der operationellen Risiken",
+      "topic": "berichterstattung",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Rz 51 is on the Rz 20 exemption list for FINMA categories 4/5; for a generic 'Institut' the yes/no is therefore ambiguous (a category-4/5 institute is not bound by Rz 51). Question now names a category-3 institute so the gold 'nein' is unambiguous.",
+    "item": {
+      "lang": "de",
+      "circular": "2023/01",
+      "slug": "2023-01",
+      "question": "Ein Institut der FINMA-Aufsichtskategorie 3 möchte aus Kostengründen die Softwareentwicklung, das Testen und die IKT-Produktion in ein und derselben Umgebung betreiben. Ist das zulässig?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no", "nicht zulässig"],
+      "gold_rz": ["51"],
+      "also_acceptable_rz": [],
+      "section": "b) Änderungsmanagement (Change Management)",
+      "topic": "ikt",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2023/01",
+      "slug": "2023-01",
+      "question": "Ein IKT-Vorfall stört aus Sicht einer Bank die Erbringung ihrer kritischen Prozesse wesentlich und ist auch für die Aufsicht bedeutsam. Muss die Bank den Vorfall der FINMA unverzüglich melden?",
+      "answer_type": "yesno",
+      "gold": "ja",
+      "accept": ["yes", "ja, unverzüglich"],
+      "gold_rz": ["60"],
+      "also_acceptable_rz": [],
+      "section": "d) Vorfallmanagement (Incident Management)",
+      "topic": "vorfallmanagement",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Removed '3 Tage' from accept: it is an arithmetic conversion, not a unit variant of the hour-based 72-Stunden deadline in Rz 68, and invites a (wrong) business-days reading. Strict unit matching retained.",
+    "item": {
+      "lang": "de",
+      "circular": "2023/01",
+      "slug": "2023-01",
+      "question": "Eine Bank hat nach einer erfolgreichen Cyber-Attacke die Erstbeurteilung vorgenommen und die zuständige Stelle bei der FINMA vororientiert. Innerhalb welcher Frist muss sie die Meldung gemäss dem Anforderungskatalog der Erhebungsplattform EHP (Pflichtfelder) übermitteln?",
+      "answer_type": "duration",
+      "gold": "72 Stunden",
+      "accept": ["72h", "innerhalb von 72 Stunden", "innert 72 Stunden"],
+      "gold_rz": ["68"],
+      "also_acceptable_rz": [],
+      "section": "C. Management der Cyber-Risiken",
+      "topic": "cyber",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Rz 76 is also on the Rz 20 exemption list for categories 4/5 (76–78) — missed in the author's notes; a generic 'Bank' makes the yes/no ambiguous for exempt institutes. Question now names a category-3 bank.",
+    "item": {
+      "lang": "de",
+      "circular": "2023/01",
+      "slug": "2023-01",
+      "question": "Eine Bank der FINMA-Aufsichtskategorie 3 möchte unveränderte kritische Kundendaten ohne besondere Schutzmassnahmen in eine Testumgebung kopieren. Ist dieses Vorgehen zulässig?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no", "nicht zulässig"],
+      "gold_rz": ["76"],
+      "also_acceptable_rz": [],
+      "section": "D. Management der Risiken kritischer Daten",
+      "topic": "kritische-daten",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Two issues: (1) the question copied the Rz 79 obligation nearly verbatim (rule 4 — no full distinctive sentence in the question); (2) Rz 21 exempts small-banks-regime institutes (Art. 47a–47e ERV), Art.-1b persons and non-account-holding securities houses from Rz 79. Paraphrased and named a category-3 bank, which cannot fall under any Rz 21 exemption.",
+    "item": {
+      "lang": "de",
+      "circular": "2023/01",
+      "slug": "2023-01",
+      "question": "Eine Bank der FINMA-Aufsichtskategorie 3 plant, kritische Daten in einem Rechenzentrum im Ausland zu speichern. Muss sie für diese Auslandsspeicherung zusätzliche risikobegrenzende und überwachende Massnahmen ergreifen?",
+      "answer_type": "yesno",
+      "gold": "ja",
+      "accept": ["yes"],
+      "gold_rz": ["79"],
+      "also_acceptable_rz": [],
+      "section": "D. Management der Risiken kritischer Daten",
+      "topic": "kritische-daten",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Question mirrored the Rz 84 sentence nearly verbatim minus the answer (rule 4); paraphrased while keeping the defined term 'kritische Prozesse' for retrievability. Added hyphenated German spelling 'Business-Impact-Analyse' to accept.",
+    "item": {
+      "lang": "de",
+      "circular": "2023/01",
+      "slug": "2023-01",
+      "question": "Mit welcher Analyse ermitteln die relevanten Geschäfts- und Organisationsbereiche einer Bank, welche ihrer Prozesse kritisch sind und welche Ressourcen diese erfordern?",
+      "answer_type": "short",
+      "gold": "Business Impact Analyse",
+      "accept": ["BIA", "Business Impact Analyse (BIA)", "Business Impact Analysis", "Business-Impact-Analyse"],
+      "gold_rz": ["84"],
+      "also_acceptable_rz": [],
+      "section": "E. Business Continuity Management (BCM)",
+      "topic": "bcm",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Question copied the distinctive Rz 89 sentence nearly verbatim ('die Krisenbewältigung bis zur Wiederherstellung eines ordnungsgemässen Zustands zu übernehmen'); paraphrased per rule 4. Gold and citation unchanged.",
+    "item": {
+      "lang": "de",
+      "circular": "2023/01",
+      "slug": "2023-01",
+      "question": "Welches Gremium übernimmt bei einem Institut die Bewältigung einer Krisensituation, bis wieder ein ordnungsgemässer Zustand erreicht ist?",
+      "answer_type": "short",
+      "gold": "Krisenstab",
+      "accept": ["der Krisenstab", "ein Krisenstab"],
+      "gold_rz": ["89"],
+      "also_acceptable_rz": [],
+      "section": "E. Business Continuity Management (BCM)",
+      "topic": "bcm",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Removed Rz 101 from also_acceptable_rz: it is not directly adjacent to Rz 103 (Rz 102 intervenes) and supports only the approving organ, not the 'mindestens jährlich' frequency asked in the question — it fails both criteria of rule 8. Generic phrasing retained: Rz 101 (not exemption-affected) assigns approval to the same organ, so the answer stays unambiguous even for category-4/5 institutes.",
+    "item": {
+      "lang": "de",
+      "circular": "2023/01",
+      "slug": "2023-01",
+      "question": "Welches Organ eines Instituts muss die kritischen Funktionen und die damit verbundenen Unterbrechungstoleranzen mindestens jährlich genehmigen?",
+      "answer_type": "short",
+      "gold": "Oberleitungsorgan",
+      "accept": ["das Oberleitungsorgan", "Verwaltungsrat", "Oberleitungsorgan (Verwaltungsrat)"],
+      "gold_rz": ["103"],
+      "also_acceptable_rz": [],
+      "section": "V. Sicherstellung der operationellen Resilienz",
+      "topic": "operationelle-resilienz",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2023/01",
+      "slug": "2023-01",
+      "question": "Innert welcher Übergangsfrist ab Inkrafttreten des FINMA-Rundschreibens 2023/1 wird die Sicherstellung der operationellen Resilienz unter Berücksichtigung schwerwiegender, aber plausibler Szenarien erwartet?",
+      "answer_type": "duration",
+      "gold": "2 Jahre",
+      "accept": ["zwei Jahre", "24 Monate", "innert zwei Jahren"],
+      "gold_rz": ["113"],
+      "also_acceptable_rz": [],
+      "section": "VII. Übergangsbestimmungen / A. Betreffend die Sicherstellung der operationellen Resilienz",
+      "topic": "uebergangsbestimmungen",
+      "difficulty": "basic"
+    }
+  }
+]

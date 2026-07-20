@@ -1,0 +1,26 @@
+{
+  "short": "HMG",
+  "abbr_fr": "LPTh",
+  "law_full_de": "Bundesgesetz über Arzneimittel und Medizinprodukte (Heilmittelgesetz, HMG)",
+  "law_full_en": "Therapeutic Products Act (Heilmittelgesetz)",
+  "sr": "812.21",
+  "eli": "cc/2001/422",
+  "consolidation": "2025-01-01",
+  "industry": "Healthcare & Pharma",
+  "industry_slug": "healthcare-pharma",
+  "slug": "hmg-ablation",
+  "repo": "apertus-hmg-eval",
+  "domain_en": "Swiss therapeutic-products regulation",
+  "domain_de": "Schweizer Heilmittelrecht",
+  "task_line": "answering questions about the Swiss Therapeutic Products Act with a citation to the exact article it rests on",
+  "corpus_desc": "the consolidated Swiss Therapeutic Products Act (HMG, SR 812.21), in force 2025-01-01, in German and French",
+  "n_articles": 96,
+  "citation_unit": "article number",
+  "why_citation": "A regulatory-affairs officer asking \"how long is a marketing authorisation valid?\" needs \"Art. 16 HMG — five years\", not a paragraph of confident prose. An assistant that answers correctly but cites the wrong article is scored as a failure, because in a Swissmedic submission it is one.",
+  "extra_context": "The HMG governs the authorisation, manufacture and marketing of medicinal products and medical devices in Switzerland — the core statute for every pharma, biotech and medtech company in the market, enforced by Swissmedic. Getting the exact article right is the difference between a defensible regulatory answer and a liability.",
+  "faq": [
+    ["Is this on our data?", "No — deliberately. It runs entirely on the public, pinned Fedlex text of the HMG so anyone can reproduce it. In a Pilot the identical method runs on your dossiers and SOPs, inside your environment, and the report stays yours."],
+    ["Why does fine-tuning alone (arm C) fail?", "Because a small model can't reliably recall exact article numbers from parameters. The fine-tune teaches the answer/citation format and which article governs which topic, but the exact citation still needs the retrieved text in front of it. The winning system is fine-tuning plus retrieval, not either alone."],
+    ["Is there an LLM judge?", "No LLM judge anywhere. The HMG numbers its articles; a correct citation is exactly checkable. Answer accuracy is string/number matching against a verified gold answer; citation is an exact article match. Every number is recomputed from frozen run records with 95% Wilson intervals."]
+  ]
+}

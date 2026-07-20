@@ -1,0 +1,108 @@
+[
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "En droit des obligations, quel délai de prescription s'applique à une action lorsque le droit civil fédéral ne fixe aucun délai particulier?",
+    "answer_type": "duration",
+    "gold": "10 ans",
+    "accept": ["dix ans", "10 années", "10 ans"],
+    "gold_article": ["127"],
+    "also_acceptable_article": [],
+    "section": "Extinction des obligations / Prescription",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Lorsque plusieurs coresponsables sont tenus solidairement, celui qui a indemnisé le créancier peut se retourner contre les autres. Dans quel délai son action récursoire se prescrit-elle dès le jour de l'indemnisation?",
+    "answer_type": "duration",
+    "gold": "3 ans",
+    "accept": ["trois ans", "3 années", "3 ans"],
+    "gold_article": ["139"],
+    "also_acceptable_article": [],
+    "section": "Extinction des obligations / Prescription",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "En cas de doute sur les intentions des parties, la novation d'une dette est-elle présumée?",
+    "answer_type": "yesno",
+    "gold": "non",
+    "accept": ["no"],
+    "gold_article": ["116"],
+    "also_acceptable_article": [],
+    "section": "Extinction des obligations / Novation",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Deux sociétés se doivent réciproquement des sommes d'argent exigibles. La créance que l'une d'elles fait valoir en compensation est toutefois contestée par l'autre partie. Cette société peut-elle malgré tout opposer la compensation?",
+    "answer_type": "yesno",
+    "gold": "oui",
+    "accept": ["yes"],
+    "gold_article": ["120"],
+    "also_acceptable_article": [],
+    "section": "Extinction des obligations / Compensation",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Si un débiteur ne soulève pas lui-même l'exception de prescription, le juge peut-il l'appliquer d'office en sa faveur?",
+    "answer_type": "yesno",
+    "gold": "non",
+    "accept": ["no"],
+    "gold_article": ["142"],
+    "also_acceptable_article": [],
+    "section": "Extinction des obligations / Prescription",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Quelles catégories de créances ne peuvent pas être éteintes par compensation lorsque le créancier s'y oppose?",
+    "answer_type": "list",
+    "gold": [
+      "restitution ou contre-valeur d'une chose déposée, soustraite sans droit ou retenue par dol",
+      "aliments et salaire nécessaires à l'entretien du débiteur et de sa famille",
+      "créances de droit public en faveur de l'État et des communes"
+    ],
+    "accept": [
+      [
+        "créances en restitution d'une chose déposée ou retenue par dol",
+        "aliments et salaire nécessaires à l'entretien",
+        "créances de droit public de l'État et des communes"
+      ]
+    ],
+    "gold_article": ["125"],
+    "also_acceptable_article": [],
+    "section": "Extinction des obligations / Compensation",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Lorsqu'une même personne réunit sur sa tête la qualité de créancier et celle de débiteur d'une même obligation, par exemple à la suite d'une succession, par quel mode l'obligation s'éteint-elle?",
+    "answer_type": "short",
+    "gold": "confusion",
+    "accept": ["par confusion", "la confusion", "extinction par confusion"],
+    "gold_article": ["118"],
+    "also_acceptable_article": [],
+    "section": "Extinction des obligations / Confusion",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Dans un contrat bilatéral dont l'exécution est devenue impossible sans faute du débiteur, selon quelles règles ce dernier, ainsi libéré, doit-il restituer ce qu'il a déjà reçu?",
+    "answer_type": "short",
+    "gold": "enrichissement illégitime",
+    "accept": ["les règles de l'enrichissement illégitime", "règles de l'enrichissement illégitime", "enrichissement illegitime"],
+    "gold_article": ["119"],
+    "also_acceptable_article": [],
+    "section": "Extinction des obligations / Impossibilité d'exécution",
+    "difficulty": "applied"
+  }
+]

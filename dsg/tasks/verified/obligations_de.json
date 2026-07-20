@@ -1,0 +1,62 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Werden Personendaten nicht bei der betroffenen Person selbst beschafft, spätestens innerhalb welcher Frist nach Erhalt der Daten muss der Verantwortliche sie informieren?",
+      "answer_type": "duration", "gold": "ein Monat", "accept": ["1 Monat", "einen Monat", "innerhalb eines Monats", "Monat"],
+      "gold_article": ["19"], "also_acceptable_article": [],
+      "section": "Pflichten des Verantwortlichen", "topic": "obligations", "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Muss der Verantwortliche vorgängig eine Datenschutz-Folgenabschätzung erstellen, wenn eine Bearbeitung voraussichtlich ein hohes Risiko für die Persönlichkeit oder die Grundrechte der betroffenen Person mit sich bringt?",
+      "answer_type": "yesno", "gold": "ja", "accept": ["yes"],
+      "gold_article": ["22"], "also_acceptable_article": [],
+      "section": "Pflichten des Verantwortlichen", "topic": "obligations", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Muss der Verantwortliche eine Verletzung der Datensicherheit mit voraussichtlich hohem Risiko dem EDÖB melden, und wenn ja, wie rasch?",
+      "answer_type": "short", "gold": "so rasch als möglich", "accept": ["so rasch als möglich", "so schnell wie möglich", "unverzüglich"],
+      "gold_article": ["24"], "also_acceptable_article": [],
+      "section": "Pflichten des Verantwortlichen", "topic": "obligations", "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Bis zu welcher Mitarbeiterzahl kann der Bundesrat Unternehmen mit geringem Bearbeitungsrisiko von der Pflicht zur Führung eines Verzeichnisses der Bearbeitungstätigkeiten ausnehmen?",
+      "answer_type": "number", "gold": "250", "accept": ["250 Mitarbeiter", "weniger als 250", "250 Mitarbeiterinnen und Mitarbeiter"],
+      "gold_article": ["12"], "also_acceptable_article": [],
+      "section": "Pflichten des Verantwortlichen", "topic": "obligations", "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Ein Unternehmen mit Sitz im Ausland bearbeitet umfangreich und regelmässig Personendaten von Personen in der Schweiz mit hohem Risiko. Muss es eine Vertretung in der Schweiz bezeichnen?",
+      "answer_type": "yesno", "gold": "ja", "accept": ["yes"],
+      "gold_article": ["14"], "also_acceptable_article": [],
+      "section": "Datenbearbeitung durch Verantwortliche im Ausland", "topic": "obligations", "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Führen sowohl der Verantwortliche als auch der Auftragsbearbeiter je ein Verzeichnis ihrer Bearbeitungstätigkeiten?",
+      "answer_type": "yesno", "gold": "ja", "accept": ["yes"],
+      "gold_article": ["12"], "also_acceptable_article": [],
+      "section": "Pflichten des Verantwortlichen", "topic": "obligations", "difficulty": "basic"
+    }
+  }
+]

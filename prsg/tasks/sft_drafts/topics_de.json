@@ -1,0 +1,342 @@
+[
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 6 des Produktesicherheitsgesetzes?",
+  "answer_type": "short",
+  "gold": "Technische Normen",
+  "accept": [
+   "Technische Normen",
+   "technische normen"
+  ],
+  "gold_article": [
+   "6"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 6 PrSG?",
+  "answer_type": "short",
+  "gold": "Technische Normen",
+  "accept": [
+   "Technische Normen",
+   "technische normen"
+  ],
+  "gold_article": [
+   "6"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 7 des Produktesicherheitsgesetzes?",
+  "answer_type": "short",
+  "gold": "Konformitätsbewertung",
+  "accept": [
+   "Konformitätsbewertung",
+   "konformitätsbewertung"
+  ],
+  "gold_article": [
+   "7"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 7 PrSG?",
+  "answer_type": "short",
+  "gold": "Konformitätsbewertung",
+  "accept": [
+   "Konformitätsbewertung",
+   "konformitätsbewertung"
+  ],
+  "gold_article": [
+   "7"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 11 des Produktesicherheitsgesetzes?",
+  "answer_type": "short",
+  "gold": "Mitwirkungs- und Auskunftspflicht",
+  "accept": [
+   "Mitwirkungs- und Auskunftspflicht",
+   "mitwirkungs- und auskunftspflicht"
+  ],
+  "gold_article": [
+   "11"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 11 PrSG?",
+  "answer_type": "short",
+  "gold": "Mitwirkungs- und Auskunftspflicht",
+  "accept": [
+   "Mitwirkungs- und Auskunftspflicht",
+   "mitwirkungs- und auskunftspflicht"
+  ],
+  "gold_article": [
+   "11"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 12 des Produktesicherheitsgesetzes?",
+  "answer_type": "short",
+  "gold": "Schweigepflicht",
+  "accept": [
+   "Schweigepflicht",
+   "schweigepflicht"
+  ],
+  "gold_article": [
+   "12"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 12 PrSG?",
+  "answer_type": "short",
+  "gold": "Schweigepflicht",
+  "accept": [
+   "Schweigepflicht",
+   "schweigepflicht"
+  ],
+  "gold_article": [
+   "12"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 13 des Produktesicherheitsgesetzes?",
+  "answer_type": "short",
+  "gold": "Datenschutz und Amtshilfe",
+  "accept": [
+   "Datenschutz und Amtshilfe",
+   "datenschutz und amtshilfe"
+  ],
+  "gold_article": [
+   "13"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 13 PrSG?",
+  "answer_type": "short",
+  "gold": "Datenschutz und Amtshilfe",
+  "accept": [
+   "Datenschutz und Amtshilfe",
+   "datenschutz und amtshilfe"
+  ],
+  "gold_article": [
+   "13"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 14 des Produktesicherheitsgesetzes?",
+  "answer_type": "short",
+  "gold": "Gebühren und Finanzierung des Vollzugs",
+  "accept": [
+   "Gebühren und Finanzierung des Vollzugs",
+   "gebühren und finanzierung des vollzugs"
+  ],
+  "gold_article": [
+   "14"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 14 PrSG?",
+  "answer_type": "short",
+  "gold": "Gebühren und Finanzierung des Vollzugs",
+  "accept": [
+   "Gebühren und Finanzierung des Vollzugs",
+   "gebühren und finanzierung des vollzugs"
+  ],
+  "gold_article": [
+   "14"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 18 des Produktesicherheitsgesetzes?",
+  "answer_type": "short",
+  "gold": "Unrechtmässiger Vermögensvorteil",
+  "accept": [
+   "Unrechtmässiger Vermögensvorteil",
+   "unrechtmässiger vermögensvorteil"
+  ],
+  "gold_article": [
+   "18"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 18 PrSG?",
+  "answer_type": "short",
+  "gold": "Unrechtmässiger Vermögensvorteil",
+  "accept": [
+   "Unrechtmässiger Vermögensvorteil",
+   "unrechtmässiger vermögensvorteil"
+  ],
+  "gold_article": [
+   "18"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 20 des Produktesicherheitsgesetzes?",
+  "answer_type": "short",
+  "gold": "Aufhebung und Änderung bisherigen Rechts",
+  "accept": [
+   "Aufhebung und Änderung bisherigen Rechts",
+   "aufhebung und änderung bisherigen rechts"
+  ],
+  "gold_article": [
+   "20"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 20 PrSG?",
+  "answer_type": "short",
+  "gold": "Aufhebung und Änderung bisherigen Rechts",
+  "accept": [
+   "Aufhebung und Änderung bisherigen Rechts",
+   "aufhebung und änderung bisherigen rechts"
+  ],
+  "gold_article": [
+   "20"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 21 des Produktesicherheitsgesetzes?",
+  "answer_type": "short",
+  "gold": "Übergangsbestimmungen",
+  "accept": [
+   "Übergangsbestimmungen",
+   "übergangsbestimmungen"
+  ],
+  "gold_article": [
+   "21"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 21 PrSG?",
+  "answer_type": "short",
+  "gold": "Übergangsbestimmungen",
+  "accept": [
+   "Übergangsbestimmungen",
+   "übergangsbestimmungen"
+  ],
+  "gold_article": [
+   "21"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 22 des Produktesicherheitsgesetzes?",
+  "answer_type": "short",
+  "gold": "Referendum und Inkrafttreten",
+  "accept": [
+   "Referendum und Inkrafttreten",
+   "referendum und inkrafttreten"
+  ],
+  "gold_article": [
+   "22"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "PrSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 22 PrSG?",
+  "answer_type": "short",
+  "gold": "Referendum und Inkrafttreten",
+  "accept": [
+   "Referendum und Inkrafttreten",
+   "referendum und inkrafttreten"
+  ],
+  "gold_article": [
+   "22"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ }
+]

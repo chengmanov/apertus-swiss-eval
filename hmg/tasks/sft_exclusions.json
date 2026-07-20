@@ -1,0 +1,12 @@
+{
+  "description": "Articles cited as gold in the HMG eval set; excluded from SFT to prevent contamination.",
+  "articles": [
+    "4",
+    "9",
+    "14",
+    "16",
+    "68",
+    "86",
+    "87"
+  ]
+}

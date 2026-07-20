@@ -1,0 +1,12 @@
+# Normalize all text to LF in the repo (authored on Windows).
+* text=auto eol=lf
+
+# Scripts must be LF regardless of platform (they run on Linux).
+*.sh   text eol=lf
+*.py   text eol=lf
+*.jinja text eol=lf
+
+# Binary artifacts (also gitignored, listed for safety).
+*.gguf   binary
+*.pdf    binary
+*.safetensors binary

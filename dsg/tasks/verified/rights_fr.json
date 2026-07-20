@@ -1,0 +1,42 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr", "law": "DSG",
+      "question": "Dans quel délai, en règle générale, les renseignements demandés dans le cadre du droit d'accès sont-ils fournis à la personne concernée?",
+      "answer_type": "number", "gold": "30 jours", "accept": ["30", "dans un délai de 30 jours", "trente jours"],
+      "gold_article": ["25"], "also_acceptable_article": [],
+      "section": "Droits de la personne concernée", "topic": "rights", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr", "law": "DSG",
+      "question": "Une personne peut-elle renoncer par avance à son droit d'accès selon la LPD?",
+      "answer_type": "yesno", "gold": "non", "accept": ["no"],
+      "gold_article": ["25"], "also_acceptable_article": [],
+      "section": "Droits de la personne concernée", "topic": "rights", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr", "law": "DSG",
+      "question": "Le responsable du traitement doit-il en principe fournir gratuitement les renseignements demandés au titre du droit d'accès?",
+      "answer_type": "yesno", "gold": "oui", "accept": ["yes"],
+      "gold_article": ["25"], "also_acceptable_article": [],
+      "section": "Droits de la personne concernée", "topic": "rights", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "fr", "law": "DSG",
+      "question": "Lors d'une décision individuelle automatisée produisant un effet juridique, la personne concernée peut-elle exiger que la décision soit revue par une personne physique?",
+      "answer_type": "yesno", "gold": "oui", "accept": ["yes"],
+      "gold_article": ["21"], "also_acceptable_article": [],
+      "section": "Devoirs du responsable du traitement", "topic": "rights", "difficulty": "applied"
+    }
+  }
+]

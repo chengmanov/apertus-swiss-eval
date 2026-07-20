@@ -1,0 +1,146 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Setzt die Schadenersatzpflicht aus unerlaubter Handlung nach dem allgemeinen Verschuldenstatbestand voraus, dass der Schädiger den Schaden absichtlich zugefügt hat?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no"],
+      "gold_article": ["41"],
+      "also_acceptable_article": [],
+      "section": "Unerlaubte Handlungen / Haftungsvoraussetzungen",
+      "topic": "torts",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Wer trägt bei einem Anspruch aus unerlaubter Handlung die Beweislast für den eingetretenen Schaden?",
+      "answer_type": "short",
+      "gold": "der Geschädigte",
+      "accept": ["der Anspruchsteller", "der Kläger", "wer Schadenersatz beansprucht", "der Schadenersatz Beanspruchende"],
+      "gold_article": ["42"],
+      "also_acceptable_article": [],
+      "section": "Unerlaubte Handlungen / Schadenersatz — Beweis",
+      "topic": "torts",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Ein Schädiger hat den Schaden bloss leicht fahrlässig verursacht und geriete durch die volle Ersatzleistung in eine Notlage. Darf das Gericht die Ersatzpflicht aus diesem Grund herabsetzen?",
+      "answer_type": "yesno",
+      "gold": "ja",
+      "accept": ["yes"],
+      "gold_article": ["44"],
+      "also_acceptable_article": [],
+      "section": "Unerlaubte Handlungen / Bemessung — Herabsetzung",
+      "topic": "torts",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Bei einer Körperverletzung: Für welche Höchstdauer ab dem Urteilstag kann das Gericht eine Abänderung des Urteils vorbehalten, wenn die Folgen der Verletzung noch nicht mit hinreichender Sicherheit feststehen?",
+      "answer_type": "duration",
+      "gold": "2 Jahre",
+      "accept": ["zwei Jahre", "2 Jahre ab dem Urteil"],
+      "gold_article": ["46"],
+      "also_acceptable_article": [],
+      "section": "Unerlaubte Handlungen / Körperverletzung",
+      "topic": "torts",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "In welchen drei Beteiligungsrollen führt gemeinsames Verschulden mehrerer Personen zur solidarischen Haftung gegenüber dem Geschädigten?",
+      "answer_type": "list",
+      "gold": ["Anstifter", "Urheber", "Gehilfe"],
+      "accept": [["Anstifter", "Urheber", "Gehilfen"], ["Anstifter", "Täter", "Gehilfe"]],
+      "gold_article": ["50"],
+      "also_acceptable_article": [],
+      "section": "Unerlaubte Handlungen / Mehrere Ersatzpflichtige",
+      "topic": "torts",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Jemand wehrt in gerechtfertigter Notwehr einen Angriff ab und fügt dabei dem Angreifer an dessen Person oder Vermögen einen Schaden zu. Muss er diesen Schaden ersetzen?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no"],
+      "gold_article": ["52"],
+      "also_acceptable_article": [],
+      "section": "Unerlaubte Handlungen / Haftungsausschluss (Notwehr)",
+      "topic": "torts",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Ein frei laufender Hund beisst einen Spaziergänger und verursacht dadurch einen Schaden. Welche Person haftet dafür grundsätzlich nach dem Gesetz?",
+      "answer_type": "short",
+      "gold": "der Tierhalter",
+      "accept": ["der Halter", "wer das Tier hält", "der Hundehalter", "der Halter des Tieres"],
+      "gold_article": ["56"],
+      "also_acceptable_article": [],
+      "section": "Unerlaubte Handlungen / Tierhalterhaftung",
+      "topic": "torts",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Von einem mangelhaft unterhaltenen Gebäude löst sich ein Bauteil und verletzt einen Passanten. Haftet der Eigentümer des Gebäudes für diesen Schaden, auch wenn ihm kein persönliches Verschulden nachgewiesen wird?",
+      "answer_type": "yesno",
+      "gold": "ja",
+      "accept": ["yes"],
+      "gold_article": ["58"],
+      "also_acceptable_article": [],
+      "section": "Unerlaubte Handlungen / Werkeigentümerhaftung",
+      "topic": "torts",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Innert welcher Frist ab Kenntnis vom Schaden und von der ersatzpflichtigen Person verjährt der Anspruch auf Schadenersatz aus unerlaubter Handlung nach der relativen Verjährungsfrist?",
+      "answer_type": "duration",
+      "gold": "3 Jahre",
+      "accept": ["drei Jahre"],
+      "gold_article": ["60"],
+      "also_acceptable_article": [],
+      "section": "Unerlaubte Handlungen / Verjährung",
+      "topic": "torts",
+      "difficulty": "basic"
+    }
+  }
+]

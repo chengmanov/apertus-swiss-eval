@@ -1,0 +1,62 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Innerhalb welcher Frist wird einer betroffenen Person, die ein Auskunftsgesuch stellt, die Auskunft in der Regel erteilt?",
+      "answer_type": "number", "gold": "30 Tage", "accept": ["30", "30 Tagen", "innerhalb von 30 Tagen", "dreissig Tage"],
+      "gold_article": ["25"], "also_acceptable_article": [],
+      "section": "Rechte der betroffenen Person", "topic": "rights", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Kann eine Person im Voraus rechtsgültig auf ihr Auskunftsrecht nach dem DSG verzichten?",
+      "answer_type": "yesno", "gold": "nein", "accept": ["no"],
+      "gold_article": ["25"], "also_acceptable_article": [],
+      "section": "Rechte der betroffenen Person", "topic": "rights", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Muss der Verantwortliche der betroffenen Person die Auskunft über ihre bearbeiteten Personendaten grundsätzlich kostenlos erteilen?",
+      "answer_type": "yesno", "gold": "ja", "accept": ["yes"],
+      "gold_article": ["25"], "also_acceptable_article": [],
+      "section": "Rechte der betroffenen Person", "topic": "rights", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "In welchem Format kann eine Person vom Verantwortlichen die Herausgabe der Personendaten verlangen, die sie ihm bekanntgegeben hat und die automatisiert bearbeitet werden?",
+      "answer_type": "short", "gold": "in einem gängigen elektronischen Format", "accept": ["gängiges elektronisches Format", "elektronisches Format", "gängigen elektronischen Format"],
+      "gold_article": ["28"], "also_acceptable_article": [],
+      "section": "Rechte der betroffenen Person", "topic": "rights", "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Bei einer automatisierten Einzelentscheidung mit Rechtsfolge: kann die betroffene Person verlangen, dass die Entscheidung von einer natürlichen Person überprüft wird?",
+      "answer_type": "yesno", "gold": "ja", "accept": ["yes"],
+      "gold_article": ["21"], "also_acceptable_article": [],
+      "section": "Pflichten des Verantwortlichen", "topic": "rights", "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Kann die betroffene Person vom Verantwortlichen verlangen, dass unrichtige Personendaten berichtigt werden?",
+      "answer_type": "yesno", "gold": "ja", "accept": ["yes"],
+      "gold_article": ["32"], "also_acceptable_article": [],
+      "section": "Datenbearbeitung durch private Personen", "topic": "rights", "difficulty": "basic"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+# downloaded corpus (re-fetchable via the pinned manifest)
+data/raw/
+# derived text (regenerate with scripts/extract_articles.py)
+data/text/
+# python
+.venv/
+__pycache__/
+*.pyc
+# scratch run outputs (canonical frozen records live in report/runs/)
+/runs/
+# large / generated
+models/
+train/out/
+*.log

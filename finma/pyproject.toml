@@ -1,0 +1,14 @@
+[project]
+name = "finma-eval"
+version = "0.1.0"
+description = "Evaluation harness: fine-tuned Apertus vs. RAG vs. both on FINMA circular Q&A (base/RAG/fine-tune/combined ablation, deterministic Rz-citation scoring)"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.32",
+    "pypdf>=5.0",
+    "rank-bm25>=0.2.2",
+    "pdfplumber>=0.11.10",
+]
+
+[tool.uv]
+package = false

@@ -1,0 +1,146 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Wer trägt bei nicht gehöriger Erfüllung einer vertraglichen Verbindlichkeit die Beweislast dafür, dass ihn keinerlei Verschulden trifft?",
+      "answer_type": "short",
+      "gold": "der Schuldner",
+      "accept": ["Schuldner", "der Schuldner"],
+      "gold_article": ["97"],
+      "also_acceptable_article": [],
+      "section": "Wirkung der Obligationen / Folgen der Nichterfüllung",
+      "topic": "breach",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Wie hoch ist der gesetzliche Verzugszins pro Jahr für eine Geldschuld, wenn keine höheren Zinsen vereinbart wurden?",
+      "answer_type": "number",
+      "gold": "5 Prozent",
+      "accept": ["5%", "fünf Prozent", "5 vom Hundert", "5"],
+      "gold_article": ["104"],
+      "also_acceptable_article": [],
+      "section": "Wirkung der Obligationen / Folgen der Nichterfüllung",
+      "topic": "breach",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Ein Liefervertrag nennt den 30. Juni als festen Verfalltag. Gerät der Schuldner am folgenden Tag auch ohne Mahnung des Gläubigers in Verzug?",
+      "answer_type": "yesno",
+      "gold": "ja",
+      "accept": ["yes"],
+      "gold_article": ["102"],
+      "also_acceptable_article": [],
+      "section": "Wirkung der Obligationen / Folgen der Nichterfüllung",
+      "topic": "breach",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Ein Gläubiger will bei Schuldnerverzug ohne Ansetzung einer Nachfrist vorgehen. In welchen Fällen ist die Ansetzung einer Frist zur nachträglichen Erfüllung entbehrlich?",
+      "answer_type": "list",
+      "gold": ["Verhalten des Schuldners macht die Nachfrist nutzlos", "Leistung ist für den Gläubiger nutzlos geworden", "Fixgeschäft vereinbart"],
+      "accept": [["Nachfrist erweist sich als unnütz", "Leistung nutzlos geworden", "Fixgeschäft"]],
+      "gold_article": ["108"],
+      "also_acceptable_article": [],
+      "section": "Wirkung der Obligationen / Folgen der Nichterfüllung",
+      "topic": "breach",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Ist eine im Voraus getroffene Abrede gültig, mit der die Haftung für grobe Fahrlässigkeit wegbedungen wird?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no"],
+      "gold_article": ["100"],
+      "also_acceptable_article": [],
+      "section": "Wirkung der Obligationen / Folgen der Nichterfüllung",
+      "topic": "breach",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Ein Betrieb lässt einen Auftrag durch einen Angestellten ausführen, der dabei in Ausübung seiner Verrichtungen einen Schaden verursacht. Muss der Betrieb als Schuldner dem Gläubiger diesen Schaden ersetzen?",
+      "answer_type": "yesno",
+      "gold": "ja",
+      "accept": ["yes"],
+      "gold_article": ["101"],
+      "also_acceptable_article": [],
+      "section": "Wirkung der Obligationen / Folgen der Nichterfüllung",
+      "topic": "breach",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Haftet ein Schuldner, der sich im Verzug befindet, auch für einen durch Zufall entstandenen Schaden?",
+      "answer_type": "yesno",
+      "gold": "ja",
+      "accept": ["yes"],
+      "gold_article": ["103"],
+      "also_acceptable_article": [],
+      "section": "Wirkung der Obligationen / Folgen der Nichterfüllung",
+      "topic": "breach",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Nach dem Rücktritt von einem Vertrag: Was kann die zurücktretende Partei bezüglich ihrer bereits erbrachten Leistung verlangen?",
+      "answer_type": "short",
+      "gold": "Rückforderung des Geleisteten",
+      "accept": ["das Geleistete zurückfordern", "Rückerstattung des Geleisteten", "Rückgabe des Geleisteten", "Rückforderung"],
+      "gold_article": ["109"],
+      "also_acceptable_article": [],
+      "section": "Wirkung der Obligationen / Folgen der Nichterfüllung",
+      "topic": "breach",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Ab welchem Zeitpunkt schuldet ein mit der Zahlung von Zinsen im Verzug befindlicher Schuldner Verzugszinsen?",
+      "answer_type": "short",
+      "gold": "ab Anhebung der Betreibung oder der gerichtlichen Klage",
+      "accept": ["ab Einleitung der Betreibung oder Klage", "vom Tag der Betreibung oder Klage an", "ab Betreibung oder gerichtlicher Klage"],
+      "gold_article": ["105"],
+      "also_acceptable_article": [],
+      "section": "Wirkung der Obligationen / Folgen der Nichterfüllung",
+      "topic": "breach",
+      "difficulty": "basic"
+    }
+  }
+]

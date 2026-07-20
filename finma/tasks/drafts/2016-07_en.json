@@ -1,0 +1,199 @@
+[
+  {
+    "lang": "en",
+    "circular": "2016/07",
+    "slug": "2016-07",
+    "question": "Which institutions fall directly within the scope of FINMA's circular on video and online identification?",
+    "answer_type": "short",
+    "gold": "financial intermediaries",
+    "accept": [
+      "financial intermediaries as defined in Article 2 para. 2 AMLA",
+      "financial intermediaries under Art. 2 para. 2 AMLA",
+      "financial intermediaries pursuant to AMLA"
+    ],
+    "gold_rz": ["2"],
+    "also_acceptable_rz": [],
+    "section": "II. Scope of application",
+    "topic": "scope",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "en",
+    "circular": "2016/07",
+    "slug": "2016-07",
+    "question": "Does FINMA require the audio recording made during a video identification to cover the entire interview rather than only selected parts?",
+    "answer_type": "yesno",
+    "gold": "yes",
+    "accept": ["yes, the full duration must be recorded"],
+    "gold_rz": ["8"],
+    "also_acceptable_rz": [],
+    "section": "a) Technical and organisational requirements",
+    "topic": "video-identification-recording",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "en",
+    "circular": "2016/07",
+    "slug": "2016-07",
+    "question": "A financial intermediary launches the video identification call and only asks the client during the running interview whether they agree to the video identification and audio recording. Is this approach compliant?",
+    "answer_type": "yesno",
+    "gold": "no",
+    "accept": ["no, consent must be obtained before the interview starts"],
+    "gold_rz": ["12"],
+    "also_acceptable_rz": [],
+    "section": "b) Identity verification",
+    "topic": "video-identification-consent",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "en",
+    "circular": "2016/07",
+    "slug": "2016-07",
+    "question": "During video identification, how many security features of the identification document must the financial intermediary examine in addition to reading and decrypting the MRZ?",
+    "answer_type": "number",
+    "gold": "2",
+    "accept": ["two", "2 security features", "two security features"],
+    "gold_rz": ["14"],
+    "also_acceptable_rz": [],
+    "section": "b) Identity verification",
+    "topic": "video-identification-document-authenticity",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "en",
+    "circular": "2016/07",
+    "slug": "2016-07",
+    "question": "Besides being official documents issued by the relevant country, which two features must identification documents have in order to be accepted in the video identification process?",
+    "answer_type": "list",
+    "gold": [
+      "machine-readable zone (MRZ)",
+      "optical security features"
+    ],
+    "accept": [
+      ["MRZ", "machine-readable zone", "a machine-readable zone"],
+      ["optical security features", "optical security elements", "holographic-cinematic marks or printed elements with latent image effects"]
+    ],
+    "gold_rz": ["15"],
+    "also_acceptable_rz": [],
+    "section": "b) Identity verification",
+    "topic": "video-identification-acceptable-documents",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "en",
+    "circular": "2016/07",
+    "slug": "2016-07",
+    "question": "A bank detects evidence of higher risks in the middle of a video identification interview. May it continue the identification process, provided the client is onboarded only after the approval of a supervisor, a superior or the management board has been granted?",
+    "answer_type": "yesno",
+    "gold": "yes",
+    "accept": ["yes, continuation is permitted subject to the required approval"],
+    "gold_rz": ["22"],
+    "also_acceptable_rz": [],
+    "section": "c) Stopping the video identification process",
+    "topic": "video-identification-higher-risk",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "en",
+    "circular": "2016/07",
+    "slug": "2016-07",
+    "question": "A partnership being onboarded via video identification has several authorised representatives, but only some of them are available for the first video interview. May the financial intermediary verify the representatives' identities at different points in time?",
+    "answer_type": "yesno",
+    "gold": "yes",
+    "accept": ["yes, the identities need not all be verified simultaneously"],
+    "gold_rz": ["25"],
+    "also_acceptable_rz": [],
+    "section": "B. Video identification of legal entities or partnerships",
+    "topic": "video-identification-legal-entities",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "en",
+    "circular": "2016/07",
+    "slug": "2016-07",
+    "question": "A bank completes a video-based onboarding, but the process cannot fully satisfy all applicable video identification requirements. What evidentiary status do the documents generated electronically during that process then have?",
+    "answer_type": "short",
+    "gold": "simple copy of an identification document",
+    "accept": [
+      "a simple copy of an identification document",
+      "equivalent to a simple copy of an identification document",
+      "same validity as a simple copy"
+    ],
+    "gold_rz": ["28"],
+    "also_acceptable_rz": [],
+    "section": "D. Documents equivalent to a simple copy of an identification document for",
+    "topic": "video-identification-fallback",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "en",
+    "circular": "2016/07",
+    "slug": "2016-07",
+    "question": "When a financial intermediary itself authenticates an electronic copy of an identification document during online identification, how many randomly selected security features must it check at a minimum to assess the document's authenticity?",
+    "answer_type": "number",
+    "gold": "2",
+    "accept": ["two", "at least two", "at least 2"],
+    "gold_rz": ["32"],
+    "also_acceptable_rz": [],
+    "section": "B. Online identification by electronic copy of an identification document",
+    "topic": "online-identification-document-authenticity",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "en",
+    "circular": "2016/07",
+    "slug": "2016-07",
+    "question": "In an online identification where the financial intermediary itself authenticates the electronic copy of the identification document, may it waive the verification payment from the contracting party's bank account if it reads the chip of a biometric identification document and the verified chip data match the information provided and the photograph taken of the contracting party?",
+    "answer_type": "yesno",
+    "gold": "yes",
+    "accept": ["yes, the bank transfer may be dispensed with"],
+    "gold_rz": ["33.1"],
+    "also_acceptable_rz": [],
+    "section": "B. Online identification by electronic copy of an identification document",
+    "topic": "online-identification-biometric-chip",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "en",
+    "circular": "2016/07",
+    "slug": "2016-07",
+    "question": "In the online identification procedure in which the financial intermediary itself authenticates the electronic copy of the identification document, by which means can the contracting party's residential address be confirmed?",
+    "answer_type": "list",
+    "gold": [
+      "official or utility invoice",
+      "postal delivery",
+      "public register or trustworthy private directory",
+      "geolocation"
+    ],
+    "accept": [
+      ["tax invoice", "utility bill", "official invoice", "power, water or telephone invoice"],
+      ["postal delivery", "postal mail delivery"],
+      ["public register", "trustworthy privately managed database", "trustworthy privately managed directory", "public register or private database"],
+      ["geolocation", "geo-location"]
+    ],
+    "gold_rz": ["34", "35", "36", "37", "37.1"],
+    "also_acceptable_rz": [],
+    "section": "B. Online identification by electronic copy of an identification document",
+    "topic": "online-identification-address-confirmation",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "en",
+    "circular": "2016/07",
+    "slug": "2016-07",
+    "question": "Instead of a qualified electronic signature, which method can a contracting party use to confirm the electronic declaration of beneficial ownership, provided the method enables reliable attribution to the contracting party?",
+    "answer_type": "short",
+    "gold": "TAN",
+    "accept": [
+      "a TAN",
+      "TAN process",
+      "transaction number",
+      "TAN or similar method"
+    ],
+    "gold_rz": ["48"],
+    "also_acceptable_rz": [],
+    "section": "B. TAN processes or similar methods",
+    "topic": "beneficial-ownership-declaration",
+    "difficulty": "basic"
+  }
+]

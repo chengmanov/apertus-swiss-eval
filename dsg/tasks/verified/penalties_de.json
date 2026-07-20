@@ -1,0 +1,52 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Welche maximale Busse droht einer Privatperson, die vorsätzlich die berufliche Schweigepflicht über geheime Personendaten verletzt?",
+      "answer_type": "number", "gold": "250 000 Franken", "accept": ["250000", "250 000", "250'000", "CHF 250 000", "250000 Franken", "250 000 Fr."],
+      "gold_article": ["62"], "also_acceptable_article": [],
+      "section": "Strafbestimmungen", "topic": "penalties", "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Bis zu welchem Betrag kann eine Privatperson gebüsst werden, die vorsätzlich Personendaten unter Verstoss gegen die Vorschriften über die Bekanntgabe ins Ausland exportiert?",
+      "answer_type": "number", "gold": "250 000 Franken", "accept": ["250000", "250 000", "250'000", "CHF 250 000", "250000 Franken"],
+      "gold_article": ["61"], "also_acceptable_article": [],
+      "section": "Strafbestimmungen", "topic": "penalties", "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Werden Verstösse gegen die Strafbestimmungen des DSG durch eine Privatperson mit Busse oder mit Freiheitsstrafe bedroht?",
+      "answer_type": "short", "gold": "Busse", "accept": ["mit Busse", "Busse"],
+      "gold_article": ["60"], "also_acceptable_article": ["61", "62", "63"],
+      "section": "Strafbestimmungen", "topic": "penalties", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Nach wie vielen Jahren verjährt die Strafverfolgung von Widerhandlungen gegen das Datenschutzgesetz?",
+      "answer_type": "number", "gold": "fünf Jahre", "accept": ["5 Jahre", "5", "fünf"],
+      "gold_article": ["66"], "also_acceptable_article": [],
+      "section": "Strafbestimmungen", "topic": "penalties", "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de", "law": "DSG",
+      "question": "Wem obliegt die Verfolgung und Beurteilung strafbarer Handlungen nach dem DSG?",
+      "answer_type": "short", "gold": "den Kantonen", "accept": ["die Kantone", "Kantone", "den Kantonen"],
+      "gold_article": ["65"], "also_acceptable_article": [],
+      "section": "Strafbestimmungen", "topic": "penalties", "difficulty": "basic"
+    }
+  }
+]

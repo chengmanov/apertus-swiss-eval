@@ -1,0 +1,162 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Sind Verkäufer und Käufer bei einem Kaufvertrag grundsätzlich verpflichtet, ihre Leistungen gleichzeitig zu erbringen, sofern nichts anderes vereinbart oder üblich ist?",
+      "answer_type": "yesno",
+      "gold": "ja",
+      "accept": ["yes"],
+      "gold_article": ["184"],
+      "also_acceptable_article": [],
+      "section": "Kauf / Allgemeine Bestimmungen",
+      "topic": "sale",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "In welchem Moment gehen Nutzen und Gefahr der Kaufsache mangels besonderer Verhältnisse oder Verabredungen auf den Erwerber über?",
+      "answer_type": "short",
+      "gold": "mit Vertragsabschluss",
+      "accept": ["Vertragsabschluss", "Abschluss des Vertrages", "bei Vertragsschluss", "mit Abschluss des Vertrags"],
+      "gold_article": ["185"],
+      "also_acceptable_article": [],
+      "section": "Kauf / Allgemeine Bestimmungen",
+      "topic": "sale",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Wer trägt beim Fahrniskauf die Kosten des Messens und Wägens im Rahmen der Übergabe, wenn nichts anderes vereinbart oder üblich ist?",
+      "answer_type": "short",
+      "gold": "der Verkäufer",
+      "accept": ["Verkäufer"],
+      "gold_article": ["188"],
+      "also_acceptable_article": [],
+      "section": "Fahrniskauf / Kosten der Übergabe",
+      "topic": "sale",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Haftet der Verkäufer beim Fahrniskauf für einen Sachmangel auch dann, wenn ihm dieser Mangel selbst gar nicht bekannt war?",
+      "answer_type": "yesno",
+      "gold": "ja",
+      "accept": ["yes"],
+      "gold_article": ["197"],
+      "also_acceptable_article": [],
+      "section": "Fahrniskauf / Gewährleistung für Mängel",
+      "topic": "sale",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Innert welcher Frist ab Ablieferung verjähren die Klagen auf Gewährleistung wegen Mängeln der Sache, wenn der Verkäufer keine Haftung auf längere Zeit übernommen hat?",
+      "answer_type": "duration",
+      "gold": "zwei Jahre",
+      "accept": ["2 Jahre", "zwei Jahren"],
+      "gold_article": ["210"],
+      "also_acceptable_article": [],
+      "section": "Fahrniskauf / Verjährung der Gewährleistung",
+      "topic": "sale",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Beim Handel mit Vieh enthält die schriftliche Zusicherung keine Fristbestimmung und es geht nicht um eine Gewährleistung für Trächtigkeit. Binnen wie vielen Tagen ab Übergabe muss der Mangel entdeckt und angezeigt werden, damit der Verkäufer haftet?",
+      "answer_type": "duration",
+      "gold": "neun Tage",
+      "accept": ["9 Tage", "neun Tagen"],
+      "gold_article": ["202"],
+      "also_acceptable_article": [],
+      "section": "Fahrniskauf / Gewährleistung (Viehhandel)",
+      "topic": "sale",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Zwischen welchen zwei Klagen kann der Käufer wählen, wenn ein Fall der Gewährleistung wegen Mängeln der Sache vorliegt?",
+      "answer_type": "list",
+      "gold": ["Wandelungsklage", "Minderungsklage"],
+      "accept": [["Wandelung", "Minderung"], ["Wandlungsklage", "Minderungsklage"]],
+      "gold_article": ["205"],
+      "also_acceptable_article": [],
+      "section": "Fahrniskauf / Rechte des Käufers bei Mängeln",
+      "topic": "sale",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Ein Käufer kannte einen bestimmten Mangel der Sache bereits zum Zeitpunkt des Kaufes. Haftet der Verkäufer für diesen Mangel?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no"],
+      "gold_article": ["200"],
+      "also_acceptable_article": [],
+      "section": "Fahrniskauf / Gewährleistung für Mängel",
+      "topic": "sale",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Ein Verkäufer hat dem Käufer die Gewährsmängel arglistig verschwiegen und beruft sich nun auf eine vertragliche Wegbedingung der Gewährleistung. Ist diese Freizeichnungsabrede gültig?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no"],
+      "gold_article": ["199"],
+      "also_acceptable_article": [],
+      "section": "Fahrniskauf / Gewährleistung für Mängel",
+      "topic": "sale",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "law": "OR",
+      "question": "Im kaufmännischen Verkehr ist ein bestimmter Lieferungstermin verabredet und der Verkäufer gerät in Verzug. Das Gesetz vermutet, dass der Käufer die Ware nicht mehr will und welche Forderung geltend macht?",
+      "answer_type": "short",
+      "gold": "Schadenersatz wegen Nichterfüllung",
+      "accept": ["Schadenersatz", "Schadenersatz wegen Nichterfüllung", "Schadensersatz wegen Nichterfüllung"],
+      "gold_article": ["190"],
+      "also_acceptable_article": [],
+      "section": "Fahrniskauf / Verzug des Verkäufers",
+      "topic": "sale",
+      "difficulty": "applied"
+    }
+  }
+]

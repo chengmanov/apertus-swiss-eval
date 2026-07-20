@@ -1,0 +1,221 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2019/01",
+      "slug": "2019-01",
+      "question": "Welche Kriterien müssen Banken bei der Risikoverteilung mindestens heranziehen, um zu beurteilen, ob zwischen Gegenparteien eine Verbundenheit durch Kontrollverhältnisse oder Einflussmöglichkeiten besteht?",
+      "answer_type": "list",
+      "gold": [
+        "Stimmrechtsvereinbarungen",
+        "massgeblicher Einfluss auf Ernennung oder Entlassung der Organe",
+        "erheblicher Einfluss auf die Geschäftsleitung"
+      ],
+      "accept": [
+        ["Stimmrechtsvereinbarung", "Vereinbarungen über Stimmrechte", "Stimmbindungsvereinbarungen"],
+        ["Einfluss auf die Ernennung oder Entlassung des Verwaltungsorgans, der Geschäftsleitung oder der Überwachungsinstanz", "Recht zur Ernennung oder Abberufung der Mehrheit der Gremienmitglieder", "Einfluss auf die Bestellung der Organe"],
+        ["erheblicher Einfluss auf die Geschäftsführung", "massgeblicher Einfluss auf die Geschäftspolitik", "Mitbestimmungsrechte bei wichtigen Beschlüssen"]
+      ],
+      "gold_rz": ["7", "8", "9"],
+      "also_acceptable_rz": ["6"],
+      "section": "III. Verbundene Gegenparteien (Art. 109 ERV) / A. Verbundenheit durch Kontrollverhältnisse",
+      "topic": "kontrollverhaeltnisse",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2019/01",
+      "slug": "2019-01",
+      "question": "Ein Immobilieneigentümer erzielt 60 % seiner jährlichen Bruttoeinnahmen aus den Mietzahlungen eines einzigen Mieters. Spricht dieses Kriterium dafür, die beiden Parteien als durch wirtschaftliche Abhängigkeit verbundene Gegenparteien zu behandeln?",
+      "answer_type": "yesno",
+      "gold": "ja",
+      "accept": ["yes", "ja, Kriterium erfüllt"],
+      "gold_rz": ["12"],
+      "also_acceptable_rz": ["11"],
+      "section": "B. Verbundenheit durch wirtschaftliche Abhängigkeit",
+      "topic": "wirtschaftliche-abhaengigkeit",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2019/01",
+      "slug": "2019-01",
+      "question": "Eine Bank finanziert zwei verschiedene Konsortien, an denen teilweise dieselben Konsorten beteiligt sind. Gelten die beiden Konsortien allein deswegen als untereinander verbundene Gegenparteien?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no", "nicht verbunden"],
+      "gold_rz": ["19"],
+      "also_acceptable_rz": [],
+      "section": "C. Positionen gegenüber einem Konsortium",
+      "topic": "konsortium",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2019/01",
+      "slug": "2019-01",
+      "question": "Welcher Wert ist bei der Positionsberechnung im Handelsbuch für Schuldtitel und Beteiligungstitel massgebend?",
+      "answer_type": "short",
+      "gold": "Buchwert",
+      "accept": ["der Buchwert"],
+      "gold_rz": ["21"],
+      "also_acceptable_rz": [],
+      "section": "IV. Positionen im Handelsbuch (Art. 118 Abs. 1 Bst. a ERV) / A. Positionsberechnung",
+      "topic": "handelsbuch-positionsberechnung",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2019/01",
+      "slug": "2019-01",
+      "question": "In welchen Merkmalen müssen Long- und Short-Positionen aus derselben Emission von Schuldtiteln übereinstimmen, damit sie im Handelsbuch verrechnet werden dürfen?",
+      "answer_type": "list",
+      "gold": ["Emittent", "Coupon", "Währung", "Laufzeit"],
+      "accept": [
+        ["Emittentin", "gleicher Emittent"],
+        ["Kupon", "Zinscoupon"],
+        ["gleiche Währung"],
+        ["Fälligkeit"]
+      ],
+      "gold_rz": ["28"],
+      "also_acceptable_rz": [],
+      "section": "a) Verrechnung von Emissionen in Form von Beteiligungstiteln und Schuldtiteln",
+      "topic": "handelsbuch-verrechnung",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2019/01",
+      "slug": "2019-01",
+      "question": "Darf eine Bank die Gesamtposition eines Schuldners um Forderungen reduzieren, die sie mit einem First-to-Default-Swap abgesichert hat?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no", "nicht zulässig"],
+      "gold_rz": ["40"],
+      "also_acceptable_rz": [],
+      "section": "b) Mit Kreditderivaten abgesicherte Positionen",
+      "topic": "kreditderivate",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Gold and citation correct per Rz 52. The question fixes the unit itself ('ausgedrückt in Prozent des Nominalwerts'), so the bare number '20' is a fully correct answer; added it as an accept variant for fair scoring.",
+    "item": {
+      "lang": "de",
+      "circular": "2019/01",
+      "slug": "2019-01",
+      "question": "Welcher Forderungswert, ausgedrückt in Prozent des Nominalwerts, kann gedeckten Schuldverschreibungen zugewiesen werden, die die einschlägigen Bedingungen bei Ausgabe und während der gesamten Laufzeit erfüllen?",
+      "answer_type": "number",
+      "gold": "20 %",
+      "accept": ["20", "20%", "20 Prozent", "20 % des Nominalwerts"],
+      "gold_rz": ["52"],
+      "also_acceptable_rz": [],
+      "section": "VI. Gedeckte Schuldverschreibungen (Art. 118 Abs. 1 Bst. c ERV)",
+      "topic": "gedeckte-schuldverschreibungen",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Gold 'unbekannter Kunde' is correct per Rz 67, but Rz 68 lets category-3 banks (with insignificant VKV holdings) and category-4/5 banks apply a 2 % threshold instead of 0.25 %. Since the question names no bank category, 'übersteigt 0.25 %' alone is not conclusive: for such banks an amount between 0.25 % and 2 % would still be assigned to the structure itself. Reworded the scenario so 0.25 % is explicitly the threshold applicable to this bank, which makes the item unambiguous for every bank category. Also added accept variants (German quotation marks, inflected form).",
+    "item": {
+      "lang": "de",
+      "circular": "2019/01",
+      "slug": "2019-01",
+      "question": "Eine Bank kann die zugrundeliegenden Aktiven eines Fonds nicht identifizieren, und der insgesamt investierte Betrag übersteigt den für sie massgebenden Schwellenwert von 0.25 % ihres anrechenbaren Kernkapitals. Welcher Gegenpartei muss sie den gesamten Betrag zuordnen?",
+      "answer_type": "short",
+      "gold": "unbekannter Kunde",
+      "accept": ["dem unbekannten Kunden", "Gegenpartei unbekannter Kunde", "«unbekannter Kunde»", "„unbekannter Kunde“", "unbekannten Kunden"],
+      "gold_rz": ["67"],
+      "also_acceptable_rz": [],
+      "section": "A. Bestimmung der zu berücksichtigenden jeweiligen Gegenparteien",
+      "topic": "investmentstrukturen-lta",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2019/01",
+      "slug": "2019-01",
+      "question": "Zu welchem Wert sind Transaktionen, die nach dem fünften Bankwerktag noch nicht abgewickelt sind, in die Gesamtposition einzubeziehen?",
+      "answer_type": "short",
+      "gold": "Nettoforderungswert",
+      "accept": ["zum Nettoforderungswert", "Netto-Forderungswert"],
+      "gold_rz": ["79"],
+      "also_acceptable_rz": [],
+      "section": "VIII. Positionen aus nicht abgewickelten Transaktionen (Art. 118 Abs. 1 Bst. e ERV)",
+      "topic": "nicht-abgewickelte-transaktionen",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2019/01",
+      "slug": "2019-01",
+      "question": "Darf eine Bank, die den umfassenden Ansatz verwendet, bei der Reduktion der Positionswerte selbst geschätzte Haircuts auf finanzielle Sicherheiten anwenden?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no", "nicht zulässig"],
+      "gold_rz": ["88"],
+      "also_acceptable_rz": [],
+      "section": "C. Reduktion der Positionswerte",
+      "topic": "risikominderung-haircuts",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2019/01",
+      "slug": "2019-01",
+      "question": "Die Erfassung erhaltener Sicherheiten führt bei einer Bank zu einer Überschreitung der Obergrenze gegenüber dem Emittenten dieser Sicherheiten. Wie lange ist diese Überschreitung ohne Bewilligung der FINMA längstens zulässig?",
+      "answer_type": "duration",
+      "gold": "3 Monate",
+      "accept": ["drei Monate", "3 Monaten", "drei Monaten"],
+      "gold_rz": ["95"],
+      "also_acceptable_rz": [],
+      "section": "E. Temporäre Überschreitungen der Obergrenze infolge von erfassten Sicherheiten",
+      "topic": "obergrenze-ueberschreitung",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2019/01",
+      "slug": "2019-01",
+      "question": "Eine Schweizer Konzernbank hält Sichtguthaben bei ihrer ausländischen Mutterbank. Darf sie darauf den privilegierten Gewichtungssatz von 50 % für kurzfristige Interbankpositionen anwenden?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no", "nicht zulässig"],
+      "gold_rz": ["101"],
+      "also_acceptable_rz": [],
+      "section": "A. Kurzfristige Interbankpositionen",
+      "topic": "interbankpositionen",
+      "difficulty": "applied"
+    }
+  }
+]

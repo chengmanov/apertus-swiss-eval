@@ -1,0 +1,1464 @@
+[
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 1 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Zweck",
+  "accept": [
+   "Zweck",
+   "zweck"
+  ],
+  "gold_article": [
+   "1"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 1 DSG?",
+  "answer_type": "short",
+  "gold": "Zweck",
+  "accept": [
+   "Zweck",
+   "zweck"
+  ],
+  "gold_article": [
+   "1"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 2 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Persönlicher und sachlicher Geltungsbereich",
+  "accept": [
+   "Persönlicher und sachlicher Geltungsbereich",
+   "persönlicher und sachlicher geltungsbereich"
+  ],
+  "gold_article": [
+   "2"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 2 DSG?",
+  "answer_type": "short",
+  "gold": "Persönlicher und sachlicher Geltungsbereich",
+  "accept": [
+   "Persönlicher und sachlicher Geltungsbereich",
+   "persönlicher und sachlicher geltungsbereich"
+  ],
+  "gold_article": [
+   "2"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 3 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Räumlicher Geltungsbereich",
+  "accept": [
+   "Räumlicher Geltungsbereich",
+   "räumlicher geltungsbereich"
+  ],
+  "gold_article": [
+   "3"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 3 DSG?",
+  "answer_type": "short",
+  "gold": "Räumlicher Geltungsbereich",
+  "accept": [
+   "Räumlicher Geltungsbereich",
+   "räumlicher geltungsbereich"
+  ],
+  "gold_article": [
+   "3"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 8 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Datensicherheit",
+  "accept": [
+   "Datensicherheit",
+   "datensicherheit"
+  ],
+  "gold_article": [
+   "8"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 8 DSG?",
+  "answer_type": "short",
+  "gold": "Datensicherheit",
+  "accept": [
+   "Datensicherheit",
+   "datensicherheit"
+  ],
+  "gold_article": [
+   "8"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 10 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Datenschutzberaterin oder -berater",
+  "accept": [
+   "Datenschutzberaterin oder -berater",
+   "datenschutzberaterin oder -berater"
+  ],
+  "gold_article": [
+   "10"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 10 DSG?",
+  "answer_type": "short",
+  "gold": "Datenschutzberaterin oder -berater",
+  "accept": [
+   "Datenschutzberaterin oder -berater",
+   "datenschutzberaterin oder -berater"
+  ],
+  "gold_article": [
+   "10"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 11 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Verhaltenskodizes",
+  "accept": [
+   "Verhaltenskodizes",
+   "verhaltenskodizes"
+  ],
+  "gold_article": [
+   "11"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 11 DSG?",
+  "answer_type": "short",
+  "gold": "Verhaltenskodizes",
+  "accept": [
+   "Verhaltenskodizes",
+   "verhaltenskodizes"
+  ],
+  "gold_article": [
+   "11"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 13 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Zertifizierung",
+  "accept": [
+   "Zertifizierung",
+   "zertifizierung"
+  ],
+  "gold_article": [
+   "13"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 13 DSG?",
+  "answer_type": "short",
+  "gold": "Zertifizierung",
+  "accept": [
+   "Zertifizierung",
+   "zertifizierung"
+  ],
+  "gold_article": [
+   "13"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 15 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Pflichten der Vertretung",
+  "accept": [
+   "Pflichten der Vertretung",
+   "pflichten der vertretung"
+  ],
+  "gold_article": [
+   "15"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 15 DSG?",
+  "answer_type": "short",
+  "gold": "Pflichten der Vertretung",
+  "accept": [
+   "Pflichten der Vertretung",
+   "pflichten der vertretung"
+  ],
+  "gold_article": [
+   "15"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 18 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Veröffentlichung von Personendaten in elektronischer Form",
+  "accept": [
+   "Veröffentlichung von Personendaten in elektronischer Form",
+   "veröffentlichung von personendaten in elektronischer form"
+  ],
+  "gold_article": [
+   "18"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 18 DSG?",
+  "answer_type": "short",
+  "gold": "Veröffentlichung von Personendaten in elektronischer Form",
+  "accept": [
+   "Veröffentlichung von Personendaten in elektronischer Form",
+   "veröffentlichung von personendaten in elektronischer form"
+  ],
+  "gold_article": [
+   "18"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 20 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Ausnahmen von der Informationspflicht und Einschränkungen",
+  "accept": [
+   "Ausnahmen von der Informationspflicht und Einschränkungen",
+   "ausnahmen von der informationspflicht und einschränkungen"
+  ],
+  "gold_article": [
+   "20"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 20 DSG?",
+  "answer_type": "short",
+  "gold": "Ausnahmen von der Informationspflicht und Einschränkungen",
+  "accept": [
+   "Ausnahmen von der Informationspflicht und Einschränkungen",
+   "ausnahmen von der informationspflicht und einschränkungen"
+  ],
+  "gold_article": [
+   "20"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 26 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Einschränkungen des Auskunftsrechts",
+  "accept": [
+   "Einschränkungen des Auskunftsrechts",
+   "einschränkungen des auskunftsrechts"
+  ],
+  "gold_article": [
+   "26"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 26 DSG?",
+  "answer_type": "short",
+  "gold": "Einschränkungen des Auskunftsrechts",
+  "accept": [
+   "Einschränkungen des Auskunftsrechts",
+   "einschränkungen des auskunftsrechts"
+  ],
+  "gold_article": [
+   "26"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 27 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Einschränkungen des Auskunftsrechts für Medien",
+  "accept": [
+   "Einschränkungen des Auskunftsrechts für Medien",
+   "einschränkungen des auskunftsrechts für medien"
+  ],
+  "gold_article": [
+   "27"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 27 DSG?",
+  "answer_type": "short",
+  "gold": "Einschränkungen des Auskunftsrechts für Medien",
+  "accept": [
+   "Einschränkungen des Auskunftsrechts für Medien",
+   "einschränkungen des auskunftsrechts für medien"
+  ],
+  "gold_article": [
+   "27"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 29 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Einschränkungen des Rechts auf Datenherausgabe oder -übertragung",
+  "accept": [
+   "Einschränkungen des Rechts auf Datenherausgabe oder -übertragung",
+   "einschränkungen des rechts auf datenherausgabe oder -übertragung"
+  ],
+  "gold_article": [
+   "29"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 29 DSG?",
+  "answer_type": "short",
+  "gold": "Einschränkungen des Rechts auf Datenherausgabe oder -übertragung",
+  "accept": [
+   "Einschränkungen des Rechts auf Datenherausgabe oder -übertragung",
+   "einschränkungen des rechts auf datenherausgabe oder -übertragung"
+  ],
+  "gold_article": [
+   "29"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 30 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Persönlichkeitsverletzungen",
+  "accept": [
+   "Persönlichkeitsverletzungen",
+   "persönlichkeitsverletzungen"
+  ],
+  "gold_article": [
+   "30"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 30 DSG?",
+  "answer_type": "short",
+  "gold": "Persönlichkeitsverletzungen",
+  "accept": [
+   "Persönlichkeitsverletzungen",
+   "persönlichkeitsverletzungen"
+  ],
+  "gold_article": [
+   "30"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 33 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Kontrolle und Verantwortung bei gemeinsamer Bearbeitung von Personendaten",
+  "accept": [
+   "Kontrolle und Verantwortung bei gemeinsamer Bearbeitung von Personendaten",
+   "kontrolle und verantwortung bei gemeinsamer bearbeitung von personendaten"
+  ],
+  "gold_article": [
+   "33"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 33 DSG?",
+  "answer_type": "short",
+  "gold": "Kontrolle und Verantwortung bei gemeinsamer Bearbeitung von Personendaten",
+  "accept": [
+   "Kontrolle und Verantwortung bei gemeinsamer Bearbeitung von Personendaten",
+   "kontrolle und verantwortung bei gemeinsamer bearbeitung von personendaten"
+  ],
+  "gold_article": [
+   "33"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 35 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Automatisierte Datenbearbeitung im Rahmen von Pilotversuchen",
+  "accept": [
+   "Automatisierte Datenbearbeitung im Rahmen von Pilotversuchen",
+   "automatisierte datenbearbeitung im rahmen von pilotversuchen"
+  ],
+  "gold_article": [
+   "35"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 35 DSG?",
+  "answer_type": "short",
+  "gold": "Automatisierte Datenbearbeitung im Rahmen von Pilotversuchen",
+  "accept": [
+   "Automatisierte Datenbearbeitung im Rahmen von Pilotversuchen",
+   "automatisierte datenbearbeitung im rahmen von pilotversuchen"
+  ],
+  "gold_article": [
+   "35"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 36 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Bekanntgabe von Personendaten",
+  "accept": [
+   "Bekanntgabe von Personendaten",
+   "bekanntgabe von personendaten"
+  ],
+  "gold_article": [
+   "36"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 36 DSG?",
+  "answer_type": "short",
+  "gold": "Bekanntgabe von Personendaten",
+  "accept": [
+   "Bekanntgabe von Personendaten",
+   "bekanntgabe von personendaten"
+  ],
+  "gold_article": [
+   "36"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 37 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Widerspruch gegen die Bekanntgabe von Personendaten",
+  "accept": [
+   "Widerspruch gegen die Bekanntgabe von Personendaten",
+   "widerspruch gegen die bekanntgabe von personendaten"
+  ],
+  "gold_article": [
+   "37"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 37 DSG?",
+  "answer_type": "short",
+  "gold": "Widerspruch gegen die Bekanntgabe von Personendaten",
+  "accept": [
+   "Widerspruch gegen die Bekanntgabe von Personendaten",
+   "widerspruch gegen die bekanntgabe von personendaten"
+  ],
+  "gold_article": [
+   "37"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 38 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Angebot von Unterlagen an das Bundesarchiv",
+  "accept": [
+   "Angebot von Unterlagen an das Bundesarchiv",
+   "angebot von unterlagen an das bundesarchiv"
+  ],
+  "gold_article": [
+   "38"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 38 DSG?",
+  "answer_type": "short",
+  "gold": "Angebot von Unterlagen an das Bundesarchiv",
+  "accept": [
+   "Angebot von Unterlagen an das Bundesarchiv",
+   "angebot von unterlagen an das bundesarchiv"
+  ],
+  "gold_article": [
+   "38"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 39 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Datenbearbeitung für nicht personenbezogene Zwecke",
+  "accept": [
+   "Datenbearbeitung für nicht personenbezogene Zwecke",
+   "datenbearbeitung für nicht personenbezogene zwecke"
+  ],
+  "gold_article": [
+   "39"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 39 DSG?",
+  "answer_type": "short",
+  "gold": "Datenbearbeitung für nicht personenbezogene Zwecke",
+  "accept": [
+   "Datenbearbeitung für nicht personenbezogene Zwecke",
+   "datenbearbeitung für nicht personenbezogene zwecke"
+  ],
+  "gold_article": [
+   "39"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 40 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Privatrechtliche Tätigkeit von Bundesorganen",
+  "accept": [
+   "Privatrechtliche Tätigkeit von Bundesorganen",
+   "privatrechtliche tätigkeit von bundesorganen"
+  ],
+  "gold_article": [
+   "40"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 40 DSG?",
+  "answer_type": "short",
+  "gold": "Privatrechtliche Tätigkeit von Bundesorganen",
+  "accept": [
+   "Privatrechtliche Tätigkeit von Bundesorganen",
+   "privatrechtliche tätigkeit von bundesorganen"
+  ],
+  "gold_article": [
+   "40"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 41 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Ansprüche und Verfahren",
+  "accept": [
+   "Ansprüche und Verfahren",
+   "ansprüche und verfahren"
+  ],
+  "gold_article": [
+   "41"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 41 DSG?",
+  "answer_type": "short",
+  "gold": "Ansprüche und Verfahren",
+  "accept": [
+   "Ansprüche und Verfahren",
+   "ansprüche und verfahren"
+  ],
+  "gold_article": [
+   "41"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 42 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Verfahren im Falle der Bekanntgabe von amtlichen Dokumenten, die Personendaten enthalten",
+  "accept": [
+   "Verfahren im Falle der Bekanntgabe von amtlichen Dokumenten, die Personendaten enthalten",
+   "verfahren im falle der bekanntgabe von amtlichen dokumenten, die personendaten enthalten"
+  ],
+  "gold_article": [
+   "42"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 42 DSG?",
+  "answer_type": "short",
+  "gold": "Verfahren im Falle der Bekanntgabe von amtlichen Dokumenten, die Personendaten enthalten",
+  "accept": [
+   "Verfahren im Falle der Bekanntgabe von amtlichen Dokumenten, die Personendaten enthalten",
+   "verfahren im falle der bekanntgabe von amtlichen dokumenten, die personendaten enthalten"
+  ],
+  "gold_article": [
+   "42"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 43 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Wahl und Stellung",
+  "accept": [
+   "Wahl und Stellung",
+   "wahl und stellung"
+  ],
+  "gold_article": [
+   "43"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 43 DSG?",
+  "answer_type": "short",
+  "gold": "Wahl und Stellung",
+  "accept": [
+   "Wahl und Stellung",
+   "wahl und stellung"
+  ],
+  "gold_article": [
+   "43"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 45 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Budget",
+  "accept": [
+   "Budget",
+   "budget"
+  ],
+  "gold_article": [
+   "45"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 45 DSG?",
+  "answer_type": "short",
+  "gold": "Budget",
+  "accept": [
+   "Budget",
+   "budget"
+  ],
+  "gold_article": [
+   "45"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 46 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Unvereinbarkeit",
+  "accept": [
+   "Unvereinbarkeit",
+   "unvereinbarkeit"
+  ],
+  "gold_article": [
+   "46"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 46 DSG?",
+  "answer_type": "short",
+  "gold": "Unvereinbarkeit",
+  "accept": [
+   "Unvereinbarkeit",
+   "unvereinbarkeit"
+  ],
+  "gold_article": [
+   "46"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 47 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Nebenbeschäftigung",
+  "accept": [
+   "Nebenbeschäftigung",
+   "nebenbeschäftigung"
+  ],
+  "gold_article": [
+   "47"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 47 DSG?",
+  "answer_type": "short",
+  "gold": "Nebenbeschäftigung",
+  "accept": [
+   "Nebenbeschäftigung",
+   "nebenbeschäftigung"
+  ],
+  "gold_article": [
+   "47"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 48 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Selbstkontrolle des EDÖB",
+  "accept": [
+   "Selbstkontrolle des EDÖB",
+   "selbstkontrolle des edöb"
+  ],
+  "gold_article": [
+   "48"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 48 DSG?",
+  "answer_type": "short",
+  "gold": "Selbstkontrolle des EDÖB",
+  "accept": [
+   "Selbstkontrolle des EDÖB",
+   "selbstkontrolle des edöb"
+  ],
+  "gold_article": [
+   "48"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 50 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Befugnisse",
+  "accept": [
+   "Befugnisse",
+   "befugnisse"
+  ],
+  "gold_article": [
+   "50"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 50 DSG?",
+  "answer_type": "short",
+  "gold": "Befugnisse",
+  "accept": [
+   "Befugnisse",
+   "befugnisse"
+  ],
+  "gold_article": [
+   "50"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 52 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Verfahren",
+  "accept": [
+   "Verfahren",
+   "verfahren"
+  ],
+  "gold_article": [
+   "52"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 52 DSG?",
+  "answer_type": "short",
+  "gold": "Verfahren",
+  "accept": [
+   "Verfahren",
+   "verfahren"
+  ],
+  "gold_article": [
+   "52"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 53 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Koordination",
+  "accept": [
+   "Koordination",
+   "koordination"
+  ],
+  "gold_article": [
+   "53"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 53 DSG?",
+  "answer_type": "short",
+  "gold": "Koordination",
+  "accept": [
+   "Koordination",
+   "koordination"
+  ],
+  "gold_article": [
+   "53"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 54 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Amtshilfe zwischen schweizerischen Behörden",
+  "accept": [
+   "Amtshilfe zwischen schweizerischen Behörden",
+   "amtshilfe zwischen schweizerischen behörden"
+  ],
+  "gold_article": [
+   "54"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 54 DSG?",
+  "answer_type": "short",
+  "gold": "Amtshilfe zwischen schweizerischen Behörden",
+  "accept": [
+   "Amtshilfe zwischen schweizerischen Behörden",
+   "amtshilfe zwischen schweizerischen behörden"
+  ],
+  "gold_article": [
+   "54"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 55 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Amtshilfe gegenüber ausländischen Behörden",
+  "accept": [
+   "Amtshilfe gegenüber ausländischen Behörden",
+   "amtshilfe gegenüber ausländischen behörden"
+  ],
+  "gold_article": [
+   "55"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 55 DSG?",
+  "answer_type": "short",
+  "gold": "Amtshilfe gegenüber ausländischen Behörden",
+  "accept": [
+   "Amtshilfe gegenüber ausländischen Behörden",
+   "amtshilfe gegenüber ausländischen behörden"
+  ],
+  "gold_article": [
+   "55"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 56 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Register",
+  "accept": [
+   "Register",
+   "register"
+  ],
+  "gold_article": [
+   "56"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 56 DSG?",
+  "answer_type": "short",
+  "gold": "Register",
+  "accept": [
+   "Register",
+   "register"
+  ],
+  "gold_article": [
+   "56"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 57 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Information",
+  "accept": [
+   "Information",
+   "information"
+  ],
+  "gold_article": [
+   "57"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 57 DSG?",
+  "answer_type": "short",
+  "gold": "Information",
+  "accept": [
+   "Information",
+   "information"
+  ],
+  "gold_article": [
+   "57"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 58 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Weitere Aufgaben",
+  "accept": [
+   "Weitere Aufgaben",
+   "weitere aufgaben"
+  ],
+  "gold_article": [
+   "58"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 58 DSG?",
+  "answer_type": "short",
+  "gold": "Weitere Aufgaben",
+  "accept": [
+   "Weitere Aufgaben",
+   "weitere aufgaben"
+  ],
+  "gold_article": [
+   "58"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 64 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Widerhandlungen in Geschäftsbetrieben",
+  "accept": [
+   "Widerhandlungen in Geschäftsbetrieben",
+   "widerhandlungen in geschäftsbetrieben"
+  ],
+  "gold_article": [
+   "64"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 64 DSG?",
+  "answer_type": "short",
+  "gold": "Widerhandlungen in Geschäftsbetrieben",
+  "accept": [
+   "Widerhandlungen in Geschäftsbetrieben",
+   "widerhandlungen in geschäftsbetrieben"
+  ],
+  "gold_article": [
+   "64"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 68 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Aufhebung und Änderung anderer Erlasse",
+  "accept": [
+   "Aufhebung und Änderung anderer Erlasse",
+   "aufhebung und änderung anderer erlasse"
+  ],
+  "gold_article": [
+   "68"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 68 DSG?",
+  "answer_type": "short",
+  "gold": "Aufhebung und Änderung anderer Erlasse",
+  "accept": [
+   "Aufhebung und Änderung anderer Erlasse",
+   "aufhebung und änderung anderer erlasse"
+  ],
+  "gold_article": [
+   "68"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 69 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Übergangsbestimmungen betreffend laufende Bearbeitungen",
+  "accept": [
+   "Übergangsbestimmungen betreffend laufende Bearbeitungen",
+   "übergangsbestimmungen betreffend laufende bearbeitungen"
+  ],
+  "gold_article": [
+   "69"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 69 DSG?",
+  "answer_type": "short",
+  "gold": "Übergangsbestimmungen betreffend laufende Bearbeitungen",
+  "accept": [
+   "Übergangsbestimmungen betreffend laufende Bearbeitungen",
+   "übergangsbestimmungen betreffend laufende bearbeitungen"
+  ],
+  "gold_article": [
+   "69"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 70 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Übergangsbestimmung betreffend laufende Verfahren",
+  "accept": [
+   "Übergangsbestimmung betreffend laufende Verfahren",
+   "übergangsbestimmung betreffend laufende verfahren"
+  ],
+  "gold_article": [
+   "70"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 70 DSG?",
+  "answer_type": "short",
+  "gold": "Übergangsbestimmung betreffend laufende Verfahren",
+  "accept": [
+   "Übergangsbestimmung betreffend laufende Verfahren",
+   "übergangsbestimmung betreffend laufende verfahren"
+  ],
+  "gold_article": [
+   "70"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 71 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Übergangsbestimmung betreffend Daten juristischer Personen",
+  "accept": [
+   "Übergangsbestimmung betreffend Daten juristischer Personen",
+   "übergangsbestimmung betreffend daten juristischer personen"
+  ],
+  "gold_article": [
+   "71"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 71 DSG?",
+  "answer_type": "short",
+  "gold": "Übergangsbestimmung betreffend Daten juristischer Personen",
+  "accept": [
+   "Übergangsbestimmung betreffend Daten juristischer Personen",
+   "übergangsbestimmung betreffend daten juristischer personen"
+  ],
+  "gold_article": [
+   "71"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 73 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Koordination",
+  "accept": [
+   "Koordination",
+   "koordination"
+  ],
+  "gold_article": [
+   "73"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 73 DSG?",
+  "answer_type": "short",
+  "gold": "Koordination",
+  "accept": [
+   "Koordination",
+   "koordination"
+  ],
+  "gold_article": [
+   "73"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 74 des Datenschutzgesetzes?",
+  "answer_type": "short",
+  "gold": "Referendum und Inkrafttreten",
+  "accept": [
+   "Referendum und Inkrafttreten",
+   "referendum und inkrafttreten"
+  ],
+  "gold_article": [
+   "74"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "DSG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 74 DSG?",
+  "answer_type": "short",
+  "gold": "Referendum und Inkrafttreten",
+  "accept": [
+   "Referendum und Inkrafttreten",
+   "referendum und inkrafttreten"
+  ],
+  "gold_article": [
+   "74"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2011/01",
+      "slug": "2011-01",
+      "question": "Stellt das Einziehen fälliger Forderungen im Auftrag des Gläubigers durch einen Beauftragten eine dem GwG unterstellte finanzintermediäre Tätigkeit dar?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no", "nicht unterstellt"],
+      "gold_rz": ["8"],
+      "also_acceptable_rz": [],
+      "section": "b) Die Inkassotätigkeit (Art. 2 Abs. 2 Bst. a Ziff. 2 GwV)",
+      "topic": "inkasso",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2011/01",
+      "slug": "2011-01",
+      "question": "Eine Hilfsperson eines bewilligten Finanzintermediärs möchte im Bereich der Geld- und Wertübertragung zusätzlich für einen zweiten Finanzintermediär tätig werden. Ist das zulässig?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no", "nicht zulässig", "unzulässig"],
+      "gold_rz": ["26"],
+      "also_acceptable_rz": ["27"],
+      "section": "f) Der Beizug von Hilfspersonen (Art. 2 Abs. 2 Bst. b GwV)",
+      "topic": "hilfspersonen",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2011/01",
+      "slug": "2011-01",
+      "question": "Welche Arten von Krediten fasst die FINMA-Praxis üblicherweise unter den Begriff der Handelsfinanzierung?",
+      "answer_type": "list",
+      "gold": ["Diskontkredit", "Zessionskredit", "Finanzierungsleasing", "Warenkredit", "Absatzfinanzierungen"],
+      "accept": [
+        ["Diskontkredite"],
+        ["Zessionskredite"],
+        ["Finanzierungs-Leasing", "Finanzleasing"],
+        ["Warenkredite"],
+        ["Absatzfinanzierung"]
+      ],
+      "gold_rz": ["31"],
+      "also_acceptable_rz": [],
+      "section": "c) Handelsfinanzierungen",
+      "topic": "handelsfinanzierung",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2011/01",
+      "slug": "2011-01",
+      "question": "Ein Hersteller und die als Leasinggeberin auftretende Leasinggesellschaft gehören demselben Konzern an; der Leasingnehmer steht ausserhalb des Konzerns. Ist die Leasingtätigkeit gegenüber diesem Leasingnehmer vom GwG erfasst?",
+      "answer_type": "yesno",
+      "gold": "ja",
+      "accept": ["yes", "unterstellt"],
+      "gold_rz": ["47"],
+      "also_acceptable_rz": ["46"],
+      "section": "f) Akzessorische Kreditgewährung (Art. 3 Bst. f GwV)",
+      "topic": "akzessorische-kreditgewaehrung",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Accept variants extended: 'Mietvertrag' (incl. prepositional forms) is an equally legitimate formulation of the comparison in Rz 53 ('mit einem Mietverhältnis vergleichbar') and would otherwise be scored wrong.",
+    "item": {
+      "lang": "de",
+      "circular": "2011/01",
+      "slug": "2011-01",
+      "question": "Mit welchem Vertragsverhältnis vergleicht die FINMA das Operating Leasing, sodass darin kein Kreditgeschäft gesehen wird?",
+      "answer_type": "short",
+      "gold": "Mietverhältnis",
+      "accept": ["Miete", "einem Mietverhältnis", "mit einem Mietverhältnis", "Mietvertrag", "einem Mietvertrag", "mit einem Mietvertrag"],
+      "gold_rz": ["53"],
+      "also_acceptable_rz": [],
+      "section": "g) Operating Leasing (Art. 3 Bst. g GwV)",
+      "topic": "operating-leasing",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Accept variants extended: the circular itself uses 'Emittent' for the ausgebende Stelle (Rz 64), so 'Emittent'/'Kartenemittent'/'Kreditkartenherausgeber' are legitimate synonyms for Issuer/Herausgeber a model may produce.",
+    "item": {
+      "lang": "de",
+      "circular": "2011/01",
+      "slug": "2011-01",
+      "question": "Bei einem Vier-Parteien-Kreditkartenmodell schliesst eine Partei die Verträge mit den Karteninhabern ab und autorisiert deren Zahlungen, eine andere übernimmt die Zahlungsabwicklung für die Vertragsunternehmen. Welche der beiden Parteien ist dem GwG unterstellt?",
+      "answer_type": "short",
+      "gold": "Issuer",
+      "accept": ["der Issuer", "die Issuer", "nationale Issuer", "Herausgeber", "der Herausgeber", "Kartenherausgeber", "Kreditkartenherausgeber", "Emittent", "der Emittent", "Kartenemittent"],
+      "gold_rz": ["68"],
+      "also_acceptable_rz": ["67"],
+      "section": "e) Geschäftsmodelle mit vier oder mehr Parteien",
+      "topic": "kreditkarten",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2011/01",
+      "slug": "2011-01",
+      "question": "Welche fünf Vermögenswerte gelten bei der dem GwG unterstellten Handelstätigkeit als typische Finanzinstrumente?",
+      "answer_type": "list",
+      "gold": ["Banknoten", "Münzen", "Devisen", "Edelmetalle", "Effekten"],
+      "accept": [
+        ["Geldscheine", "Noten"],
+        ["Münzgeld"],
+        ["Fremdwährungen", "fremde Währungen"],
+        ["Edelmetall"],
+        ["Wertpapiere", "Wertschriften"]
+      ],
+      "gold_rz": ["70"],
+      "also_acceptable_rz": [],
+      "section": "V. Handelstätigkeit (Art. 5 GwV)",
+      "topic": "handelstaetigkeit",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Removed also_acceptable_rz '85': Rz 85 is only the sentence stem ('gilt nicht mehr als akzessorisch, wenn:') and contains no threshold, so under the strict citation rule it does not support a number answer. Added bare-number accept variants (5'000 / 5000) per the number-type rule.",
+    "item": {
+      "lang": "de",
+      "circular": "2011/01",
+      "slug": "2011-01",
+      "question": "Ein Reisebüro wechselt für seine Kunden akzessorisch zur Haupttätigkeit Geld. Ab welchem Betrag einzelner oder miteinander verbundener Wechselgeschäfte gilt der Geldwechsel nicht mehr als akzessorisch?",
+      "answer_type": "number",
+      "gold": "5'000 Franken",
+      "accept": ["5000 Franken", "über 5'000 Franken", "CHF 5'000", "5'000 CHF", "5‘000 Franken", "5’000 Franken", "Fr. 5'000", "5000 CHF", "5'000", "5000", "5‘000", "5’000"],
+      "gold_rz": ["86"],
+      "also_acceptable_rz": [],
+      "section": "E. Geldwechsel (Art. 5 Abs. 1 Bst. a und 3 GwV)",
+      "topic": "geldwechsel",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2011/01",
+      "slug": "2011-01",
+      "question": "Ein Versicherungsvermittler nimmt für einen Kunden Geld entgegen und überweist es nach dessen Weisungen an Dritte; es handelt sich nicht um das Inkasso einer fälligen Forderung. Untersteht er mit dieser Tätigkeit dem GwG?",
+      "answer_type": "yesno",
+      "gold": "ja",
+      "accept": ["yes", "unterstellt"],
+      "gold_rz": ["112"],
+      "also_acceptable_rz": ["111"],
+      "section": "E. Versicherungsvermittler",
+      "topic": "versicherungsvermittler",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2011/01",
+      "slug": "2011-01",
+      "question": "Besteht für den Staat eine Unterstellungspflicht unter das GwG, wenn er ausserhalb seines Hoheitsbereichs finanzintermediäre Tätigkeiten ausübt?",
+      "answer_type": "yesno",
+      "gold": "ja",
+      "accept": ["yes", "unterstellt"],
+      "gold_rz": ["133"],
+      "also_acceptable_rz": [],
+      "section": "VII. Staatliches Handeln",
+      "topic": "staatliches-handeln",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Rephrased question: 'Welchen Bruttoerlös ... muss eine finanzintermediäre Tätigkeit übersteigen' was grammatically off (the Erlös exceeds the amount, not the Tätigkeit the Erlös); disambiguator 'nach den allgemeinen Kriterien' retained. Added bare-number accept variants (50'000 / 50000).",
+    "item": {
+      "lang": "de",
+      "circular": "2011/01",
+      "slug": "2011-01",
+      "question": "Welchen Betrag muss der Bruttoerlös aus einer finanzintermediären Tätigkeit pro Kalenderjahr übersteigen, damit die Tätigkeit nach den allgemeinen Kriterien der GwV als berufsmässig gilt?",
+      "answer_type": "number",
+      "gold": "50'000 Franken",
+      "accept": ["50000 Franken", "CHF 50'000", "50'000 CHF", "50‘000 Franken", "50’000 Franken", "Fr. 50'000", "mehr als 50'000 Franken", "50000 CHF", "50'000", "50000", "50‘000", "50’000"],
+      "gold_rz": ["143"],
+      "also_acceptable_rz": [],
+      "section": "VIII. Berufsmässigkeit / A. Allgemeine Kriterien (Art. 7 GwV)",
+      "topic": "berufsmaessigkeit",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2011/01",
+      "slug": "2011-01",
+      "question": "Auf welche Kennzahl wird bei der Handelstätigkeit anstelle des Bruttoerlöses abgestellt, um die Berufsmässigkeit nach Art. 7 Abs. 1 Bst. a GwV zu beurteilen?",
+      "answer_type": "short",
+      "gold": "Bruttogewinn",
+      "accept": ["auf den Bruttogewinn", "den Bruttogewinn"],
+      "gold_rz": ["152"],
+      "also_acceptable_rz": [],
+      "section": "E. Handelstätigkeit (Art. 10 GwV)",
+      "topic": "berufsmaessigkeit",
+      "difficulty": "basic"
+    }
+  }
+]

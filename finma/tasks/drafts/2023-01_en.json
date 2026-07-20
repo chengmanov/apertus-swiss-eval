@@ -1,0 +1,252 @@
+[
+  {
+    "lang": "en",
+    "circular": "2023/01",
+    "slug": "2023-01",
+    "question": "Does the supervisory definition of operational risk for banks include strategic risk?",
+    "answer_type": "yesno",
+    "gold": "no",
+    "accept": [],
+    "gold_rz": ["3"],
+    "also_acceptable_rz": [],
+    "section": "II. Definition of terms",
+    "topic": "operational risk definition",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "en",
+    "circular": "2023/01",
+    "slug": "2023-01",
+    "question": "When a bank assesses whether data must be classified as critical, which three protection aspects of the data must each be taken into account?",
+    "answer_type": "list",
+    "gold": ["confidentiality", "integrity", "availability"],
+    "accept": [
+      ["data confidentiality"],
+      ["data integrity"],
+      ["data availability"]
+    ],
+    "gold_rz": ["7"],
+    "also_acceptable_rz": [],
+    "section": "II. Definition of terms",
+    "topic": "critical data classification",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "en",
+    "circular": "2023/01",
+    "slug": "2023-01",
+    "question": "In business continuity planning at a bank, what does the recovery point objective (RPO) designate?",
+    "answer_type": "short",
+    "gold": "maximum tolerable period of data loss",
+    "accept": [
+      "the maximum tolerable period during which data is lost",
+      "maximum tolerable data loss",
+      "maximum acceptable period of data loss",
+      "maximum tolerable data loss period"
+    ],
+    "gold_rz": ["10"],
+    "also_acceptable_rz": [],
+    "section": "II. Definition of terms",
+    "topic": "BCM definitions",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "en",
+    "circular": "2023/01",
+    "slug": "2023-01",
+    "question": "A securities firm in FINMA supervisory category 4 asks whether it is exempted from individual requirements of the circular on operational risks and resilience. Is it?",
+    "answer_type": "yesno",
+    "gold": "yes",
+    "accept": [],
+    "gold_rz": ["20"],
+    "also_acceptable_rz": [],
+    "section": "III. Principle of proportionality",
+    "topic": "proportionality",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "en",
+    "circular": "2023/01",
+    "slug": "2023-01",
+    "question": "What is the maximum interval at which the risk control function must report on operational risks to a bank's executive board?",
+    "answer_type": "duration",
+    "gold": "six months",
+    "accept": [
+      "6 months",
+      "every six months",
+      "at least every six months",
+      "semi-annually",
+      "half-yearly"
+    ],
+    "gold_rz": ["39"],
+    "also_acceptable_rz": [],
+    "section": "IV. Operational risk management / A. Overarching operational risk management",
+    "topic": "risk reporting",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "en",
+    "circular": "2023/01",
+    "slug": "2023-01",
+    "question": "A bank plans to develop and test new software directly in its ICT production environment. Is this approach permissible under FINMA's change management requirements?",
+    "answer_type": "yesno",
+    "gold": "no",
+    "accept": [],
+    "gold_rz": ["51"],
+    "also_acceptable_rz": [],
+    "section": "IV. Operational risk management / B. ICT risk management / b) Change management",
+    "topic": "change management",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "en",
+    "circular": "2023/01",
+    "slug": "2023-01",
+    "question": "What content must a bank's inventory of its ICT assets include at a minimum?",
+    "answer_type": "list",
+    "gold": ["hardware assets", "software assets", "storage locations of critical data"],
+    "accept": [
+      ["hardware"],
+      ["software"],
+      ["critical data storage locations", "where critical data is stored", "storage locations"]
+    ],
+    "gold_rz": ["53"],
+    "also_acceptable_rz": [],
+    "section": "IV. Operational risk management / B. ICT risk management / c) ICT operations (run, maintenance)",
+    "topic": "ICT asset inventory",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "en",
+    "circular": "2023/01",
+    "slug": "2023-01",
+    "question": "A bank regards an ICT incident as a significant disruption to the provision of its critical processes and as materially significant for supervision. Is it required to report the incident to FINMA without delay?",
+    "answer_type": "yesno",
+    "gold": "yes",
+    "accept": [],
+    "gold_rz": ["60"],
+    "also_acceptable_rz": [],
+    "section": "IV. Operational risk management / B. ICT risk management / d) Incident management",
+    "topic": "ICT incident reporting",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "en",
+    "circular": "2023/01",
+    "slug": "2023-01",
+    "question": "A bank has already made the preliminary notification of a materially significant cyber attack to the responsible body at FINMA. Within what period must the subsequent report with the mandatory fields be submitted via the EHP survey and application platform?",
+    "answer_type": "duration",
+    "gold": "72 hours",
+    "accept": [
+      "within 72 hours",
+      "72h",
+      "72 h",
+      "3 days",
+      "three days"
+    ],
+    "gold_rz": ["68"],
+    "also_acceptable_rz": [],
+    "section": "IV. Operational risk management / C. Cyber risk management",
+    "topic": "cyber incident reporting",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "en",
+    "circular": "2023/01",
+    "slug": "2023-01",
+    "question": "Do the safeguards protecting a bank's critical data from access and use by unauthorised persons also apply to critical data held in test environments?",
+    "answer_type": "yesno",
+    "gold": "yes",
+    "accept": [],
+    "gold_rz": ["76"],
+    "also_acceptable_rz": [],
+    "section": "IV. Operational risk management / D. Critical data risk management",
+    "topic": "critical data protection",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "en",
+    "circular": "2023/01",
+    "slug": "2023-01",
+    "question": "A bank intends to store critical data with a service provider located outside Switzerland and will mitigate and monitor the increased risks with suitable measures while affording the data particular protection. Is such storage abroad permissible?",
+    "answer_type": "yesno",
+    "gold": "yes",
+    "accept": [],
+    "gold_rz": ["79"],
+    "also_acceptable_rz": [],
+    "section": "IV. Operational risk management / D. Critical data risk management",
+    "topic": "critical data abroad",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "en",
+    "circular": "2023/01",
+    "slug": "2023-01",
+    "question": "Which instrument must every relevant business and organisational area of a bank use to identify its critical processes and the resources these require?",
+    "answer_type": "short",
+    "gold": "business impact analysis",
+    "accept": [
+      "BIA",
+      "business impact analysis (BIA)",
+      "a business impact analysis"
+    ],
+    "gold_rz": ["84"],
+    "also_acceptable_rz": [],
+    "section": "IV. Operational risk management / E. Business continuity management (BCM)",
+    "topic": "business impact analysis",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "en",
+    "circular": "2023/01",
+    "slug": "2023-01",
+    "question": "When an exceptional situation threatens a bank's existence and cannot be handled with ordinary measures and decision-making authority, which body takes on the management task until order is restored?",
+    "answer_type": "short",
+    "gold": "crisis unit",
+    "accept": [
+      "the crisis unit",
+      "a crisis unit",
+      "crisis management unit",
+      "crisis team"
+    ],
+    "gold_rz": ["89"],
+    "also_acceptable_rz": [],
+    "section": "IV. Operational risk management / E. Business continuity management (BCM)",
+    "topic": "crisis organisation",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "en",
+    "circular": "2023/01",
+    "slug": "2023-01",
+    "question": "Which governance body of an institution must approve the identified critical functions and their tolerances for disruption?",
+    "answer_type": "short",
+    "gold": "board of directors",
+    "accept": [
+      "the board of directors",
+      "BoD"
+    ],
+    "gold_rz": ["101"],
+    "also_acceptable_rz": [],
+    "section": "V. Ensuring operational resilience",
+    "topic": "operational resilience governance",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "en",
+    "circular": "2023/01",
+    "slug": "2023-01",
+    "question": "After the FINMA circular on operational risks and resilience for banks entered into force, how long is the transitional period within which institutions are expected to have fully ensured their operational resilience?",
+    "answer_type": "duration",
+    "gold": "two years",
+    "accept": [
+      "2 years",
+      "within two years"
+    ],
+    "gold_rz": ["113"],
+    "also_acceptable_rz": [],
+    "section": "VII. Transitional provisions / A. Concerning ensuring operational resilience",
+    "topic": "transitional provisions",
+    "difficulty": "applied"
+  }
+]

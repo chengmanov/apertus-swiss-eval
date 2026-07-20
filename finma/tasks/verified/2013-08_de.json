@@ -1,0 +1,179 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "Verliert eine Insiderinformation ihre Vertraulichkeit grundsätzlich dadurch, dass im Markt ein Gerücht über den betreffenden Sachverhalt kursiert?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no", "nicht"],
+      "gold_rz": ["9"],
+      "also_acceptable_rz": [],
+      "section": "III. Insiderinformationen (Art. 2 Bst. j FinfraG)",
+      "topic": "insiderinformationen",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "Ein Händler hat einen Kaufauftrag für eine Aktie erteilt und erhält danach eine Insiderinformation zu dieser Aktie, worauf er den Auftrag storniert. Gilt diese Stornierung als Ausnützen einer Insiderinformation?",
+      "answer_type": "yesno",
+      "gold": "ja",
+      "accept": ["yes"],
+      "gold_rz": ["14"],
+      "also_acceptable_rz": [],
+      "section": "IV. Ausnützen von Insiderinformationen (Art. 142 FinfraG)",
+      "topic": "insiderhandel",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "Ein nicht standardisiertes OTC-Derivat wird ausschliesslich im Ausland gehandelt, ist aber von einer an einem schweizerischen Handelsplatz zum Handel zugelassenen Effekte abgeleitet. Fällt der Handel mit diesem Derivat unter das Insiderhandelsverbot von Art. 142 FinfraG?",
+      "answer_type": "yesno",
+      "gold": "ja",
+      "accept": ["yes"],
+      "gold_rz": ["12"],
+      "also_acceptable_rz": [],
+      "section": "IV. Ausnützen von Insiderinformationen (Art. 142 FinfraG)",
+      "topic": "insiderhandel",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "Eine Bank stellt bei den Effektengeschäften ihrer Kunden keine offensichtlichen Anzeichen für unzulässiges Marktverhalten fest. Muss sie die Effektengeschäfte der Kunden dennoch systematisch auf Marktmissbrauch überwachen und abklären?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no", "nicht verlangt"],
+      "gold_rz": ["47"],
+      "also_acceptable_rz": [],
+      "section": "B. Umgang mit marktmissbräuchlichen Geschäften",
+      "topic": "kundengeschaefte",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "Wie lange müssen Beaufsichtigte die Aufzeichnungen der Telefongespräche ihrer im Effektenhandel tätigen Mitarbeiter mindestens aufbewahren?",
+      "answer_type": "duration",
+      "gold": "2 Jahre",
+      "accept": ["zwei Jahre", "mindestens 2 Jahre", "mindestens zwei Jahre", "2 years"],
+      "gold_rz": ["60"],
+      "also_acceptable_rz": [],
+      "section": "F. Aufzeichnungspflichten",
+      "topic": "aufzeichnungspflichten",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Gold 'jährlich' verified against Rz 46 ('einmal jährlich sowie zusätzlich im Bedarfsfall'), but it is a frequency, not a duration, and does not fit the duration type rule (single number/duration with units). Retyped answer_type to 'short' and broadened the accept list with legitimate frequency phrasings.",
+    "item": {
+      "lang": "de",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "Wie häufig müssen Beaufsichtigte die sich im Anwendungsbereich der Marktverhaltensregeln ergebenden Risiken mindestens analysieren (abgesehen von zusätzlichen Analysen im Bedarfsfall)?",
+      "answer_type": "short",
+      "gold": "jährlich",
+      "accept": ["einmal jährlich", "einmal pro Jahr", "1x pro Jahr", "jedes Jahr", "1 Mal pro Jahr", "einmal im Jahr", "jaehrlich", "mindestens einmal jährlich", "mindestens jährlich", "annually", "once a year"],
+      "gold_rz": ["46"],
+      "also_acceptable_rz": [],
+      "section": "VII. Organisationspflichten / A. Umfang",
+      "topic": "risikoanalyse",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "Ein Händler gibt gestaffelt kleinvolumige Kaufaufträge zu schrittweise höheren Preisen ein, um eine erhöhte Nachfrage vorzutäuschen. Mit welchem Fachbegriff wird diese Manipulationstechnik bezeichnet?",
+      "answer_type": "short",
+      "gold": "Painting the Tape",
+      "accept": ["painting the tape"],
+      "gold_rz": ["22"],
+      "also_acceptable_rz": [],
+      "section": "V. Marktmanipulation (Art. 143 FinfraG)",
+      "topic": "marktmanipulation",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "Über welche Liste teilen Beaufsichtigte Verbote oder Beschränkungen spezifischer Geschäftsaktivitäten mit, etwa Transaktionssperren oder Publikationsrestriktionen für Finanzanalysen?",
+      "answer_type": "short",
+      "gold": "Restricted List",
+      "accept": ["restricted list", "die Restricted List"],
+      "gold_rz": ["58"],
+      "also_acceptable_rz": [],
+      "section": "E. Watch List und Restricted List",
+      "topic": "restricted-list",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Gold 'FINMA-RS 13/3' verified against Rz 64. Because a circular citation has many equally correct surface forms (13/3 vs 2013/3, RS vs Rundschreiben, with/without title), the accept list was broadened to keep scoring fair; question and gold unchanged.",
+    "item": {
+      "lang": "de",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "Nach Massgabe welches FINMA-Rundschreibens werden die Organisationspflichten im Bereich des Marktverhaltens geprüft?",
+      "answer_type": "short",
+      "gold": "FINMA-RS 13/3",
+      "accept": ["FINMA-RS 13/3 Prüfwesen", "RS 13/3", "13/3", "FINMA-Rundschreiben 13/3", "Rundschreiben 2013/3", "Prüfwesen", "2013/3", "FINMA-RS 2013/3", "RS 2013/3", "Rundschreiben 13/3", "FINMA-Rundschreiben 2013/3", "Rundschreiben Prüfwesen"],
+      "gold_rz": ["64"],
+      "also_acceptable_rz": [],
+      "section": "H. Prüfung",
+      "topic": "pruefung",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Gold list (Rohwaren-, Devisen-, Zinsmärkte) verified as complete per Rz 44; gold_rz correctly excludes the Rz 41 lead-in, which contains no market names. Fixed the mid-word-truncated section header ('...ausländischen Effekten so-') to the full chapter title, recoverable verbatim from Rz 4/5. Removed the gold-duplicate accept variant 'Zinsmärkte' and added 'Währungsmarkt'/'Währungsmärkte' as legitimate variants for Devisenmärkte.",
+    "item": {
+      "lang": "de",
+      "circular": "2013/08",
+      "slug": "2013-08",
+      "question": "In welchen Märkten ausserhalb des Effektenmarkts haben Beaufsichtigte die Regeln zum Umgang mit Insiderinformationen und zur Marktmanipulation sinngemäss ebenfalls einzuhalten (beispielhaft genannte Märkte)?",
+      "answer_type": "list",
+      "gold": ["Rohwarenmärkte", "Devisenmärkte", "Zinsmärkte"],
+      "accept": [
+        ["Rohwarenmarkt", "Rohwaren", "Rohstoffmärkte", "Rohstoffmarkt", "Rohstoffe"],
+        ["Devisenmarkt", "Devisen", "FX-Märkte", "Währungsmärkte", "Währungsmarkt"],
+        ["Zinsmarkt", "Zinsen"]
+      ],
+      "gold_rz": ["44"],
+      "also_acceptable_rz": [],
+      "section": "VI. Marktmissbrauch im Primärmarkt, mit ausländischen Effekten sowie in anderen Märkten",
+      "topic": "geltungsbereich-andere-maerkte",
+      "difficulty": "basic"
+    }
+  }
+]

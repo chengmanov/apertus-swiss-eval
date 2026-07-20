@@ -1,0 +1,136 @@
+{
+  "description": "Pinned corpus manifest: current FINMA circulars (banking-relevant core set), captured from finma.ch on 2026-07-19. URLs are relative to https://www.finma.ch. The Sitecore hash parameters pin the exact published document version; if FINMA updates a document the download fails loudly and the manifest (and corpus version) must be bumped deliberately.",
+  "captured": "2026-07-19",
+  "base_url": "https://www.finma.ch",
+  "circulars": [
+    {
+      "id": "2026/01", "slug": "2026-01", "title": "Nature-related financial risks", "issued": "2024-12-12",
+      "langs": {
+        "de": "/de/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2026-01.pdf?sc_lang=de&hash=3C486328218719551AEF2E93EE09C95A",
+        "fr": "/fr/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2026-01.pdf?sc_lang=fr&hash=017A95F3DFD9FFABB3C1A4EDE1285E16",
+        "en": "/en/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2026-01.pdf?sc_lang=en&hash=8D72D84C2DF2489DA571190B3C760C90"
+      }
+    },
+    {
+      "id": "2025/04", "slug": "2025-04", "title": "Consolidated supervision of financial groups under the BA and FinIA", "issued": "2025-03-05",
+      "langs": {
+        "de": "/de/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2025-04-20250305.pdf?sc_lang=de&hash=76CE12DBF3489A69BDE38B52875E081F",
+        "fr": "/fr/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2025-04-20250305.pdf?sc_lang=fr&hash=6359868070C95335BB3B6514E3D9D40F",
+        "en": "/en/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2025-04-20250305.pdf?sc_lang=en&hash=F556F70A1A6F58F3F188F398E846DA81"
+      }
+    },
+    {
+      "id": "2025/02", "slug": "2025-02", "title": "Verhaltenspflichten nach FIDLEG/FIDLEV", "issued": "2024-10-31",
+      "langs": {
+        "de": "/de/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2025-02-20241122.pdf?sc_lang=de&hash=B0B038372817C2443D4066505B340890",
+        "fr": "/fr/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2025-02-20241122.pdf?sc_lang=fr&hash=6E0E221F4F0CB5D5A864C3D21EBD3BC6"
+      }
+    },
+    {
+      "id": "2025/01", "slug": "2025-01", "title": "Pruefwesen", "issued": "2024-10-31",
+      "langs": {
+        "de": "/de/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2025-01.pdf?sc_lang=de&hash=17D1C517EC44B26D45E022D376FC96ED",
+        "fr": "/fr/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2025-01.pdf?sc_lang=fr&hash=46DBD93198C76C4B40C4838D50455EAB"
+      }
+    },
+    {
+      "id": "2023/01", "slug": "2023-01", "title": "Operational risks and resilience - banks", "issued": "2022-12-07",
+      "langs": {
+        "de": "/de/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2023-01-20221207.pdf?sc_lang=de&hash=3DA82629BEBD5388845AB8FD93121801",
+        "fr": "/fr/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2023-01-20221207.pdf?sc_lang=fr&hash=6FBA749055E9E4D06476F1E4CB4FD718",
+        "en": "/en/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2023-01-20221207.pdf?sc_lang=en&hash=1529FC7CCFD70F24BCC75C4D1B033ECF"
+      }
+    },
+    {
+      "id": "2020/01", "slug": "2020-01", "title": "Rechnungslegung - Banken", "issued": "2019-10-31",
+      "langs": {
+        "de": "/de/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2020-01-01012021_de.pdf?sc_lang=de&hash=EF884F2627342BEDEFE8457FD5C0106D",
+        "fr": "/fr/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2020-01-01012021_de.pdf?sc_lang=fr&hash=B18DDBDF9505C01D77627A187224A554"
+      }
+    },
+    {
+      "id": "2019/02", "slug": "2019-02", "title": "Zinsrisiken - Banken", "issued": "2018-06-20",
+      "langs": {
+        "de": "/de/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2019-02.pdf?sc_lang=de&hash=E6520BBE02100420DB2C2CC8429CD91A",
+        "fr": "/fr/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2019-02.pdf?sc_lang=fr&hash=EE7CF357CA32F211947F1C178211C589"
+      }
+    },
+    {
+      "id": "2019/01", "slug": "2019-01", "title": "Risikoverteilung - Banken", "issued": "2017-12-07",
+      "langs": {
+        "de": "/de/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2019-01-20200101.pdf?sc_lang=de&hash=D766C144E2052B2C060DBA941759AAC0",
+        "fr": "/fr/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2019-01-20200101.pdf?sc_lang=fr&hash=9A7C5EA0991A27D1DDBF9D8761478A64"
+      }
+    },
+    {
+      "id": "2018/03", "slug": "2018-03", "title": "Outsourcing", "issued": "2017-09-21",
+      "langs": {
+        "de": "/de/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2018-03-01012021_de.pdf?sc_lang=de&hash=0DEC4E84D9B2C22E00AD58039A6FBCFE",
+        "fr": "/fr/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2018-03-01012021_de.pdf?sc_lang=fr&hash=4A3159F8525175E2EF67A8DB0F742AED",
+        "en": "/en/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2018-03-01012021_de.pdf?sc_lang=en&hash=0DD08D6FE1C2B6D6CA7576CE036D4713"
+      }
+    },
+    {
+      "id": "2018/02", "slug": "2018-02", "title": "Duty to report securities transactions", "issued": "2017-01-25",
+      "langs": {
+        "de": "/de/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2018-02.pdf?sc_lang=de&hash=7242060E930C099C0F0371431E76AD7E",
+        "fr": "/fr/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2018-02.pdf?sc_lang=fr&hash=F2D9C20F1E71D3627B527795EA958426",
+        "en": "/en/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2018-02.pdf?sc_lang=en&hash=3115D01E87348AB32CC3DBBEFEDB33EB"
+      }
+    },
+    {
+      "id": "2017/01", "slug": "2017-01", "title": "Corporate governance - banks", "issued": "2016-09-22",
+      "langs": {
+        "de": "/de/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2017-01-20200101.pdf?sc_lang=de&hash=BDC75BFED3105C0BA622A2ADDF874A21",
+        "fr": "/fr/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2017-01-20200101.pdf?sc_lang=fr&hash=970DB8912873D207614BEEA9C2EFFAB8",
+        "en": "/en/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2017-01-20200101.pdf?sc_lang=en&hash=40C9AA3758DA15953D000B3B0497146D"
+      }
+    },
+    {
+      "id": "2016/07", "slug": "2016-07", "title": "Video and online identification", "issued": "2016-03-03",
+      "langs": {
+        "de": "/de/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2016-07-20210506.pdf?sc_lang=de&hash=CEBE657D33B26DCA34E73219896E57C2",
+        "fr": "/fr/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2016-07-20210506.pdf?sc_lang=fr&hash=68AD6B8AEACB17A09B9C1646F637CBB7",
+        "en": "/en/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2016-07-20210506.pdf?sc_lang=en&hash=494335FB0D635772A1349E0BE7A375D0"
+      }
+    },
+    {
+      "id": "2015/02", "slug": "2015-02", "title": "Liquiditaetsrisiken - Banken", "issued": "2017-12-07",
+      "langs": {
+        "de": "/de/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2015-02-20230308.pdf?sc_lang=de&hash=241CF7E4A1959A47E1BF3F9266106088",
+        "fr": "/fr/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2015-02-20230308.pdf?sc_lang=fr&hash=29AFF01D7C356D912AA96326E9D1292C"
+      }
+    },
+    {
+      "id": "2013/08", "slug": "2013-08", "title": "Market conduct rules", "issued": "2013-08-29",
+      "langs": {
+        "de": "/de/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2013-08-01012021_de.pdf?sc_lang=de&hash=53C21FA3ADCEC65F764416506728829A",
+        "fr": "/fr/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2013-08-01012021_de.pdf?sc_lang=fr&hash=EDDA5EE09BC0AEB0900516A4EE624129",
+        "en": "/en/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2013-08-01012021_de.pdf?sc_lang=en&hash=1CE1C42F130C58A97E348D8CB2B9CE9B"
+      }
+    },
+    {
+      "id": "2011/02", "slug": "2011-02", "title": "Capital buffer and capital planning - banks", "issued": "2011-03-30",
+      "langs": {
+        "de": "/de/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2011-02-20200101.pdf?sc_lang=de&hash=92ED05B583048C38B2ADFAADBF94E1B2",
+        "fr": "/fr/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2011-02-20200101.pdf?sc_lang=fr&hash=421D68CAE5F4EC520C9A54D407043640",
+        "en": "/en/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2011-02-20200101.pdf?sc_lang=en&hash=3E74DC6A30D7D6CBF54A3E2B27156498"
+      }
+    },
+    {
+      "id": "2011/01", "slug": "2011-01", "title": "Taetigkeit als Finanzintermediaer nach GwG", "issued": "2010-10-20",
+      "langs": {
+        "de": "/de/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2011-01-01-01-2017.pdf?sc_lang=de&hash=C13E76F1B7CE20DFB9B822526B383187",
+        "fr": "/fr/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2011-01-01-01-2017.pdf?sc_lang=fr&hash=9314F3466AA57D97A85B0E1C82707B9F"
+      }
+    },
+    {
+      "id": "2010/01", "slug": "2010-01", "title": "Remuneration schemes", "issued": "2009-10-21",
+      "langs": {
+        "de": "/de/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2010-01-01-07-2017.pdf?sc_lang=de&hash=71CBBE568245201171B04CEE7CB90DA4",
+        "fr": "/fr/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2010-01-01-07-2017.pdf?sc_lang=fr&hash=CC8FF54C2F9FC7B74DA71316EC7CFE5B",
+        "en": "/en/~/media/finma/dokumente/dokumentencenter/myfinma/rundschreiben/finma-rs-2010-01-01-07-2017.pdf?sc_lang=en&hash=69463C62BA9AE7BAF6A46E7BF8681987"
+      }
+    }
+  ]
+}

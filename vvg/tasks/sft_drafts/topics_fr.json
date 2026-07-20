@@ -1,0 +1,2518 @@
+[
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 5 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 2 Obligations d’information",
+  "accept": [
+   "Section 2 Obligations d’information",
+   "section 2 obligations d’information"
+  ],
+  "gold_article": [
+   "5"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 5?",
+  "answer_type": "short",
+  "gold": "Section 2 Obligations d’information",
+  "accept": [
+   "Section 2 Obligations d’information",
+   "section 2 obligations d’information"
+  ],
+  "gold_article": [
+   "5"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 7 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 2 Obligations d’information",
+  "accept": [
+   "Section 2 Obligations d’information",
+   "section 2 obligations d’information"
+  ],
+  "gold_article": [
+   "7"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 7?",
+  "answer_type": "short",
+  "gold": "Section 2 Obligations d’information",
+  "accept": [
+   "Section 2 Obligations d’information",
+   "section 2 obligations d’information"
+  ],
+  "gold_article": [
+   "7"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 8 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 2 Obligations d’information",
+  "accept": [
+   "Section 2 Obligations d’information",
+   "section 2 obligations d’information"
+  ],
+  "gold_article": [
+   "8"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 8?",
+  "answer_type": "short",
+  "gold": "Section 2 Obligations d’information",
+  "accept": [
+   "Section 2 Obligations d’information",
+   "section 2 obligations d’information"
+  ],
+  "gold_article": [
+   "8"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 9 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Contenu et force obligatoire du contrat",
+  "accept": [
+   "Section 3 Contenu et force obligatoire du contrat",
+   "section 3 contenu et force obligatoire du contrat"
+  ],
+  "gold_article": [
+   "9"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 9?",
+  "answer_type": "short",
+  "gold": "Section 3 Contenu et force obligatoire du contrat",
+  "accept": [
+   "Section 3 Contenu et force obligatoire du contrat",
+   "section 3 contenu et force obligatoire du contrat"
+  ],
+  "gold_article": [
+   "9"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 10 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Contenu et force obligatoire du contrat",
+  "accept": [
+   "Section 3 Contenu et force obligatoire du contrat",
+   "section 3 contenu et force obligatoire du contrat"
+  ],
+  "gold_article": [
+   "10"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 10?",
+  "answer_type": "short",
+  "gold": "Section 3 Contenu et force obligatoire du contrat",
+  "accept": [
+   "Section 3 Contenu et force obligatoire du contrat",
+   "section 3 contenu et force obligatoire du contrat"
+  ],
+  "gold_article": [
+   "10"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 11 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Contenu et force obligatoire du contrat",
+  "accept": [
+   "Section 3 Contenu et force obligatoire du contrat",
+   "section 3 contenu et force obligatoire du contrat"
+  ],
+  "gold_article": [
+   "11"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 11?",
+  "answer_type": "short",
+  "gold": "Section 3 Contenu et force obligatoire du contrat",
+  "accept": [
+   "Section 3 Contenu et force obligatoire du contrat",
+   "section 3 contenu et force obligatoire du contrat"
+  ],
+  "gold_article": [
+   "11"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 13 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Contenu et force obligatoire du contrat",
+  "accept": [
+   "Section 3 Contenu et force obligatoire du contrat",
+   "section 3 contenu et force obligatoire du contrat"
+  ],
+  "gold_article": [
+   "13"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 13?",
+  "answer_type": "short",
+  "gold": "Section 3 Contenu et force obligatoire du contrat",
+  "accept": [
+   "Section 3 Contenu et force obligatoire du contrat",
+   "section 3 contenu et force obligatoire du contrat"
+  ],
+  "gold_article": [
+   "13"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 14 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Contenu et force obligatoire du contrat",
+  "accept": [
+   "Section 3 Contenu et force obligatoire du contrat",
+   "section 3 contenu et force obligatoire du contrat"
+  ],
+  "gold_article": [
+   "14"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 14?",
+  "answer_type": "short",
+  "gold": "Section 3 Contenu et force obligatoire du contrat",
+  "accept": [
+   "Section 3 Contenu et force obligatoire du contrat",
+   "section 3 contenu et force obligatoire du contrat"
+  ],
+  "gold_article": [
+   "14"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 15 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Contenu et force obligatoire du contrat",
+  "accept": [
+   "Section 3 Contenu et force obligatoire du contrat",
+   "section 3 contenu et force obligatoire du contrat"
+  ],
+  "gold_article": [
+   "15"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 15?",
+  "answer_type": "short",
+  "gold": "Section 3 Contenu et force obligatoire du contrat",
+  "accept": [
+   "Section 3 Contenu et force obligatoire du contrat",
+   "section 3 contenu et force obligatoire du contrat"
+  ],
+  "gold_article": [
+   "15"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 16 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Contenu et force obligatoire du contrat",
+  "accept": [
+   "Section 3 Contenu et force obligatoire du contrat",
+   "section 3 contenu et force obligatoire du contrat"
+  ],
+  "gold_article": [
+   "16"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 16?",
+  "answer_type": "short",
+  "gold": "Section 3 Contenu et force obligatoire du contrat",
+  "accept": [
+   "Section 3 Contenu et force obligatoire du contrat",
+   "section 3 contenu et force obligatoire du contrat"
+  ],
+  "gold_article": [
+   "16"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 17 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Contenu et force obligatoire du contrat",
+  "accept": [
+   "Section 3 Contenu et force obligatoire du contrat",
+   "section 3 contenu et force obligatoire du contrat"
+  ],
+  "gold_article": [
+   "17"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 17?",
+  "answer_type": "short",
+  "gold": "Section 3 Contenu et force obligatoire du contrat",
+  "accept": [
+   "Section 3 Contenu et force obligatoire du contrat",
+   "section 3 contenu et force obligatoire du contrat"
+  ],
+  "gold_article": [
+   "17"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 19 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 4 Prime",
+  "accept": [
+   "Section 4 Prime",
+   "section 4 prime"
+  ],
+  "gold_article": [
+   "19"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 19?",
+  "answer_type": "short",
+  "gold": "Section 4 Prime",
+  "accept": [
+   "Section 4 Prime",
+   "section 4 prime"
+  ],
+  "gold_article": [
+   "19"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 20 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 4 Prime",
+  "accept": [
+   "Section 4 Prime",
+   "section 4 prime"
+  ],
+  "gold_article": [
+   "20"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 20?",
+  "answer_type": "short",
+  "gold": "Section 4 Prime",
+  "accept": [
+   "Section 4 Prime",
+   "section 4 prime"
+  ],
+  "gold_article": [
+   "20"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 21 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 4 Prime",
+  "accept": [
+   "Section 4 Prime",
+   "section 4 prime"
+  ],
+  "gold_article": [
+   "21"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 21?",
+  "answer_type": "short",
+  "gold": "Section 4 Prime",
+  "accept": [
+   "Section 4 Prime",
+   "section 4 prime"
+  ],
+  "gold_article": [
+   "21"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 22 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 4 Prime",
+  "accept": [
+   "Section 4 Prime",
+   "section 4 prime"
+  ],
+  "gold_article": [
+   "22"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 22?",
+  "answer_type": "short",
+  "gold": "Section 4 Prime",
+  "accept": [
+   "Section 4 Prime",
+   "section 4 prime"
+  ],
+  "gold_article": [
+   "22"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 24 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 4 Prime",
+  "accept": [
+   "Section 4 Prime",
+   "section 4 prime"
+  ],
+  "gold_article": [
+   "24"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 24?",
+  "answer_type": "short",
+  "gold": "Section 4 Prime",
+  "accept": [
+   "Section 4 Prime",
+   "section 4 prime"
+  ],
+  "gold_article": [
+   "24"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 25 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 4 Prime",
+  "accept": [
+   "Section 4 Prime",
+   "section 4 prime"
+  ],
+  "gold_article": [
+   "25"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 25?",
+  "answer_type": "short",
+  "gold": "Section 4 Prime",
+  "accept": [
+   "Section 4 Prime",
+   "section 4 prime"
+  ],
+  "gold_article": [
+   "25"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 28 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 5 Modification du contrat",
+  "accept": [
+   "Section 5 Modification du contrat",
+   "section 5 modification du contrat"
+  ],
+  "gold_article": [
+   "28"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 28?",
+  "answer_type": "short",
+  "gold": "Section 5 Modification du contrat",
+  "accept": [
+   "Section 5 Modification du contrat",
+   "section 5 modification du contrat"
+  ],
+  "gold_article": [
+   "28"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 29 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 5 Modification du contrat",
+  "accept": [
+   "Section 5 Modification du contrat",
+   "section 5 modification du contrat"
+  ],
+  "gold_article": [
+   "29"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 29?",
+  "answer_type": "short",
+  "gold": "Section 5 Modification du contrat",
+  "accept": [
+   "Section 5 Modification du contrat",
+   "section 5 modification du contrat"
+  ],
+  "gold_article": [
+   "29"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 30 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 5 Modification du contrat",
+  "accept": [
+   "Section 5 Modification du contrat",
+   "section 5 modification du contrat"
+  ],
+  "gold_article": [
+   "30"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 30?",
+  "answer_type": "short",
+  "gold": "Section 5 Modification du contrat",
+  "accept": [
+   "Section 5 Modification du contrat",
+   "section 5 modification du contrat"
+  ],
+  "gold_article": [
+   "30"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 31 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 5 Modification du contrat",
+  "accept": [
+   "Section 5 Modification du contrat",
+   "section 5 modification du contrat"
+  ],
+  "gold_article": [
+   "31"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 31?",
+  "answer_type": "short",
+  "gold": "Section 5 Modification du contrat",
+  "accept": [
+   "Section 5 Modification du contrat",
+   "section 5 modification du contrat"
+  ],
+  "gold_article": [
+   "31"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 32 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 5 Modification du contrat",
+  "accept": [
+   "Section 5 Modification du contrat",
+   "section 5 modification du contrat"
+  ],
+  "gold_article": [
+   "32"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 32?",
+  "answer_type": "short",
+  "gold": "Section 5 Modification du contrat",
+  "accept": [
+   "Section 5 Modification du contrat",
+   "section 5 modification du contrat"
+  ],
+  "gold_article": [
+   "32"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 33 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 5 Modification du contrat",
+  "accept": [
+   "Section 5 Modification du contrat",
+   "section 5 modification du contrat"
+  ],
+  "gold_article": [
+   "33"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 33?",
+  "answer_type": "short",
+  "gold": "Section 5 Modification du contrat",
+  "accept": [
+   "Section 5 Modification du contrat",
+   "section 5 modification du contrat"
+  ],
+  "gold_article": [
+   "33"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 34 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 5 Modification du contrat",
+  "accept": [
+   "Section 5 Modification du contrat",
+   "section 5 modification du contrat"
+  ],
+  "gold_article": [
+   "34"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 34?",
+  "answer_type": "short",
+  "gold": "Section 5 Modification du contrat",
+  "accept": [
+   "Section 5 Modification du contrat",
+   "section 5 modification du contrat"
+  ],
+  "gold_article": [
+   "34"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 35 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 5 Modification du contrat",
+  "accept": [
+   "Section 5 Modification du contrat",
+   "section 5 modification du contrat"
+  ],
+  "gold_article": [
+   "35"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 35?",
+  "answer_type": "short",
+  "gold": "Section 5 Modification du contrat",
+  "accept": [
+   "Section 5 Modification du contrat",
+   "section 5 modification du contrat"
+  ],
+  "gold_article": [
+   "35"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 36 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 6 Fin du contrat",
+  "accept": [
+   "Section 6 Fin du contrat",
+   "section 6 fin du contrat"
+  ],
+  "gold_article": [
+   "36"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 36?",
+  "answer_type": "short",
+  "gold": "Section 6 Fin du contrat",
+  "accept": [
+   "Section 6 Fin du contrat",
+   "section 6 fin du contrat"
+  ],
+  "gold_article": [
+   "36"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 37 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 6 Fin du contrat",
+  "accept": [
+   "Section 6 Fin du contrat",
+   "section 6 fin du contrat"
+  ],
+  "gold_article": [
+   "37"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 37?",
+  "answer_type": "short",
+  "gold": "Section 6 Fin du contrat",
+  "accept": [
+   "Section 6 Fin du contrat",
+   "section 6 fin du contrat"
+  ],
+  "gold_article": [
+   "37"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 38 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 7 Survenance du sinistre",
+  "accept": [
+   "Section 7 Survenance du sinistre",
+   "section 7 survenance du sinistre"
+  ],
+  "gold_article": [
+   "38"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 38?",
+  "answer_type": "short",
+  "gold": "Section 7 Survenance du sinistre",
+  "accept": [
+   "Section 7 Survenance du sinistre",
+   "section 7 survenance du sinistre"
+  ],
+  "gold_article": [
+   "38"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 39 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 7 Survenance du sinistre",
+  "accept": [
+   "Section 7 Survenance du sinistre",
+   "section 7 survenance du sinistre"
+  ],
+  "gold_article": [
+   "39"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 39?",
+  "answer_type": "short",
+  "gold": "Section 7 Survenance du sinistre",
+  "accept": [
+   "Section 7 Survenance du sinistre",
+   "section 7 survenance du sinistre"
+  ],
+  "gold_article": [
+   "39"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 41 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 7 Survenance du sinistre",
+  "accept": [
+   "Section 7 Survenance du sinistre",
+   "section 7 survenance du sinistre"
+  ],
+  "gold_article": [
+   "41"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 41?",
+  "answer_type": "short",
+  "gold": "Section 7 Survenance du sinistre",
+  "accept": [
+   "Section 7 Survenance du sinistre",
+   "section 7 survenance du sinistre"
+  ],
+  "gold_article": [
+   "41"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 42 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 7 Survenance du sinistre",
+  "accept": [
+   "Section 7 Survenance du sinistre",
+   "section 7 survenance du sinistre"
+  ],
+  "gold_article": [
+   "42"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 42?",
+  "answer_type": "short",
+  "gold": "Section 7 Survenance du sinistre",
+  "accept": [
+   "Section 7 Survenance du sinistre",
+   "section 7 survenance du sinistre"
+  ],
+  "gold_article": [
+   "42"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 43 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 8 Autres dispositions",
+  "accept": [
+   "Section 8 Autres dispositions",
+   "section 8 autres dispositions"
+  ],
+  "gold_article": [
+   "43"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 43?",
+  "answer_type": "short",
+  "gold": "Section 8 Autres dispositions",
+  "accept": [
+   "Section 8 Autres dispositions",
+   "section 8 autres dispositions"
+  ],
+  "gold_article": [
+   "43"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 44 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 8 Autres dispositions",
+  "accept": [
+   "Section 8 Autres dispositions",
+   "section 8 autres dispositions"
+  ],
+  "gold_article": [
+   "44"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 44?",
+  "answer_type": "short",
+  "gold": "Section 8 Autres dispositions",
+  "accept": [
+   "Section 8 Autres dispositions",
+   "section 8 autres dispositions"
+  ],
+  "gold_article": [
+   "44"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 45 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 8 Autres dispositions",
+  "accept": [
+   "Section 8 Autres dispositions",
+   "section 8 autres dispositions"
+  ],
+  "gold_article": [
+   "45"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 45?",
+  "answer_type": "short",
+  "gold": "Section 8 Autres dispositions",
+  "accept": [
+   "Section 8 Autres dispositions",
+   "section 8 autres dispositions"
+  ],
+  "gold_article": [
+   "45"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 47 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 8 Autres dispositions",
+  "accept": [
+   "Section 8 Autres dispositions",
+   "section 8 autres dispositions"
+  ],
+  "gold_article": [
+   "47"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 47?",
+  "answer_type": "short",
+  "gold": "Section 8 Autres dispositions",
+  "accept": [
+   "Section 8 Autres dispositions",
+   "section 8 autres dispositions"
+  ],
+  "gold_article": [
+   "47"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 48 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 1 Assurance de choses",
+  "accept": [
+   "Section 1 Assurance de choses",
+   "section 1 assurance de choses"
+  ],
+  "gold_article": [
+   "48"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 48?",
+  "answer_type": "short",
+  "gold": "Section 1 Assurance de choses",
+  "accept": [
+   "Section 1 Assurance de choses",
+   "section 1 assurance de choses"
+  ],
+  "gold_article": [
+   "48"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 50 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 1 Assurance de choses",
+  "accept": [
+   "Section 1 Assurance de choses",
+   "section 1 assurance de choses"
+  ],
+  "gold_article": [
+   "50"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 50?",
+  "answer_type": "short",
+  "gold": "Section 1 Assurance de choses",
+  "accept": [
+   "Section 1 Assurance de choses",
+   "section 1 assurance de choses"
+  ],
+  "gold_article": [
+   "50"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 51 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 1 Assurance de choses",
+  "accept": [
+   "Section 1 Assurance de choses",
+   "section 1 assurance de choses"
+  ],
+  "gold_article": [
+   "51"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 51?",
+  "answer_type": "short",
+  "gold": "Section 1 Assurance de choses",
+  "accept": [
+   "Section 1 Assurance de choses",
+   "section 1 assurance de choses"
+  ],
+  "gold_article": [
+   "51"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 52 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 1 Assurance de choses",
+  "accept": [
+   "Section 1 Assurance de choses",
+   "section 1 assurance de choses"
+  ],
+  "gold_article": [
+   "52"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 52?",
+  "answer_type": "short",
+  "gold": "Section 1 Assurance de choses",
+  "accept": [
+   "Section 1 Assurance de choses",
+   "section 1 assurance de choses"
+  ],
+  "gold_article": [
+   "52"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 54 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 1 Assurance de choses",
+  "accept": [
+   "Section 1 Assurance de choses",
+   "section 1 assurance de choses"
+  ],
+  "gold_article": [
+   "54"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 54?",
+  "answer_type": "short",
+  "gold": "Section 1 Assurance de choses",
+  "accept": [
+   "Section 1 Assurance de choses",
+   "section 1 assurance de choses"
+  ],
+  "gold_article": [
+   "54"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 56 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 1 Assurance de choses",
+  "accept": [
+   "Section 1 Assurance de choses",
+   "section 1 assurance de choses"
+  ],
+  "gold_article": [
+   "56"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 56?",
+  "answer_type": "short",
+  "gold": "Section 1 Assurance de choses",
+  "accept": [
+   "Section 1 Assurance de choses",
+   "section 1 assurance de choses"
+  ],
+  "gold_article": [
+   "56"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 57 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 1 Assurance de choses",
+  "accept": [
+   "Section 1 Assurance de choses",
+   "section 1 assurance de choses"
+  ],
+  "gold_article": [
+   "57"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 57?",
+  "answer_type": "short",
+  "gold": "Section 1 Assurance de choses",
+  "accept": [
+   "Section 1 Assurance de choses",
+   "section 1 assurance de choses"
+  ],
+  "gold_article": [
+   "57"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 58 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 1 Assurance de choses",
+  "accept": [
+   "Section 1 Assurance de choses",
+   "section 1 assurance de choses"
+  ],
+  "gold_article": [
+   "58"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 58?",
+  "answer_type": "short",
+  "gold": "Section 1 Assurance de choses",
+  "accept": [
+   "Section 1 Assurance de choses",
+   "section 1 assurance de choses"
+  ],
+  "gold_article": [
+   "58"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 59 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 2 Assurance responsabilité civile",
+  "accept": [
+   "Section 2 Assurance responsabilité civile",
+   "section 2 assurance responsabilité civile"
+  ],
+  "gold_article": [
+   "59"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 59?",
+  "answer_type": "short",
+  "gold": "Section 2 Assurance responsabilité civile",
+  "accept": [
+   "Section 2 Assurance responsabilité civile",
+   "section 2 assurance responsabilité civile"
+  ],
+  "gold_article": [
+   "59"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 60 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 2 Assurance responsabilité civile",
+  "accept": [
+   "Section 2 Assurance responsabilité civile",
+   "section 2 assurance responsabilité civile"
+  ],
+  "gold_article": [
+   "60"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 60?",
+  "answer_type": "short",
+  "gold": "Section 2 Assurance responsabilité civile",
+  "accept": [
+   "Section 2 Assurance responsabilité civile",
+   "section 2 assurance responsabilité civile"
+  ],
+  "gold_article": [
+   "60"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 61 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 2 Assurance responsabilité civile",
+  "accept": [
+   "Section 2 Assurance responsabilité civile",
+   "section 2 assurance responsabilité civile"
+  ],
+  "gold_article": [
+   "61"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 61?",
+  "answer_type": "short",
+  "gold": "Section 2 Assurance responsabilité civile",
+  "accept": [
+   "Section 2 Assurance responsabilité civile",
+   "section 2 assurance responsabilité civile"
+  ],
+  "gold_article": [
+   "61"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 73 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "73"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 73?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "73"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 74 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "74"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 74?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "74"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 76 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "76"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 76?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "76"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 77 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "77"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 77?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "77"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 78 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "78"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 78?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "78"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 79 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "79"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 79?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "79"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 80 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "80"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 80?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "80"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 81 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "81"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 81?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "81"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 82 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "82"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 82?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "82"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 83 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "83"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 83?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "83"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 84 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "84"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 84?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "84"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 85 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "85"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 85?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "85"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 86 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "86"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 86?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "86"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 87 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "87"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 87?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "87"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 89 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "89"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 89?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "89"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 90 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "90"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 90?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "90"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 91 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "91"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 91?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "91"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 92 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "92"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 92?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "92"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 93 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "93"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 93?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "93"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 94 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "94"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 94?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "94"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 95 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "95"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 95?",
+  "answer_type": "short",
+  "gold": "Section 3 Assurance sur la vie",
+  "accept": [
+   "Section 3 Assurance sur la vie",
+   "section 3 assurance sur la vie"
+  ],
+  "gold_article": [
+   "95"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 96 est-il classé?",
+  "answer_type": "short",
+  "gold": "Section 5 Coordination",
+  "accept": [
+   "Section 5 Coordination",
+   "section 5 coordination"
+  ],
+  "gold_article": [
+   "96"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 96?",
+  "answer_type": "short",
+  "gold": "Section 5 Coordination",
+  "accept": [
+   "Section 5 Coordination",
+   "section 5 coordination"
+  ],
+  "gold_article": [
+   "96"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 97 est-il classé?",
+  "answer_type": "short",
+  "gold": "Chapitre 3 Dispositions impératives",
+  "accept": [
+   "Chapitre 3 Dispositions impératives",
+   "chapitre 3 dispositions impératives"
+  ],
+  "gold_article": [
+   "97"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 97?",
+  "answer_type": "short",
+  "gold": "Chapitre 3 Dispositions impératives",
+  "accept": [
+   "Chapitre 3 Dispositions impératives",
+   "chapitre 3 dispositions impératives"
+  ],
+  "gold_article": [
+   "97"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 98 est-il classé?",
+  "answer_type": "short",
+  "gold": "Chapitre 3 Dispositions impératives",
+  "accept": [
+   "Chapitre 3 Dispositions impératives",
+   "chapitre 3 dispositions impératives"
+  ],
+  "gold_article": [
+   "98"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 98?",
+  "answer_type": "short",
+  "gold": "Chapitre 3 Dispositions impératives",
+  "accept": [
+   "Chapitre 3 Dispositions impératives",
+   "chapitre 3 dispositions impératives"
+  ],
+  "gold_article": [
+   "98"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 99 est-il classé?",
+  "answer_type": "short",
+  "gold": "Chapitre 3 Dispositions impératives",
+  "accept": [
+   "Chapitre 3 Dispositions impératives",
+   "chapitre 3 dispositions impératives"
+  ],
+  "gold_article": [
+   "99"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 99?",
+  "answer_type": "short",
+  "gold": "Chapitre 3 Dispositions impératives",
+  "accept": [
+   "Chapitre 3 Dispositions impératives",
+   "chapitre 3 dispositions impératives"
+  ],
+  "gold_article": [
+   "99"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 100 est-il classé?",
+  "answer_type": "short",
+  "gold": "Chapitre 4 Dispositions finales",
+  "accept": [
+   "Chapitre 4 Dispositions finales",
+   "chapitre 4 dispositions finales"
+  ],
+  "gold_article": [
+   "100"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 100?",
+  "answer_type": "short",
+  "gold": "Chapitre 4 Dispositions finales",
+  "accept": [
+   "Chapitre 4 Dispositions finales",
+   "chapitre 4 dispositions finales"
+  ],
+  "gold_article": [
+   "100"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 101 est-il classé?",
+  "answer_type": "short",
+  "gold": "Chapitre 4 Dispositions finales",
+  "accept": [
+   "Chapitre 4 Dispositions finales",
+   "chapitre 4 dispositions finales"
+  ],
+  "gold_article": [
+   "101"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 101?",
+  "answer_type": "short",
+  "gold": "Chapitre 4 Dispositions finales",
+  "accept": [
+   "Chapitre 4 Dispositions finales",
+   "chapitre 4 dispositions finales"
+  ],
+  "gold_article": [
+   "101"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "Dans quelle section thématique de la loi sur le contrat d'assurance l'article 103 est-il classé?",
+  "answer_type": "short",
+  "gold": "Chapitre 4 Dispositions finales",
+  "accept": [
+   "Chapitre 4 Dispositions finales",
+   "chapitre 4 dispositions finales"
+  ],
+  "gold_article": [
+   "103"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "VVG",
+  "question": "À quel domaine de la LCA appartient l'article 103?",
+  "answer_type": "short",
+  "gold": "Chapitre 4 Dispositions finales",
+  "accept": [
+   "Chapitre 4 Dispositions finales",
+   "chapitre 4 dispositions finales"
+  ],
+  "gold_article": [
+   "103"
+  ],
+  "also_acceptable_article": [],
+  "topic": "section-id",
+  "difficulty": "basic"
+ }
+]

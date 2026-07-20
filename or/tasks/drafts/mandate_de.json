@@ -1,0 +1,124 @@
+[
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Schuldet der Auftraggeber dem Beauftragten bei einem einfachen Auftrag ein Honorar auch dann, wenn dieses weder abgemacht noch nach den Umständen gebräuchlich ist?",
+    "answer_type": "yesno",
+    "gold": "nein",
+    "accept": ["no"],
+    "gold_article": ["394"],
+    "also_acceptable_article": [],
+    "section": "Auftrag / Der einfache Auftrag",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Für welche Arten von Geschäften braucht der Beauftragte über die zur Ausführung gehörenden Rechtshandlungen hinaus eine besondere Ermächtigung des Auftraggebers?",
+    "answer_type": "list",
+    "gold": [
+      "Abschluss eines Vergleichs",
+      "Annahme eines Schiedsgerichts",
+      "Eingehung wechselrechtlicher Verbindlichkeiten",
+      "Veräusserung oder Belastung von Grundstücken",
+      "Vornahme von Schenkungen"
+    ],
+    "accept": [
+      [
+        "Vergleich abschliessen",
+        "Schiedsgericht annehmen",
+        "wechselrechtliche Verbindlichkeiten eingehen",
+        "Grundstücke veräussern oder belasten",
+        "Schenkungen machen"
+      ]
+    ],
+    "gold_article": ["396"],
+    "also_acceptable_article": [],
+    "section": "Auftrag / Der einfache Auftrag",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Ein Beauftragter erhält eine klare Weisung des Auftraggebers. Darf er eigenmächtig von dieser Weisung abweichen, obwohl es ihm ohne weiteres möglich wäre, vorher dessen Erlaubnis einzuholen?",
+    "answer_type": "yesno",
+    "gold": "nein",
+    "accept": ["no"],
+    "gold_article": ["397"],
+    "also_acceptable_article": [],
+    "section": "Auftrag / Der einfache Auftrag",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Mit welcher Person wird der Beauftragte hinsichtlich des von ihm im Allgemeinen geschuldeten Sorgfaltsmasses vom Gesetz gleichgestellt?",
+    "answer_type": "short",
+    "gold": "der Arbeitnehmer im Arbeitsverhältnis",
+    "accept": ["Arbeitnehmer im Arbeitsverhältnis", "der Arbeitnehmer", "ein Arbeitnehmer"],
+    "gold_article": ["398"],
+    "also_acceptable_article": [],
+    "section": "Auftrag / Der einfache Auftrag",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Ein Beauftragter überträgt die Ausführung des Auftrags ohne Befugnis einem Dritten. Haftet er dem Auftraggeber für das Verhalten dieses Dritten im gleichen Umfang wie für eigenes Handeln?",
+    "answer_type": "yesno",
+    "gold": "ja",
+    "accept": ["yes"],
+    "gold_article": ["399"],
+    "also_acceptable_article": [],
+    "section": "Auftrag / Der einfache Auftrag",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Wozu ist der Beauftragte gegenüber dem Auftraggeber auf dessen Verlangen jederzeit verpflichtet, soweit es seine Geschäftsführung betrifft?",
+    "answer_type": "short",
+    "gold": "Rechenschaft ablegen",
+    "accept": ["Rechenschaft abzulegen", "Rechenschaftsablegung", "Rechenschaft"],
+    "gold_article": ["400"],
+    "also_acceptable_article": [],
+    "section": "Auftrag / Der einfache Auftrag",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Ein Beauftragter hat bei richtiger Ausführung des Auftrags eigene Auslagen getätigt. Ist der Auftraggeber verpflichtet, ihm diese Auslagen samt Zinsen zu vergüten?",
+    "answer_type": "yesno",
+    "gold": "ja",
+    "accept": ["yes"],
+    "gold_article": ["402"],
+    "also_acceptable_article": [],
+    "section": "Auftrag / Der einfache Auftrag",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Ein Auftraggeber möchte einen laufenden einfachen Auftrag sofort beenden, obwohl keine vertragliche Frist vereinbart wurde. Kann er den Auftrag jederzeit widerrufen?",
+    "answer_type": "yesno",
+    "gold": "ja",
+    "accept": ["yes"],
+    "gold_article": ["404"],
+    "also_acceptable_article": [],
+    "section": "Auftrag / Der einfache Auftrag",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Wie viele verschiedene in der Person einer Partei liegende Ereignisse führen nach der gesetzlichen Grundregel — mangels gegenteiliger Vereinbarung oder Natur des Geschäfts — zum Erlöschen des Auftrags?",
+    "answer_type": "number",
+    "gold": "4",
+    "accept": ["vier"],
+    "gold_article": ["405"],
+    "also_acceptable_article": [],
+    "section": "Auftrag / Der einfache Auftrag",
+    "difficulty": "basic"
+  }
+]

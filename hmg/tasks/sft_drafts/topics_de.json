@@ -1,0 +1,1940 @@
+[
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 1 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Zweck",
+  "accept": [
+   "Zweck",
+   "zweck"
+  ],
+  "gold_article": [
+   "1"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 1 HMG?",
+  "answer_type": "short",
+  "gold": "Zweck",
+  "accept": [
+   "Zweck",
+   "zweck"
+  ],
+  "gold_article": [
+   "1"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 2 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Geltungsbereich",
+  "accept": [
+   "Geltungsbereich",
+   "geltungsbereich"
+  ],
+  "gold_article": [
+   "2"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 2 HMG?",
+  "answer_type": "short",
+  "gold": "Geltungsbereich",
+  "accept": [
+   "Geltungsbereich",
+   "geltungsbereich"
+  ],
+  "gold_article": [
+   "2"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 3 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Sorgfaltspflicht",
+  "accept": [
+   "Sorgfaltspflicht",
+   "sorgfaltspflicht"
+  ],
+  "gold_article": [
+   "3"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 3 HMG?",
+  "answer_type": "short",
+  "gold": "Sorgfaltspflicht",
+  "accept": [
+   "Sorgfaltspflicht",
+   "sorgfaltspflicht"
+  ],
+  "gold_article": [
+   "3"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 5 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Bewilligungspflicht",
+  "accept": [
+   "Bewilligungspflicht",
+   "bewilligungspflicht"
+  ],
+  "gold_article": [
+   "5"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 5 HMG?",
+  "answer_type": "short",
+  "gold": "Bewilligungspflicht",
+  "accept": [
+   "Bewilligungspflicht",
+   "bewilligungspflicht"
+  ],
+  "gold_article": [
+   "5"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 6 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Voraussetzungen",
+  "accept": [
+   "Voraussetzungen",
+   "voraussetzungen"
+  ],
+  "gold_article": [
+   "6"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 6 HMG?",
+  "answer_type": "short",
+  "gold": "Voraussetzungen",
+  "accept": [
+   "Voraussetzungen",
+   "voraussetzungen"
+  ],
+  "gold_article": [
+   "6"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 7 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Anforderungen an die Herstellung",
+  "accept": [
+   "Anforderungen an die Herstellung",
+   "anforderungen an die herstellung"
+  ],
+  "gold_article": [
+   "7"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 7 HMG?",
+  "answer_type": "short",
+  "gold": "Anforderungen an die Herstellung",
+  "accept": [
+   "Anforderungen an die Herstellung",
+   "anforderungen an die herstellung"
+  ],
+  "gold_article": [
+   "7"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 10 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Zulassungsvoraussetzungen",
+  "accept": [
+   "Zulassungsvoraussetzungen",
+   "zulassungsvoraussetzungen"
+  ],
+  "gold_article": [
+   "10"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 10 HMG?",
+  "answer_type": "short",
+  "gold": "Zulassungsvoraussetzungen",
+  "accept": [
+   "Zulassungsvoraussetzungen",
+   "zulassungsvoraussetzungen"
+  ],
+  "gold_article": [
+   "10"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 13 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Im Ausland zugelassene Arzneimittel und Verfahren",
+  "accept": [
+   "Im Ausland zugelassene Arzneimittel und Verfahren",
+   "im ausland zugelassene arzneimittel und verfahren"
+  ],
+  "gold_article": [
+   "13"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 13 HMG?",
+  "answer_type": "short",
+  "gold": "Im Ausland zugelassene Arzneimittel und Verfahren",
+  "accept": [
+   "Im Ausland zugelassene Arzneimittel und Verfahren",
+   "im ausland zugelassene arzneimittel und verfahren"
+  ],
+  "gold_article": [
+   "13"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 17 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Behördliche Chargenfreigabe",
+  "accept": [
+   "Behördliche Chargenfreigabe",
+   "behördliche chargenfreigabe"
+  ],
+  "gold_article": [
+   "17"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 17 HMG?",
+  "answer_type": "short",
+  "gold": "Behördliche Chargenfreigabe",
+  "accept": [
+   "Behördliche Chargenfreigabe",
+   "behördliche chargenfreigabe"
+  ],
+  "gold_article": [
+   "17"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 18 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Bewilligungspflicht",
+  "accept": [
+   "Bewilligungspflicht",
+   "bewilligungspflicht"
+  ],
+  "gold_article": [
+   "18"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 18 HMG?",
+  "answer_type": "short",
+  "gold": "Bewilligungspflicht",
+  "accept": [
+   "Bewilligungspflicht",
+   "bewilligungspflicht"
+  ],
+  "gold_article": [
+   "18"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 19 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Bewilligungsvoraussetzungen",
+  "accept": [
+   "Bewilligungsvoraussetzungen",
+   "bewilligungsvoraussetzungen"
+  ],
+  "gold_article": [
+   "19"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 19 HMG?",
+  "answer_type": "short",
+  "gold": "Bewilligungsvoraussetzungen",
+  "accept": [
+   "Bewilligungsvoraussetzungen",
+   "bewilligungsvoraussetzungen"
+  ],
+  "gold_article": [
+   "19"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 20 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Besondere Bestimmungen für die Einfuhr",
+  "accept": [
+   "Besondere Bestimmungen für die Einfuhr",
+   "besondere bestimmungen für die einfuhr"
+  ],
+  "gold_article": [
+   "20"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 20 HMG?",
+  "answer_type": "short",
+  "gold": "Besondere Bestimmungen für die Einfuhr",
+  "accept": [
+   "Besondere Bestimmungen für die Einfuhr",
+   "besondere bestimmungen für die einfuhr"
+  ],
+  "gold_article": [
+   "20"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 21 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Beschränkungen für die Ausfuhr und den Handel im Ausland",
+  "accept": [
+   "Beschränkungen für die Ausfuhr und den Handel im Ausland",
+   "beschränkungen für die ausfuhr und den handel im ausland"
+  ],
+  "gold_article": [
+   "21"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 21 HMG?",
+  "answer_type": "short",
+  "gold": "Beschränkungen für die Ausfuhr und den Handel im Ausland",
+  "accept": [
+   "Beschränkungen für die Ausfuhr und den Handel im Ausland",
+   "beschränkungen für die ausfuhr und den handel im ausland"
+  ],
+  "gold_article": [
+   "21"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 22 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Sorgfaltspflichten bei der Ausfuhr",
+  "accept": [
+   "Sorgfaltspflichten bei der Ausfuhr",
+   "sorgfaltspflichten bei der ausfuhr"
+  ],
+  "gold_article": [
+   "22"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 22 HMG?",
+  "answer_type": "short",
+  "gold": "Sorgfaltspflichten bei der Ausfuhr",
+  "accept": [
+   "Sorgfaltspflichten bei der Ausfuhr",
+   "sorgfaltspflichten bei der ausfuhr"
+  ],
+  "gold_article": [
+   "22"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 23 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Kategorien von Arzneimitteln",
+  "accept": [
+   "Kategorien von Arzneimitteln",
+   "kategorien von arzneimitteln"
+  ],
+  "gold_article": [
+   "23"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 23 HMG?",
+  "answer_type": "short",
+  "gold": "Kategorien von Arzneimitteln",
+  "accept": [
+   "Kategorien von Arzneimitteln",
+   "kategorien von arzneimitteln"
+  ],
+  "gold_article": [
+   "23"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 24 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Abgabe verschreibungspflichtiger Arzneimittel",
+  "accept": [
+   "Abgabe verschreibungspflichtiger Arzneimittel",
+   "abgabe verschreibungspflichtiger arzneimittel"
+  ],
+  "gold_article": [
+   "24"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 24 HMG?",
+  "answer_type": "short",
+  "gold": "Abgabe verschreibungspflichtiger Arzneimittel",
+  "accept": [
+   "Abgabe verschreibungspflichtiger Arzneimittel",
+   "abgabe verschreibungspflichtiger arzneimittel"
+  ],
+  "gold_article": [
+   "24"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 25 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Abgabe nicht verschreibungspflichtiger Arzneimittel",
+  "accept": [
+   "Abgabe nicht verschreibungspflichtiger Arzneimittel",
+   "abgabe nicht verschreibungspflichtiger arzneimittel"
+  ],
+  "gold_article": [
+   "25"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 25 HMG?",
+  "answer_type": "short",
+  "gold": "Abgabe nicht verschreibungspflichtiger Arzneimittel",
+  "accept": [
+   "Abgabe nicht verschreibungspflichtiger Arzneimittel",
+   "abgabe nicht verschreibungspflichtiger arzneimittel"
+  ],
+  "gold_article": [
+   "25"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 26 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Grundsatz für Verschreibung, Abgabe und Anwendung",
+  "accept": [
+   "Grundsatz für Verschreibung, Abgabe und Anwendung",
+   "grundsatz für verschreibung, abgabe und anwendung"
+  ],
+  "gold_article": [
+   "26"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 26 HMG?",
+  "answer_type": "short",
+  "gold": "Grundsatz für Verschreibung, Abgabe und Anwendung",
+  "accept": [
+   "Grundsatz für Verschreibung, Abgabe und Anwendung",
+   "grundsatz für verschreibung, abgabe und anwendung"
+  ],
+  "gold_article": [
+   "26"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 27 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Versandhandel",
+  "accept": [
+   "Versandhandel",
+   "versandhandel"
+  ],
+  "gold_article": [
+   "27"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 27 HMG?",
+  "answer_type": "short",
+  "gold": "Versandhandel",
+  "accept": [
+   "Versandhandel",
+   "versandhandel"
+  ],
+  "gold_article": [
+   "27"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 28 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Bewilligung für den Grosshandel",
+  "accept": [
+   "Bewilligung für den Grosshandel",
+   "bewilligung für den grosshandel"
+  ],
+  "gold_article": [
+   "28"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 28 HMG?",
+  "answer_type": "short",
+  "gold": "Bewilligung für den Grosshandel",
+  "accept": [
+   "Bewilligung für den Grosshandel",
+   "bewilligung für den grosshandel"
+  ],
+  "gold_article": [
+   "28"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 31 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Grundsatz",
+  "accept": [
+   "Grundsatz",
+   "grundsatz"
+  ],
+  "gold_article": [
+   "31"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 31 HMG?",
+  "answer_type": "short",
+  "gold": "Grundsatz",
+  "accept": [
+   "Grundsatz",
+   "grundsatz"
+  ],
+  "gold_article": [
+   "31"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 32 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Unzulässige Werbung",
+  "accept": [
+   "Unzulässige Werbung",
+   "unzulässige werbung"
+  ],
+  "gold_article": [
+   "32"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 32 HMG?",
+  "answer_type": "short",
+  "gold": "Unzulässige Werbung",
+  "accept": [
+   "Unzulässige Werbung",
+   "unzulässige werbung"
+  ],
+  "gold_article": [
+   "32"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 34 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Betriebsbewilligung",
+  "accept": [
+   "Betriebsbewilligung",
+   "betriebsbewilligung"
+  ],
+  "gold_article": [
+   "34"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 34 HMG?",
+  "answer_type": "short",
+  "gold": "Betriebsbewilligung",
+  "accept": [
+   "Betriebsbewilligung",
+   "betriebsbewilligung"
+  ],
+  "gold_article": [
+   "34"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 35 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Bewilligung für die Einzeleinfuhr",
+  "accept": [
+   "Bewilligung für die Einzeleinfuhr",
+   "bewilligung für die einzeleinfuhr"
+  ],
+  "gold_article": [
+   "35"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 35 HMG?",
+  "answer_type": "short",
+  "gold": "Bewilligung für die Einzeleinfuhr",
+  "accept": [
+   "Bewilligung für die Einzeleinfuhr",
+   "bewilligung für die einzeleinfuhr"
+  ],
+  "gold_article": [
+   "35"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 36 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Tauglichkeit der spendenden Person",
+  "accept": [
+   "Tauglichkeit der spendenden Person",
+   "tauglichkeit der spendenden person"
+  ],
+  "gold_article": [
+   "36"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 36 HMG?",
+  "answer_type": "short",
+  "gold": "Tauglichkeit der spendenden Person",
+  "accept": [
+   "Tauglichkeit der spendenden Person",
+   "tauglichkeit der spendenden person"
+  ],
+  "gold_article": [
+   "36"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 38 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Testpflicht",
+  "accept": [
+   "Testpflicht",
+   "testpflicht"
+  ],
+  "gold_article": [
+   "38"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 38 HMG?",
+  "answer_type": "short",
+  "gold": "Testpflicht",
+  "accept": [
+   "Testpflicht",
+   "testpflicht"
+  ],
+  "gold_article": [
+   "38"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 39 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Aufzeichnungspflicht",
+  "accept": [
+   "Aufzeichnungspflicht",
+   "aufzeichnungspflicht"
+  ],
+  "gold_article": [
+   "39"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 39 HMG?",
+  "answer_type": "short",
+  "gold": "Aufzeichnungspflicht",
+  "accept": [
+   "Aufzeichnungspflicht",
+   "aufzeichnungspflicht"
+  ],
+  "gold_article": [
+   "39"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 40 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Aufbewahrungspflicht",
+  "accept": [
+   "Aufbewahrungspflicht",
+   "aufbewahrungspflicht"
+  ],
+  "gold_article": [
+   "40"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 40 HMG?",
+  "answer_type": "short",
+  "gold": "Aufbewahrungspflicht",
+  "accept": [
+   "Aufbewahrungspflicht",
+   "aufbewahrungspflicht"
+  ],
+  "gold_article": [
+   "40"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 41 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Weitere Sicherheitsbestimmungen",
+  "accept": [
+   "Weitere Sicherheitsbestimmungen",
+   "weitere sicherheitsbestimmungen"
+  ],
+  "gold_article": [
+   "41"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 41 HMG?",
+  "answer_type": "short",
+  "gold": "Weitere Sicherheitsbestimmungen",
+  "accept": [
+   "Weitere Sicherheitsbestimmungen",
+   "weitere sicherheitsbestimmungen"
+  ],
+  "gold_article": [
+   "41"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 42 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Verschreibung und Abgabe",
+  "accept": [
+   "Verschreibung und Abgabe",
+   "verschreibung und abgabe"
+  ],
+  "gold_article": [
+   "42"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 42 HMG?",
+  "answer_type": "short",
+  "gold": "Verschreibung und Abgabe",
+  "accept": [
+   "Verschreibung und Abgabe",
+   "verschreibung und abgabe"
+  ],
+  "gold_article": [
+   "42"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 43 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Buchführungspflicht",
+  "accept": [
+   "Buchführungspflicht",
+   "buchführungspflicht"
+  ],
+  "gold_article": [
+   "43"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 43 HMG?",
+  "answer_type": "short",
+  "gold": "Buchführungspflicht",
+  "accept": [
+   "Buchführungspflicht",
+   "buchführungspflicht"
+  ],
+  "gold_article": [
+   "43"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 44 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Vereinheitlichung und Koordination des Vollzugs",
+  "accept": [
+   "Vereinheitlichung und Koordination des Vollzugs",
+   "vereinheitlichung und koordination des vollzugs"
+  ],
+  "gold_article": [
+   "44"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 44 HMG?",
+  "answer_type": "short",
+  "gold": "Vereinheitlichung und Koordination des Vollzugs",
+  "accept": [
+   "Vereinheitlichung und Koordination des Vollzugs",
+   "vereinheitlichung und koordination des vollzugs"
+  ],
+  "gold_article": [
+   "44"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 45 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Anforderungen",
+  "accept": [
+   "Anforderungen",
+   "anforderungen"
+  ],
+  "gold_article": [
+   "45"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 45 HMG?",
+  "answer_type": "short",
+  "gold": "Anforderungen",
+  "accept": [
+   "Anforderungen",
+   "anforderungen"
+  ],
+  "gold_article": [
+   "45"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 46 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Konformitätsbewertungsverfahren",
+  "accept": [
+   "Konformitätsbewertungsverfahren",
+   "konformitätsbewertungsverfahren"
+  ],
+  "gold_article": [
+   "46"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 46 HMG?",
+  "answer_type": "short",
+  "gold": "Konformitätsbewertungsverfahren",
+  "accept": [
+   "Konformitätsbewertungsverfahren",
+   "konformitätsbewertungsverfahren"
+  ],
+  "gold_article": [
+   "46"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 48 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Abgabe und Anwendung",
+  "accept": [
+   "Abgabe und Anwendung",
+   "abgabe und anwendung"
+  ],
+  "gold_article": [
+   "48"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 48 HMG?",
+  "answer_type": "short",
+  "gold": "Abgabe und Anwendung",
+  "accept": [
+   "Abgabe und Anwendung",
+   "abgabe und anwendung"
+  ],
+  "gold_article": [
+   "48"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 49 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Instandhaltungspflicht",
+  "accept": [
+   "Instandhaltungspflicht",
+   "instandhaltungspflicht"
+  ],
+  "gold_article": [
+   "49"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 49 HMG?",
+  "answer_type": "short",
+  "gold": "Instandhaltungspflicht",
+  "accept": [
+   "Instandhaltungspflicht",
+   "instandhaltungspflicht"
+  ],
+  "gold_article": [
+   "49"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 50 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Einfuhr und Ausfuhr",
+  "accept": [
+   "Einfuhr und Ausfuhr",
+   "einfuhr und ausfuhr"
+  ],
+  "gold_article": [
+   "50"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 50 HMG?",
+  "answer_type": "short",
+  "gold": "Einfuhr und Ausfuhr",
+  "accept": [
+   "Einfuhr und Ausfuhr",
+   "einfuhr und ausfuhr"
+  ],
+  "gold_article": [
+   "50"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 51 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Werbung",
+  "accept": [
+   "Werbung",
+   "werbung"
+  ],
+  "gold_article": [
+   "51"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 51 HMG?",
+  "answer_type": "short",
+  "gold": "Werbung",
+  "accept": [
+   "Werbung",
+   "werbung"
+  ],
+  "gold_article": [
+   "51"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 58 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Behördliche Marktüberwachung",
+  "accept": [
+   "Behördliche Marktüberwachung",
+   "behördliche marktüberwachung"
+  ],
+  "gold_article": [
+   "58"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 58 HMG?",
+  "answer_type": "short",
+  "gold": "Behördliche Marktüberwachung",
+  "accept": [
+   "Behördliche Marktüberwachung",
+   "behördliche marktüberwachung"
+  ],
+  "gold_article": [
+   "58"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 59 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Meldepflicht, Meldesystem und Melderecht",
+  "accept": [
+   "Meldepflicht, Meldesystem und Melderecht",
+   "meldepflicht, meldesystem und melderecht"
+  ],
+  "gold_article": [
+   "59"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 59 HMG?",
+  "answer_type": "short",
+  "gold": "Meldepflicht, Meldesystem und Melderecht",
+  "accept": [
+   "Meldepflicht, Meldesystem und Melderecht",
+   "meldepflicht, meldesystem und melderecht"
+  ],
+  "gold_article": [
+   "59"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 60 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Zuständigkeit zur Durchführung von Inspektionen",
+  "accept": [
+   "Zuständigkeit zur Durchführung von Inspektionen",
+   "zuständigkeit zur durchführung von inspektionen"
+  ],
+  "gold_article": [
+   "60"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 60 HMG?",
+  "answer_type": "short",
+  "gold": "Zuständigkeit zur Durchführung von Inspektionen",
+  "accept": [
+   "Zuständigkeit zur Durchführung von Inspektionen",
+   "zuständigkeit zur durchführung von inspektionen"
+  ],
+  "gold_article": [
+   "60"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 61 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Schweigepflicht",
+  "accept": [
+   "Schweigepflicht",
+   "schweigepflicht"
+  ],
+  "gold_article": [
+   "61"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 61 HMG?",
+  "answer_type": "short",
+  "gold": "Schweigepflicht",
+  "accept": [
+   "Schweigepflicht",
+   "schweigepflicht"
+  ],
+  "gold_article": [
+   "61"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 62 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Vertraulichkeit von Daten",
+  "accept": [
+   "Vertraulichkeit von Daten",
+   "vertraulichkeit von daten"
+  ],
+  "gold_article": [
+   "62"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 62 HMG?",
+  "answer_type": "short",
+  "gold": "Vertraulichkeit von Daten",
+  "accept": [
+   "Vertraulichkeit von Daten",
+   "vertraulichkeit von daten"
+  ],
+  "gold_article": [
+   "62"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 63 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Bekanntgabe von Daten unter Vollzugsbehörden in der Schweiz",
+  "accept": [
+   "Bekanntgabe von Daten unter Vollzugsbehörden in der Schweiz",
+   "bekanntgabe von daten unter vollzugsbehörden in der schweiz"
+  ],
+  "gold_article": [
+   "63"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 63 HMG?",
+  "answer_type": "short",
+  "gold": "Bekanntgabe von Daten unter Vollzugsbehörden in der Schweiz",
+  "accept": [
+   "Bekanntgabe von Daten unter Vollzugsbehörden in der Schweiz",
+   "bekanntgabe von daten unter vollzugsbehörden in der schweiz"
+  ],
+  "gold_article": [
+   "63"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 66 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Allgemeines",
+  "accept": [
+   "Allgemeines",
+   "allgemeines"
+  ],
+  "gold_article": [
+   "66"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 66 HMG?",
+  "answer_type": "short",
+  "gold": "Allgemeines",
+  "accept": [
+   "Allgemeines",
+   "allgemeines"
+  ],
+  "gold_article": [
+   "66"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 67 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Information der Öffentlichkeit",
+  "accept": [
+   "Information der Öffentlichkeit",
+   "information der öffentlichkeit"
+  ],
+  "gold_article": [
+   "67"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 67 HMG?",
+  "answer_type": "short",
+  "gold": "Information der Öffentlichkeit",
+  "accept": [
+   "Information der Öffentlichkeit",
+   "information der öffentlichkeit"
+  ],
+  "gold_article": [
+   "67"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 69 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Aufgaben",
+  "accept": [
+   "Aufgaben",
+   "aufgaben"
+  ],
+  "gold_article": [
+   "69"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 69 HMG?",
+  "answer_type": "short",
+  "gold": "Aufgaben",
+  "accept": [
+   "Aufgaben",
+   "aufgaben"
+  ],
+  "gold_article": [
+   "69"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 75 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Entschädigung des Institutsrats und Anstellungsverhältnisse",
+  "accept": [
+   "Entschädigung des Institutsrats und Anstellungsverhältnisse",
+   "entschädigung des institutsrats und anstellungsverhältnisse"
+  ],
+  "gold_article": [
+   "75"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 75 HMG?",
+  "answer_type": "short",
+  "gold": "Entschädigung des Institutsrats und Anstellungsverhältnisse",
+  "accept": [
+   "Entschädigung des Institutsrats und Anstellungsverhältnisse",
+   "entschädigung des institutsrats und anstellungsverhältnisse"
+  ],
+  "gold_article": [
+   "75"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 81 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Steuerfreiheit",
+  "accept": [
+   "Steuerfreiheit",
+   "steuerfreiheit"
+  ],
+  "gold_article": [
+   "81"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 81 HMG?",
+  "answer_type": "short",
+  "gold": "Steuerfreiheit",
+  "accept": [
+   "Steuerfreiheit",
+   "steuerfreiheit"
+  ],
+  "gold_article": [
+   "81"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 82 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Bund",
+  "accept": [
+   "Bund",
+   "bund"
+  ],
+  "gold_article": [
+   "82"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 82 HMG?",
+  "answer_type": "short",
+  "gold": "Bund",
+  "accept": [
+   "Bund",
+   "bund"
+  ],
+  "gold_article": [
+   "82"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 83 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Kantone",
+  "accept": [
+   "Kantone",
+   "kantone"
+  ],
+  "gold_article": [
+   "83"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 83 HMG?",
+  "answer_type": "short",
+  "gold": "Kantone",
+  "accept": [
+   "Kantone",
+   "kantone"
+  ],
+  "gold_article": [
+   "83"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 88 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Anwendbarkeit anderer Strafandrohungen",
+  "accept": [
+   "Anwendbarkeit anderer Strafandrohungen",
+   "anwendbarkeit anderer strafandrohungen"
+  ],
+  "gold_article": [
+   "88"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 88 HMG?",
+  "answer_type": "short",
+  "gold": "Anwendbarkeit anderer Strafandrohungen",
+  "accept": [
+   "Anwendbarkeit anderer Strafandrohungen",
+   "anwendbarkeit anderer strafandrohungen"
+  ],
+  "gold_article": [
+   "88"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 91 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Übernahme der Interkantonalen Kontrollstelle für Heilmittel durch das Institut",
+  "accept": [
+   "Übernahme der Interkantonalen Kontrollstelle für Heilmittel durch das Institut",
+   "übernahme der interkantonalen kontrollstelle für heilmittel durch das institut"
+  ],
+  "gold_article": [
+   "91"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 91 HMG?",
+  "answer_type": "short",
+  "gold": "Übernahme der Interkantonalen Kontrollstelle für Heilmittel durch das Institut",
+  "accept": [
+   "Übernahme der Interkantonalen Kontrollstelle für Heilmittel durch das Institut",
+   "übernahme der interkantonalen kontrollstelle für heilmittel durch das institut"
+  ],
+  "gold_article": [
+   "91"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 92 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Übergangsrecht Personal",
+  "accept": [
+   "Übergangsrecht Personal",
+   "übergangsrecht personal"
+  ],
+  "gold_article": [
+   "92"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 92 HMG?",
+  "answer_type": "short",
+  "gold": "Übergangsrecht Personal",
+  "accept": [
+   "Übergangsrecht Personal",
+   "übergangsrecht personal"
+  ],
+  "gold_article": [
+   "92"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 93 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Fehlbetrag der Pensionskasse des Bundes",
+  "accept": [
+   "Fehlbetrag der Pensionskasse des Bundes",
+   "fehlbetrag der pensionskasse des bundes"
+  ],
+  "gold_article": [
+   "93"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 93 HMG?",
+  "answer_type": "short",
+  "gold": "Fehlbetrag der Pensionskasse des Bundes",
+  "accept": [
+   "Fehlbetrag der Pensionskasse des Bundes",
+   "fehlbetrag der pensionskasse des bundes"
+  ],
+  "gold_article": [
+   "93"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 94 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Hängige Verfahren",
+  "accept": [
+   "Hängige Verfahren",
+   "hängige verfahren"
+  ],
+  "gold_article": [
+   "94"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 94 HMG?",
+  "answer_type": "short",
+  "gold": "Hängige Verfahren",
+  "accept": [
+   "Hängige Verfahren",
+   "hängige verfahren"
+  ],
+  "gold_article": [
+   "94"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Welchen Regelungsgegenstand behandelt Artikel 95 des Heilmittelgesetzes?",
+  "answer_type": "short",
+  "gold": "Übergangsbestimmungen",
+  "accept": [
+   "Übergangsbestimmungen",
+   "übergangsbestimmungen"
+  ],
+  "gold_article": [
+   "95"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "de",
+  "law": "HMG",
+  "question": "Unter welcher Sachüberschrift steht Artikel 95 HMG?",
+  "answer_type": "short",
+  "gold": "Übergangsbestimmungen",
+  "accept": [
+   "Übergangsbestimmungen",
+   "übergangsbestimmungen"
+  ],
+  "gold_article": [
+   "95"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ }
+]

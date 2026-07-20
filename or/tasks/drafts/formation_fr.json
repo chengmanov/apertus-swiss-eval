@@ -1,0 +1,141 @@
+[
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Un contrat peut-il être valablement formé lorsque les parties expriment leur volonté de manière tacite plutôt qu'expresse?",
+    "answer_type": "yesno",
+    "gold": "oui",
+    "accept": ["yes"],
+    "gold_article": ["1"],
+    "also_acceptable_article": [],
+    "section": "Formation du contrat / Conclusion, offre et acceptation",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Une société adresse à un partenaire une offre en lui accordant un délai de dix jours pour l'accepter; reste-t-elle tenue de maintenir cette offre jusqu'à l'échéance de ce délai?",
+    "answer_type": "yesno",
+    "gold": "oui",
+    "accept": ["yes"],
+    "gold_article": ["3"],
+    "also_acceptable_article": [],
+    "section": "Formation du contrat / Conclusion, offre et acceptation",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "L'envoi de tarifs ou de prix courants à des clients potentiels vaut-il offre de contracter?",
+    "answer_type": "yesno",
+    "gold": "non",
+    "accept": ["no"],
+    "gold_article": ["7"],
+    "also_acceptable_article": [],
+    "section": "Formation du contrat / Conclusion, offre et acceptation",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Une partie amenée à conclure un contrat par le dol de son cocontractant reste-t-elle liée par ce contrat lorsque son erreur n'est pas essentielle?",
+    "answer_type": "yesno",
+    "gold": "non",
+    "accept": ["no"],
+    "gold_article": ["28"],
+    "also_acceptable_article": [],
+    "section": "Formation du contrat / Vices du consentement",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Sur quelle catégorie de points les parties doivent-elles s'être accordées pour que le contrat soit réputé conclu, même si certains points secondaires demeurent réservés?",
+    "answer_type": "short",
+    "gold": "les points essentiels",
+    "accept": ["points essentiels", "tous les points essentiels", "les points essentiels du contrat"],
+    "gold_article": ["2"],
+    "also_acceptable_article": [],
+    "section": "Formation du contrat / Conclusion, offre et acceptation",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Quelle forme de signature numérique est légalement assimilée à la signature manuscrite en droit suisse des obligations?",
+    "answer_type": "short",
+    "gold": "la signature électronique qualifiée",
+    "accept": ["signature électronique qualifiée", "la signature électronique qualifiée avec horodatage électronique qualifié"],
+    "gold_article": ["14"],
+    "also_acceptable_article": [],
+    "section": "Formation du contrat / Forme",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Lorsqu'une personne conclut un contrat au nom d'un tiers sans en avoir le pouvoir, qu'est-ce qui est requis pour que ce tiers en devienne créancier ou débiteur?",
+    "answer_type": "short",
+    "gold": "la ratification",
+    "accept": ["ratification", "une ratification", "la ratification du contrat", "la ratification par le représenté"],
+    "gold_article": ["38"],
+    "also_acceptable_article": [],
+    "section": "Formation du contrat / Représentation",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Dans quel délai la partie lésée par une disproportion évidente des prestations, résultant de l'exploitation de sa gêne, de sa légèreté ou de son inexpérience, peut-elle déclarer résilier le contrat et répéter ce qu'elle a payé?",
+    "answer_type": "duration",
+    "gold": "un an",
+    "accept": ["une année", "1 an", "un délai d'un an"],
+    "gold_article": ["21"],
+    "also_acceptable_article": [],
+    "section": "Formation du contrat / Objet et nullité",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "De combien de temps dispose la partie non obligée par un contrat entaché d'erreur, de dol ou de crainte fondée pour déclarer qu'elle n'entend pas le maintenir, faute de quoi le contrat est tenu pour ratifié?",
+    "answer_type": "duration",
+    "gold": "un an",
+    "accept": ["une année", "1 an", "un délai d'un an"],
+    "gold_article": ["31"],
+    "also_acceptable_article": [],
+    "section": "Formation du contrat / Vices du consentement",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Quelles caractéristiques de son objet entraînent la nullité d'un contrat selon le droit des obligations?",
+    "answer_type": "list",
+    "gold": ["impossible", "illicite", "contraire aux mœurs"],
+    "accept": [
+      ["impossible", "illicite", "contraire aux moeurs"],
+      ["chose impossible", "chose illicite", "chose contraire aux mœurs"],
+      ["objet impossible", "objet illicite", "objet contraire aux bonnes mœurs"]
+    ],
+    "gold_article": ["20"],
+    "also_acceptable_article": [],
+    "section": "Formation du contrat / Objet et nullité",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "fr",
+    "law": "OR",
+    "question": "Quels événements touchant le représenté ou le représentant entraînent l'extinction des pouvoirs découlant d'un acte juridique?",
+    "answer_type": "list",
+    "gold": ["la perte de l'exercice des droits civils", "la faillite", "la mort", "la déclaration d'absence"],
+    "accept": [
+      ["perte de l'exercice des droits civils", "faillite", "mort", "déclaration d'absence"],
+      ["incapacité civile", "faillite", "décès", "déclaration d'absence"]
+    ],
+    "gold_article": ["35"],
+    "also_acceptable_article": [],
+    "section": "Formation du contrat / Représentation",
+    "difficulty": "applied"
+  }
+]

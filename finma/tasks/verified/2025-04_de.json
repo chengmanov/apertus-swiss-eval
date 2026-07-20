@@ -1,0 +1,143 @@
+[
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2025/04",
+      "slug": "2025-04",
+      "question": "Eine Bank mit Sitz in der Schweiz gehört zu einer ausländischen Finanzgruppe, die im Ausland keiner angemessenen konsolidierten Aufsicht untersteht. Kann die FINMA die Bank durch Anordnung von Ring-Fencing-Massnahmen von der Gruppe abschotten?",
+      "answer_type": "yesno",
+      "gold": "ja",
+      "accept": ["yes"],
+      "gold_rz": ["11"],
+      "also_acceptable_rz": [],
+      "section": "C. Ring-Fencing-Massnahmen als Ausnahme",
+      "topic": "ring-fencing",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Gold and citation verified correct (Rz 44: 'folgende vier Voraussetzungen kumulativ und dauerhaft'). Added accept-variants 'vier Kriterien'/'4 Kriterien' since Rz 49 refers to the same four conditions as 'Kriterien' and models may use that word.",
+    "item": {
+      "lang": "de",
+      "circular": "2025/04",
+      "slug": "2025-04",
+      "question": "Wie viele Voraussetzungen muss eine Holdinggesellschaft kumulativ und dauerhaft erfüllen, damit sie als für die konsolidierte Aufsicht unwesentlich gilt?",
+      "answer_type": "number",
+      "gold": "4",
+      "accept": ["vier", "4 Voraussetzungen", "vier Voraussetzungen", "4 Kriterien", "vier Kriterien"],
+      "gold_rz": ["44"],
+      "also_acceptable_rz": [],
+      "section": "b) Holdingstruktur",
+      "topic": "konsolidierungskreis",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "fix",
+    "reason": "Gold and citation verified correct (Rz 19: 'Gruppe von mindestens zwei Unternehmen'). Added digit-form accept-variant 'mindestens 2' to mirror the existing 'mindestens zwei'.",
+    "item": {
+      "lang": "de",
+      "circular": "2025/04",
+      "slug": "2025-04",
+      "question": "Aus wie vielen Unternehmen muss eine Gruppe mindestens bestehen, damit sich die Frage nach einer konsolidierten Aufsicht überhaupt stellt?",
+      "answer_type": "number",
+      "gold": "2",
+      "accept": ["zwei", "2 Unternehmen", "zwei Unternehmen", "mindestens zwei", "mindestens 2"],
+      "gold_rz": ["19"],
+      "also_acceptable_rz": [],
+      "section": "A. Allgemeines",
+      "topic": "konsolidierungskreis",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2025/04",
+      "slug": "2025-04",
+      "question": "Durch wen muss das Gruppenführungsreglement einer Finanzgruppe genehmigt werden?",
+      "answer_type": "short",
+      "gold": "FINMA",
+      "accept": ["die FINMA", "durch die FINMA", "Eidgenössische Finanzmarktaufsicht"],
+      "gold_rz": ["66"],
+      "also_acceptable_rz": [],
+      "section": "A. Qualitative Elemente",
+      "topic": "gruppenorganisation",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2025/04",
+      "slug": "2025-04",
+      "question": "Welche beiden internationalen Rechnungslegungsstandards anerkennt die FINMA für die Konzernrechnung von Finanzgruppen von Banken oder Wertpapierhäusern?",
+      "answer_type": "list",
+      "gold": ["IFRS", "US GAAP"],
+      "accept": [
+        ["IFRS Accounting Standards", "IFRS Accounting Standards des IASB", "International Financial Reporting Standards"],
+        ["US-GAAP", "United States Generally Accepted Accounting Principles", "US GAAP des FASB"]
+      ],
+      "gold_rz": ["81"],
+      "also_acceptable_rz": [],
+      "section": "B. Quantitative Elemente",
+      "topic": "rechnungslegung",
+      "difficulty": "basic"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2025/04",
+      "slug": "2025-04",
+      "question": "Eine Bank beantragt für eine unwesentliche Gruppengesellschaft die Befreiung von den qualitativen Elementen der konsolidierten Aufsicht. Gewährt die FINMA solche Befreiungen?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no", "nicht"],
+      "gold_rz": ["84"],
+      "also_acceptable_rz": [],
+      "section": "C. Kriterien für die Befreiung von den quantitativen Elementen für",
+      "topic": "befreiungen",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2025/04",
+      "slug": "2025-04",
+      "question": "Eine Gruppengesellschaft einer Bankengruppe erbringt ausschliesslich administrative Dienstleistungen. Gilt sie für die Zwecke der konsolidierten Aufsicht als im Finanzbereich tätig?",
+      "answer_type": "yesno",
+      "gold": "nein",
+      "accept": ["no", "nicht"],
+      "gold_rz": ["22"],
+      "also_acceptable_rz": [],
+      "section": "B. Tätigkeit im Finanzbereich",
+      "topic": "finanzbereich",
+      "difficulty": "applied"
+    }
+  },
+  {
+    "verdict": "keep",
+    "item": {
+      "lang": "de",
+      "circular": "2025/04",
+      "slug": "2025-04",
+      "question": "Wer steht bei einer De-Facto-Finanzgruppe an der Spitze der Gruppe?",
+      "answer_type": "short",
+      "gold": "natürliche Personen",
+      "accept": ["eine oder mehrere natürliche Personen", "natürliche Person"],
+      "gold_rz": ["53"],
+      "also_acceptable_rz": [],
+      "section": "c) Atypische Struktur",
+      "topic": "finanzgruppenstrukturen",
+      "difficulty": "basic"
+    }
+  }
+]

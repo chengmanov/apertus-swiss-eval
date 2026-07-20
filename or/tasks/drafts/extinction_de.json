@@ -1,0 +1,128 @@
+[
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Wenn eine Forderung durch Erfüllung untergeht, erlöschen damit auch die für sie bestellten Nebenrechte wie Bürgschaft und Pfandrecht?",
+    "answer_type": "yesno",
+    "gold": "ja",
+    "accept": ["yes"],
+    "gold_article": ["114"],
+    "also_acceptable_article": [],
+    "section": "Erlöschen der Obligationen / Untergang der Nebenrechte",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Wird vermutet, dass eine bestehende Schuld getilgt ist, sobald für sie eine neue Schuld begründet wird (Neuerung)?",
+    "answer_type": "yesno",
+    "gold": "nein",
+    "accept": ["no"],
+    "gold_article": ["116"],
+    "also_acceptable_article": [],
+    "section": "Erlöschen der Obligationen / Neuerung",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Zwei Unternehmen schulden einander je einen fälligen Geldbetrag. Darf jedes seine eigene Schuld mit seiner Gegenforderung gegen das andere tilgen?",
+    "answer_type": "yesno",
+    "gold": "ja",
+    "accept": ["yes"],
+    "gold_article": ["120"],
+    "also_acceptable_article": [],
+    "section": "Erlöschen der Obligationen / Verrechnung",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Darf ein Gericht die Verjährung einer Forderung von sich aus beachten, ohne dass sich der Schuldner darauf beruft?",
+    "answer_type": "yesno",
+    "gold": "nein",
+    "accept": ["no"],
+    "gold_article": ["142"],
+    "also_acceptable_article": [],
+    "section": "Verjährung / Geltendmachung",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Innert welcher Frist verjähren Forderungen, für die das Bundeszivilrecht keine besondere Verjährungsfrist vorsieht?",
+    "answer_type": "duration",
+    "gold": "10 Jahre",
+    "accept": ["zehn Jahre", "10 Jahre", "10 years"],
+    "gold_article": ["127"],
+    "also_acceptable_article": [],
+    "section": "Verjährung / Fristen",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Ein Vermieter möchte rückständige Mietzinse einfordern. Innert welcher Frist verjähren Forderungen aus solchen periodischen Mietzinsen?",
+    "answer_type": "duration",
+    "gold": "5 Jahre",
+    "accept": ["fünf Jahre", "5 Jahre", "5 years"],
+    "gold_article": ["128"],
+    "also_acceptable_article": [],
+    "section": "Verjährung / Fristen",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Auf welche Weise gilt eine Forderung als erloschen, wenn die Stellung von Gläubiger und Schuldner in derselben Person zusammenfällt?",
+    "answer_type": "short",
+    "gold": "durch Vereinigung",
+    "accept": ["Vereinigung", "durch Vereinigung"],
+    "gold_article": ["118"],
+    "also_acceptable_article": [],
+    "section": "Erlöschen der Obligationen / Vereinigung",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "An welchen Zeitpunkt knüpft nach der Grundregel der Beginn der Verjährung einer Forderung an?",
+    "answer_type": "short",
+    "gold": "mit der Fälligkeit der Forderung",
+    "accept": ["Fälligkeit", "mit der Fälligkeit", "Eintritt der Fälligkeit"],
+    "gold_article": ["130"],
+    "also_acceptable_article": [],
+    "section": "Verjährung / Beginn",
+    "difficulty": "basic"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Ein Schuldner will seine Schuld durch Verrechnung mit einer eigenen Gegenforderung untergehen lassen. Was muss er tun, damit die Verrechnung überhaupt eintritt?",
+    "answer_type": "short",
+    "gold": "die Verrechnung erklären",
+    "accept": ["Verrechnung erklären", "eine Verrechnungserklärung abgeben", "dem Gläubiger die Verrechnung erklären"],
+    "gold_article": ["124"],
+    "also_acceptable_article": [],
+    "section": "Erlöschen der Obligationen / Verrechnung",
+    "difficulty": "applied"
+  },
+  {
+    "lang": "de",
+    "law": "OR",
+    "question": "Gegen den Willen des Gläubigers lassen sich gewisse Verpflichtungen nicht durch Verrechnung tilgen. Welche drei Kategorien von Verpflichtungen sind das?",
+    "answer_type": "list",
+    "gold": [
+      "Rückgabe oder Ersatz hinterlegter, widerrechtlich entzogener oder böswillig vorenthaltener Sachen",
+      "Unterhaltsansprüche und Lohnguthaben, die zum Unterhalt des Gläubigers und seiner Familie unbedingt erforderlich sind",
+      "Verpflichtungen gegen das Gemeinwesen aus öffentlichem Recht"
+    ],
+    "accept": [
+      ["Rückgabe/Ersatz hinterlegter, widerrechtlich entzogener oder böswillig vorenthaltener Sachen", "zum Unterhalt notwendige Unterhaltsansprüche und Lohnguthaben", "öffentlich-rechtliche Verpflichtungen gegen das Gemeinwesen"]
+    ],
+    "gold_article": ["125"],
+    "also_acceptable_article": [],
+    "section": "Erlöschen der Obligationen / Verrechnung",
+    "difficulty": "applied"
+  }
+]

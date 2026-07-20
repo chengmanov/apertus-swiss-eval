@@ -1,0 +1,1872 @@
+[
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 2 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Champ d’application",
+  "accept": [
+   "Champ d’application",
+   "champ d’application"
+  ],
+  "gold_article": [
+   "2"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 2 LPTh?",
+  "answer_type": "short",
+  "gold": "Champ d’application",
+  "accept": [
+   "Champ d’application",
+   "champ d’application"
+  ],
+  "gold_article": [
+   "2"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 3 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Devoir de diligence",
+  "accept": [
+   "Devoir de diligence",
+   "devoir de diligence"
+  ],
+  "gold_article": [
+   "3"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 3 LPTh?",
+  "answer_type": "short",
+  "gold": "Devoir de diligence",
+  "accept": [
+   "Devoir de diligence",
+   "devoir de diligence"
+  ],
+  "gold_article": [
+   "3"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 5 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Régime de l’autorisation",
+  "accept": [
+   "Régime de l’autorisation",
+   "régime de l’autorisation"
+  ],
+  "gold_article": [
+   "5"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 5 LPTh?",
+  "answer_type": "short",
+  "gold": "Régime de l’autorisation",
+  "accept": [
+   "Régime de l’autorisation",
+   "régime de l’autorisation"
+  ],
+  "gold_article": [
+   "5"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 6 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Conditions",
+  "accept": [
+   "Conditions",
+   "conditions"
+  ],
+  "gold_article": [
+   "6"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 6 LPTh?",
+  "answer_type": "short",
+  "gold": "Conditions",
+  "accept": [
+   "Conditions",
+   "conditions"
+  ],
+  "gold_article": [
+   "6"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 7 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Exigences en matière de fabrication",
+  "accept": [
+   "Exigences en matière de fabrication",
+   "exigences en matière de fabrication"
+  ],
+  "gold_article": [
+   "7"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 7 LPTh?",
+  "answer_type": "short",
+  "gold": "Exigences en matière de fabrication",
+  "accept": [
+   "Exigences en matière de fabrication",
+   "exigences en matière de fabrication"
+  ],
+  "gold_article": [
+   "7"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 10 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Conditions liées à l’autorisation de mise sur le marché",
+  "accept": [
+   "Conditions liées à l’autorisation de mise sur le marché",
+   "conditions liées à l’autorisation de mise sur le marché"
+  ],
+  "gold_article": [
+   "10"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 10 LPTh?",
+  "answer_type": "short",
+  "gold": "Conditions liées à l’autorisation de mise sur le marché",
+  "accept": [
+   "Conditions liées à l’autorisation de mise sur le marché",
+   "conditions liées à l’autorisation de mise sur le marché"
+  ],
+  "gold_article": [
+   "10"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 13 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Médicaments et procédés autorisés à la mise sur le marché à l’étranger",
+  "accept": [
+   "Médicaments et procédés autorisés à la mise sur le marché à l’étranger",
+   "médicaments et procédés autorisés à la mise sur le marché à l’étranger"
+  ],
+  "gold_article": [
+   "13"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 13 LPTh?",
+  "answer_type": "short",
+  "gold": "Médicaments et procédés autorisés à la mise sur le marché à l’étranger",
+  "accept": [
+   "Médicaments et procédés autorisés à la mise sur le marché à l’étranger",
+   "médicaments et procédés autorisés à la mise sur le marché à l’étranger"
+  ],
+  "gold_article": [
+   "13"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 17 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Libération officielle des lots",
+  "accept": [
+   "Libération officielle des lots",
+   "libération officielle des lots"
+  ],
+  "gold_article": [
+   "17"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 17 LPTh?",
+  "answer_type": "short",
+  "gold": "Libération officielle des lots",
+  "accept": [
+   "Libération officielle des lots",
+   "libération officielle des lots"
+  ],
+  "gold_article": [
+   "17"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 18 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Régime de l’autorisation",
+  "accept": [
+   "Régime de l’autorisation",
+   "régime de l’autorisation"
+  ],
+  "gold_article": [
+   "18"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 18 LPTh?",
+  "answer_type": "short",
+  "gold": "Régime de l’autorisation",
+  "accept": [
+   "Régime de l’autorisation",
+   "régime de l’autorisation"
+  ],
+  "gold_article": [
+   "18"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 19 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Conditions de délivrance de l’autorisation",
+  "accept": [
+   "Conditions de délivrance de l’autorisation",
+   "conditions de délivrance de l’autorisation"
+  ],
+  "gold_article": [
+   "19"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 19 LPTh?",
+  "answer_type": "short",
+  "gold": "Conditions de délivrance de l’autorisation",
+  "accept": [
+   "Conditions de délivrance de l’autorisation",
+   "conditions de délivrance de l’autorisation"
+  ],
+  "gold_article": [
+   "19"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 20 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Dispositions particulières sur l’importation",
+  "accept": [
+   "Dispositions particulières sur l’importation",
+   "dispositions particulières sur l’importation"
+  ],
+  "gold_article": [
+   "20"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 20 LPTh?",
+  "answer_type": "short",
+  "gold": "Dispositions particulières sur l’importation",
+  "accept": [
+   "Dispositions particulières sur l’importation",
+   "dispositions particulières sur l’importation"
+  ],
+  "gold_article": [
+   "20"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 21 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Restrictions à l’exportation et au commerce à l’étranger",
+  "accept": [
+   "Restrictions à l’exportation et au commerce à l’étranger",
+   "restrictions à l’exportation et au commerce à l’étranger"
+  ],
+  "gold_article": [
+   "21"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 21 LPTh?",
+  "answer_type": "short",
+  "gold": "Restrictions à l’exportation et au commerce à l’étranger",
+  "accept": [
+   "Restrictions à l’exportation et au commerce à l’étranger",
+   "restrictions à l’exportation et au commerce à l’étranger"
+  ],
+  "gold_article": [
+   "21"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 22 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Devoirs de diligence lors de l’exportation",
+  "accept": [
+   "Devoirs de diligence lors de l’exportation",
+   "devoirs de diligence lors de l’exportation"
+  ],
+  "gold_article": [
+   "22"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 22 LPTh?",
+  "answer_type": "short",
+  "gold": "Devoirs de diligence lors de l’exportation",
+  "accept": [
+   "Devoirs de diligence lors de l’exportation",
+   "devoirs de diligence lors de l’exportation"
+  ],
+  "gold_article": [
+   "22"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 23 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Catégories de médicaments",
+  "accept": [
+   "Catégories de médicaments",
+   "catégories de médicaments"
+  ],
+  "gold_article": [
+   "23"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 23 LPTh?",
+  "answer_type": "short",
+  "gold": "Catégories de médicaments",
+  "accept": [
+   "Catégories de médicaments",
+   "catégories de médicaments"
+  ],
+  "gold_article": [
+   "23"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 24 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Remise de médicaments soumis à ordonnance",
+  "accept": [
+   "Remise de médicaments soumis à ordonnance",
+   "remise de médicaments soumis à ordonnance"
+  ],
+  "gold_article": [
+   "24"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 24 LPTh?",
+  "answer_type": "short",
+  "gold": "Remise de médicaments soumis à ordonnance",
+  "accept": [
+   "Remise de médicaments soumis à ordonnance",
+   "remise de médicaments soumis à ordonnance"
+  ],
+  "gold_article": [
+   "24"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 25 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Remise de médicaments non soumis à ordonnance",
+  "accept": [
+   "Remise de médicaments non soumis à ordonnance",
+   "remise de médicaments non soumis à ordonnance"
+  ],
+  "gold_article": [
+   "25"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 25 LPTh?",
+  "answer_type": "short",
+  "gold": "Remise de médicaments non soumis à ordonnance",
+  "accept": [
+   "Remise de médicaments non soumis à ordonnance",
+   "remise de médicaments non soumis à ordonnance"
+  ],
+  "gold_article": [
+   "25"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 26 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Principe de la prescription, de la remise et de l’utilisation",
+  "accept": [
+   "Principe de la prescription, de la remise et de l’utilisation",
+   "principe de la prescription, de la remise et de l’utilisation"
+  ],
+  "gold_article": [
+   "26"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 26 LPTh?",
+  "answer_type": "short",
+  "gold": "Principe de la prescription, de la remise et de l’utilisation",
+  "accept": [
+   "Principe de la prescription, de la remise et de l’utilisation",
+   "principe de la prescription, de la remise et de l’utilisation"
+  ],
+  "gold_article": [
+   "26"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 27 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Vente par correspondance",
+  "accept": [
+   "Vente par correspondance",
+   "vente par correspondance"
+  ],
+  "gold_article": [
+   "27"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 27 LPTh?",
+  "answer_type": "short",
+  "gold": "Vente par correspondance",
+  "accept": [
+   "Vente par correspondance",
+   "vente par correspondance"
+  ],
+  "gold_article": [
+   "27"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 28 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Autorisation du commerce de gros",
+  "accept": [
+   "Autorisation du commerce de gros",
+   "autorisation du commerce de gros"
+  ],
+  "gold_article": [
+   "28"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 28 LPTh?",
+  "answer_type": "short",
+  "gold": "Autorisation du commerce de gros",
+  "accept": [
+   "Autorisation du commerce de gros",
+   "autorisation du commerce de gros"
+  ],
+  "gold_article": [
+   "28"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 31 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Principe",
+  "accept": [
+   "Principe",
+   "principe"
+  ],
+  "gold_article": [
+   "31"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 31 LPTh?",
+  "answer_type": "short",
+  "gold": "Principe",
+  "accept": [
+   "Principe",
+   "principe"
+  ],
+  "gold_article": [
+   "31"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 32 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Publicité illicite",
+  "accept": [
+   "Publicité illicite",
+   "publicité illicite"
+  ],
+  "gold_article": [
+   "32"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 32 LPTh?",
+  "answer_type": "short",
+  "gold": "Publicité illicite",
+  "accept": [
+   "Publicité illicite",
+   "publicité illicite"
+  ],
+  "gold_article": [
+   "32"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 34 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Autorisation d’exploitation",
+  "accept": [
+   "Autorisation d’exploitation",
+   "autorisation d’exploitation"
+  ],
+  "gold_article": [
+   "34"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 34 LPTh?",
+  "answer_type": "short",
+  "gold": "Autorisation d’exploitation",
+  "accept": [
+   "Autorisation d’exploitation",
+   "autorisation d’exploitation"
+  ],
+  "gold_article": [
+   "34"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 35 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Autorisation d’importer à l’unité",
+  "accept": [
+   "Autorisation d’importer à l’unité",
+   "autorisation d’importer à l’unité"
+  ],
+  "gold_article": [
+   "35"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 35 LPTh?",
+  "answer_type": "short",
+  "gold": "Autorisation d’importer à l’unité",
+  "accept": [
+   "Autorisation d’importer à l’unité",
+   "autorisation d’importer à l’unité"
+  ],
+  "gold_article": [
+   "35"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 36 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Aptitude à donner son sang",
+  "accept": [
+   "Aptitude à donner son sang",
+   "aptitude à donner son sang"
+  ],
+  "gold_article": [
+   "36"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 36 LPTh?",
+  "answer_type": "short",
+  "gold": "Aptitude à donner son sang",
+  "accept": [
+   "Aptitude à donner son sang",
+   "aptitude à donner son sang"
+  ],
+  "gold_article": [
+   "36"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 38 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Test obligatoire",
+  "accept": [
+   "Test obligatoire",
+   "test obligatoire"
+  ],
+  "gold_article": [
+   "38"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 38 LPTh?",
+  "answer_type": "short",
+  "gold": "Test obligatoire",
+  "accept": [
+   "Test obligatoire",
+   "test obligatoire"
+  ],
+  "gold_article": [
+   "38"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 39 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Obligation d’enregistrer",
+  "accept": [
+   "Obligation d’enregistrer",
+   "obligation d’enregistrer"
+  ],
+  "gold_article": [
+   "39"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 39 LPTh?",
+  "answer_type": "short",
+  "gold": "Obligation d’enregistrer",
+  "accept": [
+   "Obligation d’enregistrer",
+   "obligation d’enregistrer"
+  ],
+  "gold_article": [
+   "39"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 40 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Obligation d’archiver",
+  "accept": [
+   "Obligation d’archiver",
+   "obligation d’archiver"
+  ],
+  "gold_article": [
+   "40"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 40 LPTh?",
+  "answer_type": "short",
+  "gold": "Obligation d’archiver",
+  "accept": [
+   "Obligation d’archiver",
+   "obligation d’archiver"
+  ],
+  "gold_article": [
+   "40"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 41 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Autres dispositions de sécurité",
+  "accept": [
+   "Autres dispositions de sécurité",
+   "autres dispositions de sécurité"
+  ],
+  "gold_article": [
+   "41"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 41 LPTh?",
+  "answer_type": "short",
+  "gold": "Autres dispositions de sécurité",
+  "accept": [
+   "Autres dispositions de sécurité",
+   "autres dispositions de sécurité"
+  ],
+  "gold_article": [
+   "41"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 42 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Prescription et remise",
+  "accept": [
+   "Prescription et remise",
+   "prescription et remise"
+  ],
+  "gold_article": [
+   "42"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 42 LPTh?",
+  "answer_type": "short",
+  "gold": "Prescription et remise",
+  "accept": [
+   "Prescription et remise",
+   "prescription et remise"
+  ],
+  "gold_article": [
+   "42"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 43 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Obligation de tenir un registre",
+  "accept": [
+   "Obligation de tenir un registre",
+   "obligation de tenir un registre"
+  ],
+  "gold_article": [
+   "43"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 43 LPTh?",
+  "answer_type": "short",
+  "gold": "Obligation de tenir un registre",
+  "accept": [
+   "Obligation de tenir un registre",
+   "obligation de tenir un registre"
+  ],
+  "gold_article": [
+   "43"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 45 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Exigences",
+  "accept": [
+   "Exigences",
+   "exigences"
+  ],
+  "gold_article": [
+   "45"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 45 LPTh?",
+  "answer_type": "short",
+  "gold": "Exigences",
+  "accept": [
+   "Exigences",
+   "exigences"
+  ],
+  "gold_article": [
+   "45"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 46 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Procédure d’évaluation de la conformité",
+  "accept": [
+   "Procédure d’évaluation de la conformité",
+   "procédure d’évaluation de la conformité"
+  ],
+  "gold_article": [
+   "46"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 46 LPTh?",
+  "answer_type": "short",
+  "gold": "Procédure d’évaluation de la conformité",
+  "accept": [
+   "Procédure d’évaluation de la conformité",
+   "procédure d’évaluation de la conformité"
+  ],
+  "gold_article": [
+   "46"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 48 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Remise et utilisation",
+  "accept": [
+   "Remise et utilisation",
+   "remise et utilisation"
+  ],
+  "gold_article": [
+   "48"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 48 LPTh?",
+  "answer_type": "short",
+  "gold": "Remise et utilisation",
+  "accept": [
+   "Remise et utilisation",
+   "remise et utilisation"
+  ],
+  "gold_article": [
+   "48"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 49 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Obligation d’assurer la maintenance",
+  "accept": [
+   "Obligation d’assurer la maintenance",
+   "obligation d’assurer la maintenance"
+  ],
+  "gold_article": [
+   "49"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 49 LPTh?",
+  "answer_type": "short",
+  "gold": "Obligation d’assurer la maintenance",
+  "accept": [
+   "Obligation d’assurer la maintenance",
+   "obligation d’assurer la maintenance"
+  ],
+  "gold_article": [
+   "49"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 50 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Importation et exportation",
+  "accept": [
+   "Importation et exportation",
+   "importation et exportation"
+  ],
+  "gold_article": [
+   "50"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 50 LPTh?",
+  "answer_type": "short",
+  "gold": "Importation et exportation",
+  "accept": [
+   "Importation et exportation",
+   "importation et exportation"
+  ],
+  "gold_article": [
+   "50"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 51 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Publicité",
+  "accept": [
+   "Publicité",
+   "publicité"
+  ],
+  "gold_article": [
+   "51"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 51 LPTh?",
+  "answer_type": "short",
+  "gold": "Publicité",
+  "accept": [
+   "Publicité",
+   "publicité"
+  ],
+  "gold_article": [
+   "51"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 53 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Principe",
+  "accept": [
+   "Principe",
+   "principe"
+  ],
+  "gold_article": [
+   "53"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 53 LPTh?",
+  "answer_type": "short",
+  "gold": "Principe",
+  "accept": [
+   "Principe",
+   "principe"
+  ],
+  "gold_article": [
+   "53"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 54 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Régime de l’autorisation",
+  "accept": [
+   "Régime de l’autorisation",
+   "régime de l’autorisation"
+  ],
+  "gold_article": [
+   "54"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 54 LPTh?",
+  "answer_type": "short",
+  "gold": "Régime de l’autorisation",
+  "accept": [
+   "Régime de l’autorisation",
+   "régime de l’autorisation"
+  ],
+  "gold_article": [
+   "54"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 58 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Surveillance officielle du marché",
+  "accept": [
+   "Surveillance officielle du marché",
+   "surveillance officielle du marché"
+  ],
+  "gold_article": [
+   "58"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 58 LPTh?",
+  "answer_type": "short",
+  "gold": "Surveillance officielle du marché",
+  "accept": [
+   "Surveillance officielle du marché",
+   "surveillance officielle du marché"
+  ],
+  "gold_article": [
+   "58"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 59 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Obligation de déclarer, système de notification et droit de déclarer",
+  "accept": [
+   "Obligation de déclarer, système de notification et droit de déclarer",
+   "obligation de déclarer, système de notification et droit de déclarer"
+  ],
+  "gold_article": [
+   "59"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 59 LPTh?",
+  "answer_type": "short",
+  "gold": "Obligation de déclarer, système de notification et droit de déclarer",
+  "accept": [
+   "Obligation de déclarer, système de notification et droit de déclarer",
+   "obligation de déclarer, système de notification et droit de déclarer"
+  ],
+  "gold_article": [
+   "59"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 60 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Compétence en matière d’inspections",
+  "accept": [
+   "Compétence en matière d’inspections",
+   "compétence en matière d’inspections"
+  ],
+  "gold_article": [
+   "60"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 60 LPTh?",
+  "answer_type": "short",
+  "gold": "Compétence en matière d’inspections",
+  "accept": [
+   "Compétence en matière d’inspections",
+   "compétence en matière d’inspections"
+  ],
+  "gold_article": [
+   "60"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 61 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Obligation de garder le secret",
+  "accept": [
+   "Obligation de garder le secret",
+   "obligation de garder le secret"
+  ],
+  "gold_article": [
+   "61"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 61 LPTh?",
+  "answer_type": "short",
+  "gold": "Obligation de garder le secret",
+  "accept": [
+   "Obligation de garder le secret",
+   "obligation de garder le secret"
+  ],
+  "gold_article": [
+   "61"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 62 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Confidentialité des données",
+  "accept": [
+   "Confidentialité des données",
+   "confidentialité des données"
+  ],
+  "gold_article": [
+   "62"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 62 LPTh?",
+  "answer_type": "short",
+  "gold": "Confidentialité des données",
+  "accept": [
+   "Confidentialité des données",
+   "confidentialité des données"
+  ],
+  "gold_article": [
+   "62"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 63 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Communication de données entre autorités d’exécution en Suisse",
+  "accept": [
+   "Communication de données entre autorités d’exécution en Suisse",
+   "communication de données entre autorités d’exécution en suisse"
+  ],
+  "gold_article": [
+   "63"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 63 LPTh?",
+  "answer_type": "short",
+  "gold": "Communication de données entre autorités d’exécution en Suisse",
+  "accept": [
+   "Communication de données entre autorités d’exécution en Suisse",
+   "communication de données entre autorités d’exécution en suisse"
+  ],
+  "gold_article": [
+   "63"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 66 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Généralités",
+  "accept": [
+   "Généralités",
+   "généralités"
+  ],
+  "gold_article": [
+   "66"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 66 LPTh?",
+  "answer_type": "short",
+  "gold": "Généralités",
+  "accept": [
+   "Généralités",
+   "généralités"
+  ],
+  "gold_article": [
+   "66"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 67 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Information du public",
+  "accept": [
+   "Information du public",
+   "information du public"
+  ],
+  "gold_article": [
+   "67"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 67 LPTh?",
+  "answer_type": "short",
+  "gold": "Information du public",
+  "accept": [
+   "Information du public",
+   "information du public"
+  ],
+  "gold_article": [
+   "67"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 69 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Tâches",
+  "accept": [
+   "Tâches",
+   "tâches"
+  ],
+  "gold_article": [
+   "69"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 69 LPTh?",
+  "answer_type": "short",
+  "gold": "Tâches",
+  "accept": [
+   "Tâches",
+   "tâches"
+  ],
+  "gold_article": [
+   "69"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 75 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Indemnités versées au conseil de l’institut et conditions d’engagement",
+  "accept": [
+   "Indemnités versées au conseil de l’institut et conditions d’engagement",
+   "indemnités versées au conseil de l’institut et conditions d’engagement"
+  ],
+  "gold_article": [
+   "75"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 75 LPTh?",
+  "answer_type": "short",
+  "gold": "Indemnités versées au conseil de l’institut et conditions d’engagement",
+  "accept": [
+   "Indemnités versées au conseil de l’institut et conditions d’engagement",
+   "indemnités versées au conseil de l’institut et conditions d’engagement"
+  ],
+  "gold_article": [
+   "75"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 81 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Exonération d’impôts",
+  "accept": [
+   "Exonération d’impôts",
+   "exonération d’impôts"
+  ],
+  "gold_article": [
+   "81"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 81 LPTh?",
+  "answer_type": "short",
+  "gold": "Exonération d’impôts",
+  "accept": [
+   "Exonération d’impôts",
+   "exonération d’impôts"
+  ],
+  "gold_article": [
+   "81"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 82 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Confédération",
+  "accept": [
+   "Confédération",
+   "confédération"
+  ],
+  "gold_article": [
+   "82"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 82 LPTh?",
+  "answer_type": "short",
+  "gold": "Confédération",
+  "accept": [
+   "Confédération",
+   "confédération"
+  ],
+  "gold_article": [
+   "82"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 83 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Cantons",
+  "accept": [
+   "Cantons",
+   "cantons"
+  ],
+  "gold_article": [
+   "83"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 83 LPTh?",
+  "answer_type": "short",
+  "gold": "Cantons",
+  "accept": [
+   "Cantons",
+   "cantons"
+  ],
+  "gold_article": [
+   "83"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 88 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Application d’autres dispositions pénales",
+  "accept": [
+   "Application d’autres dispositions pénales",
+   "application d’autres dispositions pénales"
+  ],
+  "gold_article": [
+   "88"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 88 LPTh?",
+  "answer_type": "short",
+  "gold": "Application d’autres dispositions pénales",
+  "accept": [
+   "Application d’autres dispositions pénales",
+   "application d’autres dispositions pénales"
+  ],
+  "gold_article": [
+   "88"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 92 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Droit transitoire concernant le personnel",
+  "accept": [
+   "Droit transitoire concernant le personnel",
+   "droit transitoire concernant le personnel"
+  ],
+  "gold_article": [
+   "92"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 92 LPTh?",
+  "answer_type": "short",
+  "gold": "Droit transitoire concernant le personnel",
+  "accept": [
+   "Droit transitoire concernant le personnel",
+   "droit transitoire concernant le personnel"
+  ],
+  "gold_article": [
+   "92"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 93 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Découvert auprès de la Caisse fédérale de pensions",
+  "accept": [
+   "Découvert auprès de la Caisse fédérale de pensions",
+   "découvert auprès de la caisse fédérale de pensions"
+  ],
+  "gold_article": [
+   "93"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 93 LPTh?",
+  "answer_type": "short",
+  "gold": "Découvert auprès de la Caisse fédérale de pensions",
+  "accept": [
+   "Découvert auprès de la Caisse fédérale de pensions",
+   "découvert auprès de la caisse fédérale de pensions"
+  ],
+  "gold_article": [
+   "93"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Quel objet est réglé par l'article 95 de la loi sur les produits thérapeutiques?",
+  "answer_type": "short",
+  "gold": "Dispositions transitoires",
+  "accept": [
+   "Dispositions transitoires",
+   "dispositions transitoires"
+  ],
+  "gold_article": [
+   "95"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "HMG",
+  "question": "Sous quel intitulé figure l'article 95 LPTh?",
+  "answer_type": "short",
+  "gold": "Dispositions transitoires",
+  "accept": [
+   "Dispositions transitoires",
+   "dispositions transitoires"
+  ],
+  "gold_article": [
+   "95"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ }
+]

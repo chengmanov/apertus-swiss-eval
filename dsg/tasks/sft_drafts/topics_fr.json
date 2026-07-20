@@ -1,0 +1,954 @@
+[
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 1 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "But",
+  "accept": [
+   "But",
+   "but"
+  ],
+  "gold_article": [
+   "1"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 1 LPD?",
+  "answer_type": "short",
+  "gold": "But",
+  "accept": [
+   "But",
+   "but"
+  ],
+  "gold_article": [
+   "1"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 2 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Champ d’application à raison de la personne et de la matière",
+  "accept": [
+   "Champ d’application à raison de la personne et de la matière",
+   "champ d’application à raison de la personne et de la matière"
+  ],
+  "gold_article": [
+   "2"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 2 LPD?",
+  "answer_type": "short",
+  "gold": "Champ d’application à raison de la personne et de la matière",
+  "accept": [
+   "Champ d’application à raison de la personne et de la matière",
+   "champ d’application à raison de la personne et de la matière"
+  ],
+  "gold_article": [
+   "2"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 3 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Champ d’application territorial",
+  "accept": [
+   "Champ d’application territorial",
+   "champ d’application territorial"
+  ],
+  "gold_article": [
+   "3"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 3 LPD?",
+  "answer_type": "short",
+  "gold": "Champ d’application territorial",
+  "accept": [
+   "Champ d’application territorial",
+   "champ d’application territorial"
+  ],
+  "gold_article": [
+   "3"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 8 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Sécurité des données",
+  "accept": [
+   "Sécurité des données",
+   "sécurité des données"
+  ],
+  "gold_article": [
+   "8"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 8 LPD?",
+  "answer_type": "short",
+  "gold": "Sécurité des données",
+  "accept": [
+   "Sécurité des données",
+   "sécurité des données"
+  ],
+  "gold_article": [
+   "8"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 13 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Certification",
+  "accept": [
+   "Certification",
+   "certification"
+  ],
+  "gold_article": [
+   "13"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 13 LPD?",
+  "answer_type": "short",
+  "gold": "Certification",
+  "accept": [
+   "Certification",
+   "certification"
+  ],
+  "gold_article": [
+   "13"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 15 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Obligations du représentant",
+  "accept": [
+   "Obligations du représentant",
+   "obligations du représentant"
+  ],
+  "gold_article": [
+   "15"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 15 LPD?",
+  "answer_type": "short",
+  "gold": "Obligations du représentant",
+  "accept": [
+   "Obligations du représentant",
+   "obligations du représentant"
+  ],
+  "gold_article": [
+   "15"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 18 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Publication de données personnelles sous forme électronique",
+  "accept": [
+   "Publication de données personnelles sous forme électronique",
+   "publication de données personnelles sous forme électronique"
+  ],
+  "gold_article": [
+   "18"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 18 LPD?",
+  "answer_type": "short",
+  "gold": "Publication de données personnelles sous forme électronique",
+  "accept": [
+   "Publication de données personnelles sous forme électronique",
+   "publication de données personnelles sous forme électronique"
+  ],
+  "gold_article": [
+   "18"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 26 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Restrictions au droit d’accès",
+  "accept": [
+   "Restrictions au droit d’accès",
+   "restrictions au droit d’accès"
+  ],
+  "gold_article": [
+   "26"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 26 LPD?",
+  "answer_type": "short",
+  "gold": "Restrictions au droit d’accès",
+  "accept": [
+   "Restrictions au droit d’accès",
+   "restrictions au droit d’accès"
+  ],
+  "gold_article": [
+   "26"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 27 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Restrictions au droit d’accès applicables aux médias",
+  "accept": [
+   "Restrictions au droit d’accès applicables aux médias",
+   "restrictions au droit d’accès applicables aux médias"
+  ],
+  "gold_article": [
+   "27"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 27 LPD?",
+  "answer_type": "short",
+  "gold": "Restrictions au droit d’accès applicables aux médias",
+  "accept": [
+   "Restrictions au droit d’accès applicables aux médias",
+   "restrictions au droit d’accès applicables aux médias"
+  ],
+  "gold_article": [
+   "27"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 29 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Restrictions du droit à la remise ou à la transmission des données personnelles",
+  "accept": [
+   "Restrictions du droit à la remise ou à la transmission des données personnelles",
+   "restrictions du droit à la remise ou à la transmission des données personnelles"
+  ],
+  "gold_article": [
+   "29"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 29 LPD?",
+  "answer_type": "short",
+  "gold": "Restrictions du droit à la remise ou à la transmission des données personnelles",
+  "accept": [
+   "Restrictions du droit à la remise ou à la transmission des données personnelles",
+   "restrictions du droit à la remise ou à la transmission des données personnelles"
+  ],
+  "gold_article": [
+   "29"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 30 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Atteintes à la personnalité",
+  "accept": [
+   "Atteintes à la personnalité",
+   "atteintes à la personnalité"
+  ],
+  "gold_article": [
+   "30"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 30 LPD?",
+  "answer_type": "short",
+  "gold": "Atteintes à la personnalité",
+  "accept": [
+   "Atteintes à la personnalité",
+   "atteintes à la personnalité"
+  ],
+  "gold_article": [
+   "30"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 33 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Contrôle et responsabilité en cas de traitements de données personnelles conjoints",
+  "accept": [
+   "Contrôle et responsabilité en cas de traitements de données personnelles conjoints",
+   "contrôle et responsabilité en cas de traitements de données personnelles conjoints"
+  ],
+  "gold_article": [
+   "33"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 33 LPD?",
+  "answer_type": "short",
+  "gold": "Contrôle et responsabilité en cas de traitements de données personnelles conjoints",
+  "accept": [
+   "Contrôle et responsabilité en cas de traitements de données personnelles conjoints",
+   "contrôle et responsabilité en cas de traitements de données personnelles conjoints"
+  ],
+  "gold_article": [
+   "33"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 35 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Traitement de données personnelles automatisé dans le&nbsp;cadre&nbsp;d’essais pilotes",
+  "accept": [
+   "Traitement de données personnelles automatisé dans le&nbsp;cadre&nbsp;d’essais pilotes",
+   "traitement de données personnelles automatisé dans le&nbsp;cadre&nbsp;d’essais pilotes"
+  ],
+  "gold_article": [
+   "35"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 35 LPD?",
+  "answer_type": "short",
+  "gold": "Traitement de données personnelles automatisé dans le&nbsp;cadre&nbsp;d’essais pilotes",
+  "accept": [
+   "Traitement de données personnelles automatisé dans le&nbsp;cadre&nbsp;d’essais pilotes",
+   "traitement de données personnelles automatisé dans le&nbsp;cadre&nbsp;d’essais pilotes"
+  ],
+  "gold_article": [
+   "35"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 36 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Communication de données personnelles",
+  "accept": [
+   "Communication de données personnelles",
+   "communication de données personnelles"
+  ],
+  "gold_article": [
+   "36"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 36 LPD?",
+  "answer_type": "short",
+  "gold": "Communication de données personnelles",
+  "accept": [
+   "Communication de données personnelles",
+   "communication de données personnelles"
+  ],
+  "gold_article": [
+   "36"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 37 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Opposition à la communication de données personnelles",
+  "accept": [
+   "Opposition à la communication de données personnelles",
+   "opposition à la communication de données personnelles"
+  ],
+  "gold_article": [
+   "37"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 37 LPD?",
+  "answer_type": "short",
+  "gold": "Opposition à la communication de données personnelles",
+  "accept": [
+   "Opposition à la communication de données personnelles",
+   "opposition à la communication de données personnelles"
+  ],
+  "gold_article": [
+   "37"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 38 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Proposition des documents aux Archives fédérales",
+  "accept": [
+   "Proposition des documents aux Archives fédérales",
+   "proposition des documents aux archives fédérales"
+  ],
+  "gold_article": [
+   "38"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 38 LPD?",
+  "answer_type": "short",
+  "gold": "Proposition des documents aux Archives fédérales",
+  "accept": [
+   "Proposition des documents aux Archives fédérales",
+   "proposition des documents aux archives fédérales"
+  ],
+  "gold_article": [
+   "38"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 39 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Traitements à des fins ne se rapportant pas à des personnes",
+  "accept": [
+   "Traitements à des fins ne se rapportant pas à des personnes",
+   "traitements à des fins ne se rapportant pas à des personnes"
+  ],
+  "gold_article": [
+   "39"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 39 LPD?",
+  "answer_type": "short",
+  "gold": "Traitements à des fins ne se rapportant pas à des personnes",
+  "accept": [
+   "Traitements à des fins ne se rapportant pas à des personnes",
+   "traitements à des fins ne se rapportant pas à des personnes"
+  ],
+  "gold_article": [
+   "39"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 40 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Activités de droit privé exercées par des organes fédéraux",
+  "accept": [
+   "Activités de droit privé exercées par des organes fédéraux",
+   "activités de droit privé exercées par des organes fédéraux"
+  ],
+  "gold_article": [
+   "40"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 40 LPD?",
+  "answer_type": "short",
+  "gold": "Activités de droit privé exercées par des organes fédéraux",
+  "accept": [
+   "Activités de droit privé exercées par des organes fédéraux",
+   "activités de droit privé exercées par des organes fédéraux"
+  ],
+  "gold_article": [
+   "40"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 41 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Prétentions et procédure",
+  "accept": [
+   "Prétentions et procédure",
+   "prétentions et procédure"
+  ],
+  "gold_article": [
+   "41"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 41 LPD?",
+  "answer_type": "short",
+  "gold": "Prétentions et procédure",
+  "accept": [
+   "Prétentions et procédure",
+   "prétentions et procédure"
+  ],
+  "gold_article": [
+   "41"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 50 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Pouvoirs",
+  "accept": [
+   "Pouvoirs",
+   "pouvoirs"
+  ],
+  "gold_article": [
+   "50"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 50 LPD?",
+  "answer_type": "short",
+  "gold": "Pouvoirs",
+  "accept": [
+   "Pouvoirs",
+   "pouvoirs"
+  ],
+  "gold_article": [
+   "50"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 52 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Procédure",
+  "accept": [
+   "Procédure",
+   "procédure"
+  ],
+  "gold_article": [
+   "52"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 52 LPD?",
+  "answer_type": "short",
+  "gold": "Procédure",
+  "accept": [
+   "Procédure",
+   "procédure"
+  ],
+  "gold_article": [
+   "52"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 53 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Coordination",
+  "accept": [
+   "Coordination",
+   "coordination"
+  ],
+  "gold_article": [
+   "53"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 53 LPD?",
+  "answer_type": "short",
+  "gold": "Coordination",
+  "accept": [
+   "Coordination",
+   "coordination"
+  ],
+  "gold_article": [
+   "53"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 54 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Assistance administrative en Suisse",
+  "accept": [
+   "Assistance administrative en Suisse",
+   "assistance administrative en suisse"
+  ],
+  "gold_article": [
+   "54"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 54 LPD?",
+  "answer_type": "short",
+  "gold": "Assistance administrative en Suisse",
+  "accept": [
+   "Assistance administrative en Suisse",
+   "assistance administrative en suisse"
+  ],
+  "gold_article": [
+   "54"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 55 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Assistance administrative avec des autorités étrangères",
+  "accept": [
+   "Assistance administrative avec des autorités étrangères",
+   "assistance administrative avec des autorités étrangères"
+  ],
+  "gold_article": [
+   "55"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 55 LPD?",
+  "answer_type": "short",
+  "gold": "Assistance administrative avec des autorités étrangères",
+  "accept": [
+   "Assistance administrative avec des autorités étrangères",
+   "assistance administrative avec des autorités étrangères"
+  ],
+  "gold_article": [
+   "55"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 56 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Registre",
+  "accept": [
+   "Registre",
+   "registre"
+  ],
+  "gold_article": [
+   "56"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 56 LPD?",
+  "answer_type": "short",
+  "gold": "Registre",
+  "accept": [
+   "Registre",
+   "registre"
+  ],
+  "gold_article": [
+   "56"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 64 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Infractions commises dans une entreprise",
+  "accept": [
+   "Infractions commises dans une entreprise",
+   "infractions commises dans une entreprise"
+  ],
+  "gold_article": [
+   "64"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 64 LPD?",
+  "answer_type": "short",
+  "gold": "Infractions commises dans une entreprise",
+  "accept": [
+   "Infractions commises dans une entreprise",
+   "infractions commises dans une entreprise"
+  ],
+  "gold_article": [
+   "64"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 68 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Abrogation et modification d’autres actes",
+  "accept": [
+   "Abrogation et modification d’autres actes",
+   "abrogation et modification d’autres actes"
+  ],
+  "gold_article": [
+   "68"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 68 LPD?",
+  "answer_type": "short",
+  "gold": "Abrogation et modification d’autres actes",
+  "accept": [
+   "Abrogation et modification d’autres actes",
+   "abrogation et modification d’autres actes"
+  ],
+  "gold_article": [
+   "68"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Quel objet est réglé par l'article 70 de la loi sur la protection des données?",
+  "answer_type": "short",
+  "gold": "Disposition transitoire concernant les procédures en cours",
+  "accept": [
+   "Disposition transitoire concernant les procédures en cours",
+   "disposition transitoire concernant les procédures en cours"
+  ],
+  "gold_article": [
+   "70"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "DSG",
+  "question": "Sous quel intitulé figure l'article 70 LPD?",
+  "answer_type": "short",
+  "gold": "Disposition transitoire concernant les procédures en cours",
+  "accept": [
+   "Disposition transitoire concernant les procédures en cours",
+   "disposition transitoire concernant les procédures en cours"
+  ],
+  "gold_article": [
+   "70"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ }
+]

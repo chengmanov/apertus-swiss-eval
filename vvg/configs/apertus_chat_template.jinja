@@ -1,0 +1,22 @@
+{#- Serving template matching how the model is trained/instruct-tuned.
+    Reproduces the Apertus tokenizer's chat format for plain system/user/
+    assistant turns (system block, a fixed developer block with tools/
+    deliberation disabled, then the turns, no inter-block newlines), but as a
+    minimal template llama.cpp's jinja engine can parse -- the full shipped
+    template's tool-calling section does not parse. BOS is added by llama.cpp,
+    so it is not emitted here. Verified to match tokenizer.apply_chat_template
+    output (minus BOS) for system+user turns. -#}
+{%- if messages[0]['role'] == 'system' -%}
+<|system_start|>{{ messages[0]['content'] }}<|system_end|>
+{%- set loop_messages = messages[1:] -%}
+{%- else -%}
+{%- set loop_messages = messages -%}
+{%- endif -%}
+<|developer_start|>Deliberation: disabled
+Tool Capabilities: disabled<|developer_end|>
+{%- for message in loop_messages -%}
+{%- if message['role'] == 'user' -%}<|user_start|>{{ message['content'] }}<|user_end|>
+{%- elif message['role'] == 'assistant' -%}<|assistant_start|>{{ message['content'] }}<|assistant_end|>
+{%- endif -%}
+{%- endfor -%}
+{%- if add_generation_prompt -%}<|assistant_start|>{%- endif -%}

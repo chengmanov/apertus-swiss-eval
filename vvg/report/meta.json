@@ -1,0 +1,26 @@
+{
+  "short": "VVG",
+  "abbr_fr": "LCA",
+  "law_full_de": "Bundesgesetz über den Versicherungsvertrag (Versicherungsvertragsgesetz, VVG)",
+  "law_full_en": "Insurance Contract Act (Versicherungsvertragsgesetz)",
+  "sr": "221.229.1",
+  "eli": "cc/24/719_735_717",
+  "consolidation": "2024-01-01",
+  "industry": "Insurance",
+  "industry_slug": "insurance",
+  "slug": "vvg-ablation",
+  "repo": "apertus-vvg-eval",
+  "domain_en": "Swiss insurance-contract law",
+  "domain_de": "Schweizer Versicherungsvertragsrecht",
+  "task_line": "answering questions about the Swiss Insurance Contract Act with a citation to the exact article it rests on",
+  "corpus_desc": "the consolidated Swiss Insurance Contract Act (VVG, SR 221.229.1), in force 2024-01-01, in German and French",
+  "n_articles": 85,
+  "citation_unit": "article number",
+  "why_citation": "A claims handler or broker asking \"how long is an applicant bound to their proposal?\" needs \"Art. 1 VVG — 14 days\", not a paragraph of confident prose. An assistant that answers correctly but cites the wrong article is scored as a failure, because in a coverage dispute it is one.",
+  "extra_context": "The VVG governs every insurance contract concluded in Switzerland — the day-to-day rulebook for insurers, brokers and corporate risk managers, from proposal and disclosure duties through claims to limitation periods. It is also the hardest of these tasks for a base model, which makes it the most honest test.",
+  "faq": [
+    ["Is this on our data?", "No — deliberately. It runs entirely on the public, pinned Fedlex text of the VVG so anyone can reproduce it. In a Pilot the identical method runs on your policies and correspondence, inside your environment, and the report stays yours."],
+    ["Why is the base model so weak here?", "Insurance-contract questions are nuanced and the base model's parametric answers are unreliable (answer accuracy stays low even with retrieval). That is exactly the case where the fine-tune's format discipline and citation gains matter most — and why we measure before we build."],
+    ["Is there an LLM judge?", "No LLM judge anywhere. The VVG numbers its articles; a correct citation is exactly checkable. Answer accuracy is string/number matching against a verified gold answer; citation is an exact article match. Every number is recomputed from frozen run records with 95% Wilson intervals."]
+  ]
+}

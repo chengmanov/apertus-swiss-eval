@@ -1,0 +1,342 @@
+[
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Quel objet est réglé par l'article 6 de la loi sur la sécurité des produits?",
+  "answer_type": "short",
+  "gold": "Normes techniques",
+  "accept": [
+   "Normes techniques",
+   "normes techniques"
+  ],
+  "gold_article": [
+   "6"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Sous quel intitulé figure l'article 6 LSPro?",
+  "answer_type": "short",
+  "gold": "Normes techniques",
+  "accept": [
+   "Normes techniques",
+   "normes techniques"
+  ],
+  "gold_article": [
+   "6"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Quel objet est réglé par l'article 7 de la loi sur la sécurité des produits?",
+  "answer_type": "short",
+  "gold": "Evaluation de la conformité",
+  "accept": [
+   "Evaluation de la conformité",
+   "evaluation de la conformité"
+  ],
+  "gold_article": [
+   "7"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Sous quel intitulé figure l'article 7 LSPro?",
+  "answer_type": "short",
+  "gold": "Evaluation de la conformité",
+  "accept": [
+   "Evaluation de la conformité",
+   "evaluation de la conformité"
+  ],
+  "gold_article": [
+   "7"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Quel objet est réglé par l'article 11 de la loi sur la sécurité des produits?",
+  "answer_type": "short",
+  "gold": "Obligation de collaborer et d’informer",
+  "accept": [
+   "Obligation de collaborer et d’informer",
+   "obligation de collaborer et d’informer"
+  ],
+  "gold_article": [
+   "11"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Sous quel intitulé figure l'article 11 LSPro?",
+  "answer_type": "short",
+  "gold": "Obligation de collaborer et d’informer",
+  "accept": [
+   "Obligation de collaborer et d’informer",
+   "obligation de collaborer et d’informer"
+  ],
+  "gold_article": [
+   "11"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Quel objet est réglé par l'article 12 de la loi sur la sécurité des produits?",
+  "answer_type": "short",
+  "gold": "Obligation de garder le secret",
+  "accept": [
+   "Obligation de garder le secret",
+   "obligation de garder le secret"
+  ],
+  "gold_article": [
+   "12"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Sous quel intitulé figure l'article 12 LSPro?",
+  "answer_type": "short",
+  "gold": "Obligation de garder le secret",
+  "accept": [
+   "Obligation de garder le secret",
+   "obligation de garder le secret"
+  ],
+  "gold_article": [
+   "12"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Quel objet est réglé par l'article 13 de la loi sur la sécurité des produits?",
+  "answer_type": "short",
+  "gold": "Protection des données et assistance administrative",
+  "accept": [
+   "Protection des données et assistance administrative",
+   "protection des données et assistance administrative"
+  ],
+  "gold_article": [
+   "13"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Sous quel intitulé figure l'article 13 LSPro?",
+  "answer_type": "short",
+  "gold": "Protection des données et assistance administrative",
+  "accept": [
+   "Protection des données et assistance administrative",
+   "protection des données et assistance administrative"
+  ],
+  "gold_article": [
+   "13"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Quel objet est réglé par l'article 14 de la loi sur la sécurité des produits?",
+  "answer_type": "short",
+  "gold": "Emoluments et financement de l’exécution",
+  "accept": [
+   "Emoluments et financement de l’exécution",
+   "emoluments et financement de l’exécution"
+  ],
+  "gold_article": [
+   "14"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Sous quel intitulé figure l'article 14 LSPro?",
+  "answer_type": "short",
+  "gold": "Emoluments et financement de l’exécution",
+  "accept": [
+   "Emoluments et financement de l’exécution",
+   "emoluments et financement de l’exécution"
+  ],
+  "gold_article": [
+   "14"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Quel objet est réglé par l'article 18 de la loi sur la sécurité des produits?",
+  "answer_type": "short",
+  "gold": "Enrichissement illégitime",
+  "accept": [
+   "Enrichissement illégitime",
+   "enrichissement illégitime"
+  ],
+  "gold_article": [
+   "18"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Sous quel intitulé figure l'article 18 LSPro?",
+  "answer_type": "short",
+  "gold": "Enrichissement illégitime",
+  "accept": [
+   "Enrichissement illégitime",
+   "enrichissement illégitime"
+  ],
+  "gold_article": [
+   "18"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Quel objet est réglé par l'article 20 de la loi sur la sécurité des produits?",
+  "answer_type": "short",
+  "gold": "Abrogation et modification du droit en vigueur",
+  "accept": [
+   "Abrogation et modification du droit en vigueur",
+   "abrogation et modification du droit en vigueur"
+  ],
+  "gold_article": [
+   "20"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Sous quel intitulé figure l'article 20 LSPro?",
+  "answer_type": "short",
+  "gold": "Abrogation et modification du droit en vigueur",
+  "accept": [
+   "Abrogation et modification du droit en vigueur",
+   "abrogation et modification du droit en vigueur"
+  ],
+  "gold_article": [
+   "20"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Quel objet est réglé par l'article 21 de la loi sur la sécurité des produits?",
+  "answer_type": "short",
+  "gold": "Dispositions transitoires",
+  "accept": [
+   "Dispositions transitoires",
+   "dispositions transitoires"
+  ],
+  "gold_article": [
+   "21"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Sous quel intitulé figure l'article 21 LSPro?",
+  "answer_type": "short",
+  "gold": "Dispositions transitoires",
+  "accept": [
+   "Dispositions transitoires",
+   "dispositions transitoires"
+  ],
+  "gold_article": [
+   "21"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Quel objet est réglé par l'article 22 de la loi sur la sécurité des produits?",
+  "answer_type": "short",
+  "gold": "Référendum et entrée en vigueur",
+  "accept": [
+   "Référendum et entrée en vigueur",
+   "référendum et entrée en vigueur"
+  ],
+  "gold_article": [
+   "22"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ },
+ {
+  "lang": "fr",
+  "law": "PrSG",
+  "question": "Sous quel intitulé figure l'article 22 LSPro?",
+  "answer_type": "short",
+  "gold": "Référendum et entrée en vigueur",
+  "accept": [
+   "Référendum et entrée en vigueur",
+   "référendum et entrée en vigueur"
+  ],
+  "gold_article": [
+   "22"
+  ],
+  "also_acceptable_article": [],
+  "topic": "topic-id",
+  "difficulty": "basic"
+ }
+]

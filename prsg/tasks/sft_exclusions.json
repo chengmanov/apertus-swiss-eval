@@ -1,0 +1,15 @@
+{
+  "description": "Articles cited as gold in the PRSG eval set; excluded from SFT.",
+  "articles": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "10",
+    "15",
+    "16",
+    "17",
+    "19"
+  ]
+}
