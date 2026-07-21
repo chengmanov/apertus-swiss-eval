@@ -127,3 +127,24 @@ data left the machines, which is the whole point.
 *This is a sample of the deliverable sysf.io produces in a Pilot: your task,
 your documents, this ablation — including the failure modes it catches — before
 you commit to production. [sysf.io](https://sysf.io)*
+
+
+---
+
+## Second iteration (v2)
+
+v2 changed **only the hyperparameters** (LoRA r=32 / 4 epochs vs r=16 / 3 epochs) on the *same* v1 SFT — a deliberate control: more capacity, identical data. FINMA and OR already had genuine human-verified Q&A in v1, so the data lever did not apply.
+
+**Arm D (fine-tuned + retrieval), v1 → v2** — same 172-item eval set, same deterministic scorer:
+
+| Metric | v1 | v2 | Δ |
+|--------|---:|---:|---:|
+| Answer + citation (production bar) | 52.3% | **51.7%** | -0.6 |
+| Answer correct | 70.3% | **71.5%** | +1.2 |
+| Citation correct | 62.2% | **61.0%** | -1.2 |
+| Emits required format | 70.9% | **73.8%** | +2.9 |
+
+Essentially **flat** (52.3% → 51.7%, n=172): more capacity on the same data bought nothing. The lever is the data, not the training budget.
+
+*Full method for the second iteration: [`../METHODOLOGY.md`](../METHODOLOGY.md). v2 run records are in `runs/` (`*-v2`).*
+

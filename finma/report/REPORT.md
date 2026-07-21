@@ -86,3 +86,24 @@ Corpus: 17 current FINMA circulars, SHA-256-pinned. Eval set: 183 items, every o
 ---
 
 *This is a sample of the deliverable sysf.io produces in a Pilot: your task, your documents, this ablation, before you commit to production. [sysf.io](https://sysf.io)*
+
+
+---
+
+## Second iteration (v2)
+
+v2 changed **only the hyperparameters** (LoRA r=32 / 4 epochs vs r=16 / 3 epochs) on the *same* v1 SFT — a deliberate control: more capacity, identical data. FINMA and OR already had genuine human-verified Q&A in v1, so the data lever did not apply.
+
+**Arm D (fine-tuned + retrieval), v1 → v2** — same 183-item eval set, same deterministic scorer:
+
+| Metric | v1 | v2 | Δ |
+|--------|---:|---:|---:|
+| Answer + citation (production bar) | 45.4% | **33.9%** | -11.5 |
+| Answer correct | 80.9% | **78.1%** | -2.8 |
+| Citation correct | 50.3% | **41.0%** | -9.3 |
+| Emits required format | 100.0% | **100.0%** | 0 |
+
+The production bar **fell** 45.4% → 33.9% (n=183). More capacity on the same data **over-fit** — direct evidence that the v2 gains elsewhere come from the *data*, not the training budget.
+
+*Full method for the second iteration: [`../METHODOLOGY.md`](../METHODOLOGY.md). v2 run records are in `runs/` (`*-v2`).*
+

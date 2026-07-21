@@ -109,3 +109,24 @@ FINMA circulars (financial services), the Code of Obligations (legal), the DSG
 (data protection), the Therapeutic Products Act (healthcare), the Insurance
 Contract Act (insurance) and the Product Safety Act (manufacturing). Built by
 [sysf.io](https://sysf.io) — systems, fine-tuned.*
+
+
+---
+
+## Second iteration (v2)
+
+v2 replaced the topic/section-identification SFT with **genuine grounded factual Q&A** (Claude-authored per non-eval article, then deterministically grounding-filtered), growing the training set from 426 to 726 examples, and retrained at LoRA r=32 / 4 epochs. Retrieval held at k=5 (unchanged), so the delta is attributable to training.
+
+**Arm D (fine-tuned + retrieval), v1 → v2** — same 22-item eval set, same deterministic scorer:
+
+| Metric | v1 | v2 | Δ |
+|--------|---:|---:|---:|
+| Answer + citation (production bar) | 68.2% | **59.1%** | -9.1 |
+| Answer correct | 81.8% | **86.4%** | +4.6 |
+| Citation correct | 72.7% | **63.6%** | -9.1 |
+| Emits required format | 100.0% | **86.4%** | -13.6 |
+
+The production bar **fell** 68.2% → 59.1%: answer accuracy rose (81.8% → 86.4%) but citation slipped (72.7% → 63.6%). On an already-strong, small (n=22) set the r=32/4-epoch change appears to have over-fit citation. Reported as-is.
+
+*Full method for the second iteration: [`../METHODOLOGY.md`](../METHODOLOGY.md). v2 run records are in `runs/` (`*-v2`).*
+
