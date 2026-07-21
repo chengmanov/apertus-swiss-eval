@@ -166,6 +166,9 @@ sharply by domain: +17 for DSG, ~+5 for HMG/PrSG, **0 for VVG**. The
 evaluation-first reading: measurement tells you, per task, whether the fine-tune
 earns its cost — sometimes retrieval + constrained decoding already clears the
 bar. (4) A capacity control (r=16/3ep vs the v2 r=32/4ep on the same richer data)
-confirms the v2 refinement: on data-rich DSG the higher capacity was better
-(r32 82.6 > r16 73.9), so capacity should scale with data rather than be maxed
+refines the v2 story: on data-rich DSG the higher capacity was better
+(r32 82.6 > r16 73.9), but on HMG capacity was neutral (r16 = r32 = 59.1) and
+neither recovered HMG's v1 score (68.2) — on HMG the *richer data itself* traded
+citation for answer and lowered the production bar. So training capacity is a
+second-order knob behind the data, worth tuning per domain rather than maxed
 blindly. v3 run records are in each `*/report/runs/` (`*-grammar`, `*-v3*`).
