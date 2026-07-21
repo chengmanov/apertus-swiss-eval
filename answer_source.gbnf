@@ -1,0 +1,3 @@
+root ::= "ANSWER: " ans "\n" "SOURCE: " src
+ans  ::= [^\n]{1,200}
+src  ::= [^\n]{1,80}

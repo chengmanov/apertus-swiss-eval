@@ -137,3 +137,35 @@ no-imatrix toolchain as the base arm.
 
 Per-domain v1→v2 tables (with the exact SFT counts and CIs) are in each
 `*/report/REPORT.md`; the headline comparison is in the top-level `README.md`.
+
+## v3 (third iteration) — separate format from knowledge
+
+A fine-tuned model helps for two distinct reasons: it learns to **emit the
+required two-line format**, and it learns the **domain facts**. v3 separates them
+with **grammar-constrained decoding** — a GBNF grammar (`answer_source.gbnf`)
+that forces every response to the `ANSWER: … / SOURCE: …` contract, applied at
+inference via the server's `grammar` request field. No training.
+
+That single change lifts the **base + retrieval** system dramatically, and the
+production-bar gap to the fine-tuned system decomposes cleanly:
+
+| Domain (n) | base+RAG | +grammar | fine-tuned+RAG | format (free) | learned |
+|-----------|:--:|:--:|:--:|:--:|:--:|
+| DSG (46)  | 37.0 | 65.2 | 82.6 | +28.3 | +17.4 |
+| HMG (22)  | 22.7 | 63.6 | 68.2 | +40.9 | +4.5 |
+| VVG (16)  | 18.8 | 56.2 | 56.2 | +37.5 | +0.0 |
+| PrSG (20) | 45.0 | 70.0 | 75.0 | +25.0 | +5.0 |
+
+**Findings.** (1) Constrained decoding is a large, free lever (+25 to +41): the
+base model often *knew* the answer and *had* the gold unit in context but was
+dropping the structured citation. (2) On the fine-tuned model, grammar is
+redundant — it already emits the format (DSG fine-tuned+grammar = 80.4 ≈ 82.6
+without). (3) Fine-tuning's *genuine* marginal value — the "learned" column — is
+therefore much smaller than the naive base-vs-fine-tuned gap implied, and varies
+sharply by domain: +17 for DSG, ~+5 for HMG/PrSG, **0 for VVG**. The
+evaluation-first reading: measurement tells you, per task, whether the fine-tune
+earns its cost — sometimes retrieval + constrained decoding already clears the
+bar. (4) A capacity control (r=16/3ep vs the v2 r=32/4ep on the same richer data)
+confirms the v2 refinement: on data-rich DSG the higher capacity was better
+(r32 82.6 > r16 73.9), so capacity should scale with data rather than be maxed
+blindly. v3 run records are in each `*/report/runs/` (`*-grammar`, `*-v3*`).
