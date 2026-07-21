@@ -172,3 +172,41 @@ neither recovered HMG's v1 score (68.2) — on HMG the *richer data itself* trad
 citation for answer and lowered the production bar. So training capacity is a
 second-order knob behind the data, worth tuning per domain rather than maxed
 blindly. v3 run records are in each `*/report/runs/` (`*-grammar`, `*-v3*`).
+
+## v4 (fourth iteration) — diagnose, then decompose
+
+Before touching the model again: **is the bottleneck retrieval or the model?** A
+one-script diagnostic (`recall_diag.py`) measures retrieval recall@k — how often
+the gold unit is in the top-k:
+
+| Domain | recall@1 | recall@5 | recall@20 |
+|--------|:--:|:--:|:--:|
+| DSG | 89.1 | 95.7 | 100.0 |
+| HMG | 72.7 | 90.9 | 95.5 |
+| VVG | 100.0 | 100.0 | 100.0 |
+| PrSG | 100.0 | 100.0 | 100.0 |
+| OR  | 73.3 | 89.5 | 94.8 |
+
+recall@5 is 90–100% everywhere, so **retrieval is not the bottleneck** — yet the
+models cite far below that (VVG cited 68.8% with the gold at rank 1 *every time*).
+The model was mis-selecting among retrieved distractors. Fix, no training:
+**constrain the citation to the top-1 retrieved article** (`constrained_cite.py`,
+a per-item grammar). Citation then equals recall@1:
+
+| Domain | best prior (both) | + top-1 citation | Δ |
+|--------|:--:|:--:|:--:|
+| VVG  | 56.2 | **93.8** | +37.6 |
+| OR   | 52.3 | 58.1 | +5.8 |
+| DSG  | 82.6 | 87.0 | +4.4 |
+| PrSG | 75.0 | 75.0 | 0 (answer-limited) |
+| HMG  | 68.2 | 68.2 | 0 (recall@1-limited) |
+
+**The score decomposes into three independent levers**, each with a clear owner:
+*format* = grammar decoding (free, 100%); *citation* = retrieval recall@1 once you
+cite the top hit (free); *answer* = the model and its data (what's left). Each
+domain then names its own next fix: VVG/PrSG are answer-limited (bigger model /
+better data); HMG/OR are recall@1-limited (a re-ranker — the gold is retrieved,
+just not ranked first, since recall@20 ≈ 95%). Headline: **VVG went from 18.8%
+(v1 base+retrieval) to 93.8% almost entirely through system design, not training.**
+Diagnostic + constrained-citation scripts are `recall_diag.py` / `constrained_cite.py`;
+run records are the `D_*-cc.jsonl` files in each `*/report/runs/`.

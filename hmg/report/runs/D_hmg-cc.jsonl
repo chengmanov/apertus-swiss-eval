@@ -1,0 +1,22 @@
+{"id": "hmg-v1-0001", "raw": "ANSWER: ja\nSOURCE: HMG Art. 9", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["9"]}
+{"id": "hmg-v1-0002", "raw": "ANSWER: ja\nSOURCE: HMG Art. 9", "answer_correct": false, "citation_correct": true, "retrieved_articles": ["9"]}
+{"id": "hmg-v1-0003", "raw": "ANSWER: ja\nSOURCE: HMG Art. 54", "answer_correct": false, "citation_correct": false, "retrieved_articles": ["54"]}
+{"id": "hmg-v1-0004", "raw": "ANSWER: fünf Jahre\nSOURCE: HMG Art. 16", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["16"]}
+{"id": "hmg-v1-0005", "raw": "ANSWER: unbefristet\nSOURCE: HMG Art. 16", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["16"]}
+{"id": "hmg-v1-0006", "raw": "ANSWER: ja\nSOURCE: HMG Art. 14", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["14"]}
+{"id": "hmg-v1-0007", "raw": "ANSWER: quatre\nSOURCE: LPTh Art. 4", "answer_correct": false, "citation_correct": false, "retrieved_articles": ["4"]}
+{"id": "hmg-v1-0008", "raw": "ANSWER: oui\nSOURCE: LPTh Art. 20", "answer_correct": true, "citation_correct": false, "retrieved_articles": ["20"]}
+{"id": "hmg-v1-0009", "raw": "ANSWER: Institut suisse des produits thérapeutiques\nSOURCE: LPTh Art. 16", "answer_correct": true, "citation_correct": false, "retrieved_articles": ["16"]}
+{"id": "hmg-v1-0010", "raw": "ANSWER: oui\nSOURCE: LPTh Art. 4", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["4"]}
+{"id": "hmg-v1-0011", "raw": "ANSWER: ja\nSOURCE: HMG Art. 35", "answer_correct": true, "citation_correct": false, "retrieved_articles": ["35"]}
+{"id": "hmg-v1-0012", "raw": "ANSWER: das Institut\nSOURCE: HMG Art. 68", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["68"]}
+{"id": "hmg-v1-0013", "raw": "ANSWER: 3000\nSOURCE: HMG Art. 9", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["9"]}
+{"id": "hmg-v1-0014", "raw": "ANSWER: drei Jahre\nSOURCE: HMG Art. 86", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["86"]}
+{"id": "hmg-v1-0015", "raw": "ANSWER: bis zu zehn Jahren\nSOURCE: HMG Art. 86", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["86"]}
+{"id": "hmg-v1-0016", "raw": "ANSWER: 50 000 Franken\nSOURCE: HMG Art. 87", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["87"]}
+{"id": "hmg-v1-0017", "raw": "ANSWER: 20 000 Franken\nSOURCE: HMG Art. 87", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["87"]}
+{"id": "hmg-v1-0018", "raw": "ANSWER: fünf\nSOURCE: HMG Art. 87", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["87"]}
+{"id": "hmg-v1-0019", "raw": "ANSWER: trois ans\nSOURCE: LPTh Art. 86", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["86"]}
+{"id": "hmg-v1-0020", "raw": "ANSWER: 50 000 francs\nSOURCE: LPTh Art. 87", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["87"]}
+{"id": "hmg-v1-0021", "raw": "ANSWER: cinq\nSOURCE: LPTh Art. 87", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["87"]}
+{"id": "hmg-v1-0022", "raw": "ANSWER: cinq\nSOURCE: LPTh Art. 14", "answer_correct": true, "citation_correct": false, "retrieved_articles": ["14"]}

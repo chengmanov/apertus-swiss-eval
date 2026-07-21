@@ -1,0 +1,20 @@
+{"id": "prsg-v1-0001", "raw": "ANSWER: ja\nSOURCE: PrSG Art. 1", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["1"]}
+{"id": "prsg-v1-0002", "raw": "ANSWER: ja\nSOURCE: PrSG Art. 1", "answer_correct": false, "citation_correct": true, "retrieved_articles": ["1"]}
+{"id": "prsg-v1-0003", "raw": "ANSWER: ja\nSOURCE: PrSG Art. 3", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["3"]}
+{"id": "prsg-v1-0004", "raw": "ANSWER: ja\nSOURCE: PrSG Art. 3", "answer_correct": false, "citation_correct": true, "retrieved_articles": ["3"]}
+{"id": "prsg-v1-0005", "raw": "ANSWER: Der Bundesrat\nSOURCE: PrSG Art. 4", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["4"]}
+{"id": "prsg-v1-0006", "raw": "ANSWER: ja\nSOURCE: PrSG Art. 5", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["5"]}
+{"id": "prsg-v1-0007", "raw": "ANSWER: ja\nSOURCE: PrSG Art. 10", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["10"]}
+{"id": "prsg-v1-0008", "raw": "ANSWER: bis zu einem Jahr\nSOURCE: PrSG Art. 16", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["16"]}
+{"id": "prsg-v1-0009", "raw": "ANSWER: ja/nein\nSOURCE: PrSG Art. 16", "answer_correct": false, "citation_correct": true, "retrieved_articles": ["16"]}
+{"id": "prsg-v1-0010", "raw": "ANSWER: 40 000 Franken\nSOURCE: PrSG Art. 17", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["17"]}
+{"id": "prsg-v1-0011", "raw": "ANSWER: ja\nSOURCE: PrSG Art. 17", "answer_correct": false, "citation_correct": true, "retrieved_articles": ["17"]}
+{"id": "prsg-v1-0012", "raw": "ANSWER: die Kantone\nSOURCE: PrSG Art. 19", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["19"]}
+{"id": "prsg-v1-0013", "raw": "ANSWER: ja\nSOURCE: PrSG Art. 2", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["2"]}
+{"id": "prsg-v1-0014", "raw": "ANSWER: dem Bundesverwaltungsgericht\nSOURCE: PrSG Art. 15", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["15"]}
+{"id": "prsg-v1-0015", "raw": "ANSWER: oui\nSOURCE: LSPro Art. 1", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["1"]}
+{"id": "prsg-v1-0016", "raw": "ANSWER: Le Conseil fédéral\nSOURCE: LSPro Art. 4", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["4"]}
+{"id": "prsg-v1-0017", "raw": "ANSWER: 40 000 francs\nSOURCE: LSPro Art. 17", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["17"]}
+{"id": "prsg-v1-0018", "raw": "ANSWER: 20 000 francs\nSOURCE: LSPro Art. 17", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["17"]}
+{"id": "prsg-v1-0019", "raw": "ANSWER: aux cantons\nSOURCE: LSPro Art. 19", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["19"]}
+{"id": "prsg-v1-0020", "raw": "ANSWER: oui\nSOURCE: LSPro Art. 3", "answer_correct": false, "citation_correct": true, "retrieved_articles": ["3"]}

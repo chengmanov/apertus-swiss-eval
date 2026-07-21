@@ -1,0 +1,16 @@
+{"id": "vvg-v1-0001", "raw": "ANSWER: 14\nSOURCE: VVG Art. 1", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["1"]}
+{"id": "vvg-v1-0002", "raw": "ANSWER: vier Wochen\nSOURCE: VVG Art. 1", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["1"]}
+{"id": "vvg-v1-0003", "raw": "ANSWER: ja\nSOURCE: VVG Art. 3", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["3"]}
+{"id": "vvg-v1-0004", "raw": "ANSWER: ja\nSOURCE: VVG Art. 4", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["4"]}
+{"id": "vvg-v1-0005", "raw": "ANSWER: vier\nSOURCE: VVG Art. 6", "answer_correct": false, "citation_correct": true, "retrieved_articles": ["6"]}
+{"id": "vvg-v1-0006", "raw": "ANSWER: nein\nSOURCE: VVG Art. 40", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["40"]}
+{"id": "vvg-v1-0007", "raw": "ANSWER: fünf Jahre\nSOURCE: VVG Art. 46", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["46"]}
+{"id": "vvg-v1-0008", "raw": "ANSWER: zwei Jahre\nSOURCE: VVG Art. 46", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["46"]}
+{"id": "vvg-v1-0009", "raw": "ANSWER: nein\nSOURCE: VVG Art. 46", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["46"]}
+{"id": "vvg-v1-0010", "raw": "ANSWER: ja\nSOURCE: VVG Art. 2", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["2"]}
+{"id": "vvg-v1-0011", "raw": "ANSWER: quatre semaines\nSOURCE: LCA Art. 1", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["1"]}
+{"id": "vvg-v1-0012", "raw": "ANSWER: oui\nSOURCE: LCA Art. 3", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["3"]}
+{"id": "vvg-v1-0013", "raw": "ANSWER: quatre semaines\nSOURCE: LCA Art. 6", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["6"]}
+{"id": "vvg-v1-0014", "raw": "ANSWER: cinq ans\nSOURCE: LCA Art. 46", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["46"]}
+{"id": "vvg-v1-0015", "raw": "ANSWER: deux ans\nSOURCE: LCA Art. 46", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["46"]}
+{"id": "vvg-v1-0016", "raw": "ANSWER: non\nSOURCE: LCA Art. 40", "answer_correct": true, "citation_correct": true, "retrieved_articles": ["40"]}
